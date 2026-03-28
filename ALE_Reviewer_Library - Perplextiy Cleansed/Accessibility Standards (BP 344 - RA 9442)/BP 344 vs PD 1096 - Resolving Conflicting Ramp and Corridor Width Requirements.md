@@ -1,56 +1,85 @@
-# BP 344 vs PD 1096: Resolving Conflicting Ramp and Corridor Width Requirements
+# BP 344 vs PD 1096: Resolving Ramp & Corridor Width Conflicts
 
-_An Immersive ALE Review Module_
+_Immersive ALE Review Module – Master Accessibility for Board Exams_
 
-## The Real-World Scenario (The Hook)
+## Hook: Real-World Dilemma
 
-Imagine you are designing an accessible building entrance that must comply with both Batas Pambansa Bilang 344 (BP 344) and Presidential Decree No. 1096 (PD 1096). You need to ensure the ramp width meets BP 344’s accessibility standards while also adhering to PD 1096’s general building and egress requirements.
+Picture this: You're the architect on a high-stakes project. The client demands full compliance for a public building entrance. BP 344 mandates **1200 mm** clear ramp width for PWD accessibility. But PD 1096's egress rules say corridors need only **1.10 m** for >10 occupants. Which wins? _BP 344 for accessible ramps_. Nail this conflict resolution to ace exam questions.
 
-## Core Concepts
+**Key Takeaway**: Accessibility trumps general egress—**BP 344 controls ramps for PWDs**.
 
-- **Accessible Ramps**: Minimum clear widths, gradient limits, intermediate landings, and level areas at top and bottom.
-- **Corridors**: Required minimum widths for exits serving more than ten occupants.
-- **Conflict Resolution**: When provisions differ, BP 344 generally takes precedence for accessibility‑related elements (e.g., ramp width, slope, landings) over PD 1096’s general egress rules.
+## Core Memory Anchors (Chunked for Retention)
 
-## The Hard Data (Cheat Sheet)
+Use this **3-part framework** to memorize:
 
-| Regulation                     | Requirement                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BP 344 (Appendix A, Section 5) | Accessible ramps must have a minimum clear width of **1200 mm**.<br>Gradient not steeper than **1:20**; special cases allow up to **1:15** with specific length and rise limits (see Table A.1.1).<br>Intermediate landings required for ramps longer than **9.0 m** (not 10.50 m), each at least **1500 mm** in length.<br>Level areas of **at least 1800 mm** at both ends of ramps. |
-| PD 1096 (RIRR 2004, egress)    | Corridor width for required exits serving more than ten occupants: **minimum 1.10 meters**.<br>Ramps for entrances/exits: maximum slope generally not steeper than **1:10** for general‑purpose ramps (not limited to accessible use).                                                                                                                                                 |
+1. **BP 344 (Accessibility King)**: Special law for PWDs → stricter, detailed specs.
+2. **PD 1096 (General Rules)**: Building code → baselines for all egress.
+3. **Precedence Rule**: BP 344 overrides PD 1096 on accessibility elements (ramps, slopes, landings).
 
-## Step-by-Step Computation (If Applicable)
+## Data Cheat Sheet (Visual Comparison)
 
-Not applicable in this context.
+| Feature                   | BP 344 (PWD Ramps)                                    | PD 1096 (General Egress)             |
+| ------------------------- | ----------------------------------------------------- | ------------------------------------ |
+| **Clear Width**           | **1200 mm** minimum                                   | **1.10 m** (corridors >10 occupants) |
+| **Max Slope**             | **1:20** preferred; **1:15** max (Table A.1.1 limits) | **1:10** general ramps               |
+| **Intermediate Landings** | Every **9.0 m** run; **1500 mm** long                 | Not specified for accessibility      |
+| **Level Areas (Ends)**    | **1800 mm** minimum at top/bottom                     | Not specified                        |
+| **Applies To**            | Accessible ramps/entrances                            | All exits/corridors                  |
 
-## ALE Exam Traps and Common Mistakes
+_Pro Tip_: Visualize **12-20-15-9-15-18** → 1200mm, 1:20, 1:15, 9m, 1500mm, 1800mm.
 
-- **Trap**: Assuming PD 1096’s general corridor‑width rule (1.10 m) overrides BP 344’s **1200 mm** accessible‑ramp requirement; the stricter accessibility standard controls for the ramp.
-- **Mistake**: Stating an intermediate landing length of **1800 mm** or a ramp length‑trigger of **10.50 m**; the 2024 IRR of BP 344 uses **1500 mm** landings and a **9.0 m** run length for ramps with 1:15 slope.
-- **Mistake**: Confusing PD 1096’s 1:10 slope for general ramps with BP 344’s 1:20 (preferred) and 1:15 (maximum) for accessible ramps; BP 344’s steeper 1:15 is allowed only under its own limits.
+## Mnemonics for Instant Recall
 
-## Active Recall Question
+- **BP 344 Ramp Mantra**: "Twelve Gentle Steps" (1200mm, 1:20 gentle slope).
+- **PD Trap**: "1-10 Weak" (1.10m too narrow for PWD ramps).
+- **Conflict**: "Accessibility Always Advances" (BP > PD).
 
-Which regulation takes precedence when designing an accessible building entrance that must comply with both Batas Pambansa Bilang 344 (BP 344) and Presidential Decree No. 1096 (PD 1096)?
+## Exam Traps – Dodge These!
 
-A) BP 344, because it specifies wider ramps and more detailed accessibility requirements.  
-B) PD 1096, as it sets the general building and egress regulations.
+- ❌ **Trap 1**: Using PD's **1.10 m** for accessible ramps → **Fail**. Must be **1200 mm** (BP 344).
+- ❌ **Trap 2**: Wrong landings → **1500 mm** (not 1800 mm); trigger at **9.0 m** run (not 10.5 m).
+- ❌ **Trap 3**: Mixing slopes → BP: 1:20/1:15; PD: 1:10 (general only).
+- ✅ **Win**: Quote "BP 344 precedence for accessibility elements."
 
-> **Answer:** A) BP 344 takes precedence for accessibility‑related elements such as ramp width, slope, and landing details.
->
-> **Explanation:** BP 344 is a special‑purpose law on accessibility, and its stricter, more detailed requirements for accessible ramps (e.g., 1200 mm width, 1:20/1:15 slope tiers, 9.0 m run, 1500 mm landings, 1800 mm level areas) apply where PD 1096 is more general. PD 1096 still governs basic egress and corridor‑width minimums, but BP 344 controls the design of accessible ramps.
+**Behavioral Hack**: Read traps aloud 3x → reinforces "what NOT to do" via negative reinforcement.
 
-## Verified Sources
+## Active Recall Drill (Test Yourself Now)
 
-1. **2024 Amended IRR of BP 344 – Appendix A, Section 5 (Ramps and Inclined Walkways)** (Official Gazette: amended_irr_bp_344_official_gazette_2.pdf)
-   - Specifies ramp width, gradient, intermediate landings, and level areas at top and bottom.
-2. **PD 1096 – Revised IRR (Architecture Board Edition)** (PD 1096 RIRR 2004 – Revised IRR (Architecture Board).pdf)
-   - Gives minimum corridor widths for required exits and general ramp slope limits in Part 4 (Egress and Fire Safety).
+**Q1**: Minimum clear width for PWD ramp?  
+**A**: \_\_\_\_\_ mm (BP 344). _Cover & recall: 1200_
 
-## Additional Details
+**Q2**: Slope steeper than 1:20 allowed?  
+**A**: Yes/No, under what? _Cover: Yes, 1:15 max per Table A.1.1_
 
-- **PD 1096 – Ramps and sidewalks**: Ramps for general entrances/exits must not exceed a slope of **1:10**, and sidewalks should be level where possible, with steeper slopes up to **1:8** only in special cases for driveways or site constraints.
-- **BP 344 – Ramps**: For persons with disabilities, the 2024 IRR requires a **1200 mm clear width**, **1:20** as preferred gradient, and **1:15** only as a maximum under Table A.1.1, with level areas of **at least 1800 mm** at both ends and intermediate landings of **1500 mm** once the run exceeds **9.0 m**.
-- **PD 1096 – Corridors**: Corridors serving more than ten occupants must be at least **1.10 m wide**, and this width must not be reduced by more than 200 mm (or half the required width, whichever is less) by handrails or doors when fully opened.
-- **Conflict‑resolution principle**: When BP 344 and PD 1096 conflict on accessibility‑specific items (e.g., ramp width, gradient, landing lengths), adopt the **BP 344 value**; for non‑accessibility items (e.g., general egress, corridor width for non‑PWD use), apply PD 1096.
-- **Driveway‑to‑sidewalk ramps**: PD 1096 allows connecting driveways to sidewalks with ramps up to **1:8** slope, but if the ramp is also used by pedestrians with disabilities, the designer must then apply BP 344’s stricter 1200 mm width and 1:20/1:15 limits in addition to the 1:8 limit.
+**Q3**: Precedence for accessible ramp design?  
+**A**: BP 344 over PD 1096 because \_\_\_\_\_. _Cover: Special accessibility law_
+
+**Full MCQ**:
+When BP 344 (1200 mm ramp) conflicts with PD 1096 (1.10 m corridor):  
+A) PD 1096 wins (general code)  
+B) **BP 344 wins (accessibility)**  
+C) Average them (1.15 m)  
+**Answer: B** – Special law prevails.
+
+_Spaced Repetition Tip_: Quiz again in 10 min, 1 hr, 1 day.
+
+## Step-by-Step Conflict Resolution
+
+1. **Identify Element**: Ramp for PWD entrance? → Accessibility → BP 344.
+2. **Check BP 344**: 1200 mm width, 1:20 slope, 1500 mm landings @9m.
+3. **Cross-Check PD**: 1.10 m too narrow → Overridden.
+4. **Document**: "BP 344 Appendix A, Sec 5 governs accessible ramps."
+5. **Bonus**: General corridors (non-PWD) still need PD's 1.10 m min.
+
+## Edge Cases (High-Yield Details)
+
+- **Driveway Ramps**: PD allows 1:8, but PWD use → BP 344 width/slope + 1:8 limit.
+- **Corridor Reduction**: PD allows ≤200 mm intrusion by handrails/doors.
+- **2024 IRR Update**: Confirmed 9.0 m trigger, 1500 mm landings.
+
+## Sources (Exam-Proof Citations)
+
+1. **BP 344 2024 IRR**: Appendix A, Sec 5 (Official Gazette PDF).
+2. **PD 1096 RIRR 2004**: Part 4 Egress (Architecture Board Ed.).
+
+**Retention Booster**: Teach this to a study buddy → Explains = Masters.

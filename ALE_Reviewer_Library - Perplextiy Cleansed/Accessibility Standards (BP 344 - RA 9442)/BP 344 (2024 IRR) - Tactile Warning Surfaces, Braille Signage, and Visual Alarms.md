@@ -1,67 +1,82 @@
-# BP 344 (2024 IRR): Tactile Warning Surfaces, Braille Signage, and Visual Alarms
+# BP 344 (2024 IRR): Tactile Warnings, Braille Signs & Visual Alarms
 
-_An Immersive ALE Review Module_
+_An Immersive ALE Review Module – Sensory Accessibility Mastery_
 
-## The Real-World Scenario (The Hook)
+## 🚀 Real-World Hook (Triple Threat Visualization)
 
-Imagine designing a public building that must comply with the latest accessibility standards. You need to ensure proper tactile warning surfaces at stairways/elevators, Braille signage on walls/doors, and visual alarms in accessible toilets meet BP 344 (2024 IRR) specs.
+Blind architect inspects your building: **Can't feel stair edge? Can't read toilet sign? Misses fire alarm?** Lawsuit + exam fail. **Mnemonic: "T-B-V" – Tactile warnings, Braille signs, Visual alarms.** Picture **three blind men** testing your design!
 
-## Core Concepts
+## 🎯 Core Framework (T-B-V Chunking System)
 
-- **Signage Requirements**: Min 30% luminance contrast; tactile + Grade 2 Braille.
-- **Tactile Warning Surfaces**: Truncated domes (600x600 mm) for hazards/directions.
-- **Braille Signage**: Raised characters (15-50 mm height) + Braille at 1500 mm AFF max.
-- **Visual Alarms**: Max 2 Hz flash rate; synchronized in common areas.
+**T**actile: **600 mm deep** domes warn hazards
+**B**raille: **1500 mm center**, 30% contrast signs  
+**V**isual: **2 Hz max** synchronized strobes
 
-## The Hard Data (Cheat Sheet)
+_Chant 3x: "T600-B1500-V2: Tactile 600mm deep, Braille 1500 center, Visual 2 flashes."_
 
-| Requirement                  | Details                                               |
-| ---------------------------- | ----------------------------------------------------- |
-| Signage Luminance Contrast   | Min 30% from background [App. A, Sec. 4.1, p. 9]      |
-| Wall/Door Sign Center Height | Max 1500 mm AFF [App. A, Sec. 4.2, p. 10]             |
-| Accessible Toilet Sign Size  | Min 200x200 mm w/ ISA [App. A, Sec. 6.1, p. 26]       |
-| Tactile Warning Depth        | 600 mm from hazard edge [App. A, Sec. 3.3, p. 15]     |
-| Tactile Dome Contrast        | Min 50% w/ adjacent floor [App. A, Sec. 3.3, p. 15]   |
-| Raised Character Height      | 15-50 mm (stroke 2-6 mm) [App. A, Sec. 4.3, p. 31]    |
-| Visual Alarm Flash Rate      | Max 2 flashes/sec (NFPA 72) [App. A, Sec. 9.2, p. 28] |
+## 📊 Sensory Specs Cheat Sheet (Story Anchors)
 
-## Step-by-Step Computation (If Applicable)
+**Visualize**: Tactile "bumps ahead," Braille "readable fingers," Visual "flashing lifeline."
 
-**Signage contrast check:**
+| Feature              | Exact Spec                  | Sensory Story (Exam Hook)     | Source    |
+| -------------------- | --------------------------- | ----------------------------- | --------- |
+| **Tactile Warning**  | **600 mm deep** from hazard | "Blind feet feel 60cm early"  | App A 3.3 |
+| **Tactile Contrast** | **50%** vs floor            | "Bumps POP against tile"      | App A 3.3 |
+| **Sign Center**      | **≤1500 mm AFF**            | "Wheelchair fingertips reach" | App A 4.2 |
+| **Sign Contrast**    | **≥30%** luminance          | "White letters glow on dark"  | App A 4.1 |
+| **Raised Letters**   | **15-50 mm** height         | "Fingers trace BIG letters"   | App A 4.3 |
+| **Braille Grade**    | **Grade 2** mandatory       | "Contracted = fast reading"   | App A 4.3 |
+| **Visual Alarm**     | **≤2 Hz** flash             | "No seizure trigger"          | App A 9.2 |
 
-1. Measure L_bg (background luminance)
-2. Measure L_sign (sign luminance)
-3. Contrast = |(L_sign - L_bg)/(L_sign + L_bg)| × 100 ≥ 30%
+**Power Triad**: **600-1500-2**. _Cover. Recite. Check._
 
-## ALE Exam Traps and Common Mistakes
+## 🧮 Contrast Math Drill (Exam Calculator Ready)
 
-- **Sign height wrong**: 1500 mm to **center** (not bottom); 900-1500 mm range.
-- **Tactile placement**: 600 mm **depth** from stair edge (not width); 300 mm setback for directional.
-- **Braille specs**: Raised letters 15-50 mm (not 1.75-50 mm); Grade 2 Braille mandatory.
+**Q: Sign luminance check**
 
-## Active Recall Question
+- Background: 50 cd/m²
+- Sign: 75 cd/m²
+- Formula: **|(75-50)/(75+50)| × 100 = 16.7%** ❌ **FAIL** (<30%)
 
-What is the minimum luminance contrast required between signage and its surroundings according to BP 344 (2024 IRR)?
+**Pro Tip**: Always test **sign vs background**, not sign vs wall!
 
-A. 10%  
-B. 20%  
-C. 30%  
-D. 50%
+## ⚠️ Triple Threat Traps (Sensory Self-Drill)
 
-> **Answer:** C. 30%
->
-> **Explanation:** 2024 IRR App. A, Sec. 4.1 (p. 9): Signage requires minimum 30% luminance contrast with surroundings.
+**Circle the KILLERS** (avoidance conditioning):
 
-## Verified Sources
+1. ❌ **Tactile = 300 mm wide** (NO – **600 mm DEEP** from edge!)
+2. ❌ **Sign bottom 1500 mm** (NO – **CENTER** 1500 mm AFF!)
+3. ❌ **10% contrast OK** (NO – **30% MINIMUM** luminance!)
+4. ❌ **Visual 5 Hz** (NO – **MAX 2 Hz** synchronized!)
 
-1. **2024 Amended IRR of BP 344 – Appendix A** (Official Gazette, pp. 9-31)
-   - Sec. 3: Tactile Surfaces
-   - Sec. 4: Signage/Braille
-   - Sec. 6/9: Toilet Alarms
-2. NFPA 72 (referenced for visual strobes)
+_Write wrong answers 3x. Cross out. Retention locked._
 
-## Additional Details
+## 🧠 Active Recall Assault (Primacy/Recency/Triple Test)
 
-- **Tactile Types**: Warning (truncated domes, 600 mm deep); directional (linear bars); slip-resistant [Sec. 3.3, p. 15].
-- **Pictograms**: Min 150 mm height + border; accompany Braille [Sec. 4.3, p. 31].
-- **Visual Alarms**: 110-177 cd intensity; sync'd to prevent seizures; all accessible areas [Sec. 9.2, p. 28].
+**Q1**: Tactile warning depth? **600 mm** [3.3]
+
+**Q2**: Sign mounting height? **1500 mm CENTER** [4.2]
+
+**Q3**: Visual alarm max? **2 Hz** [9.2]
+
+**Q4**: Sign contrast? **A)10% B)20% C)30% D)50%** **Ans: C** [4.1]
+
+_Score: 4/4? Elite. <4? Redo in 10 min (spacing effect)._
+
+## 🔗 Exam Sneak Attacks (Don't Get Caught)
+
+| Detail                  | Spec                         | Why Tested     |
+| ----------------------- | ---------------------------- | -------------- |
+| **Toilet Sign**         | **200×200 mm** ISA           | Room ID trap   |
+| **Pictograms**          | **150 mm min** + Braille     | Visual aid req |
+| **Directional Tactile** | **300 mm setback** from path | Guidance trap  |
+
+## 📚 Unbreakable Sources
+
+**2024 IRR BP 344 Appendix A**:
+
+- **Sec 3**: Tactile (p.15)
+- **Sec 4**: Signs/Braille (p.9-10,31)
+- **Sec 9**: Alarms (p.28)
+
+_FINAL CHALLENGE: Explain T-B-V to imaginary client in 90 seconds. Stumble? Restart module._

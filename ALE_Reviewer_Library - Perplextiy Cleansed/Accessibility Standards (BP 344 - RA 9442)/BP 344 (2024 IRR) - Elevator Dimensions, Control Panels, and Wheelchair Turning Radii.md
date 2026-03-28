@@ -1,59 +1,68 @@
-# BP 344 (2024 IRR): Elevator Dimensions, Control Panels, and Wheelchair Turning Radii
+# BP 344 (2024 IRR): Elevator Dimensions, Controls & Turning Spaces
 
-_An Immersive ALE Review Module_
+_An Immersive ALE Review Module – Board Exam Retention Machine_
 
-## The Real-World Scenario (The Hook)
+## 🚀 Real-World Hook (Anchor It Visually)
 
-Imagine you are designing a new public building that must comply with the latest Philippine Accessibility Law. You need to ensure that elevators meet all BP 344 requirements for dimensions, control panels, and wheelchair accessibility.
+You're the architect for a 10-story mall. A wheelchair user calls the elevator—does it fit? Can they reach buttons? Turn in the lobby? **BP 344 failure = lawsuit + exam zero.** **Mnemonic: "E-D-C-T" – Elevator size, Door width, Controls, Turning space.** Visualize a 1.1x1.4m "wheelchair taxi" zooming up!
 
-## Core Concepts
+## 🎯 Core Concepts (E-D-C-T Framework – Chunk & Repeat)
 
-- **Accessible Elevator Location**: Within 30 m from accessible entrance/egress.
-- **Elevator Dimensions**: Minimum clear floor area 1100 mm x 1400 mm; door clear width 900 mm.
-- **Control Panels**: Raised/tactile buttons (min 20 mm diameter) with Grade 2 Braille; max height 1200 mm AFF.
-- **Wheelchair Turning Radii**: Clear 1800 mm diameter turning space in lobbies/corridors.
+- **E (Elevator)**: 1100x1400 mm car – tight but turnable.
+- **D (Door)**: 900 mm clear – no squeezing.
+- **C (Controls)**: 20 mm buttons + Braille, 900-1200 mm reach.
+- **T (Turning)**: 1800x1800 mm lobby circle.
 
-## The Hard Data (Cheat Sheet)
+_Chant: "E-D-C-T: Elevator 11x14, Door 90cm, Controls 20mm Braille, Turn 1.8m square."_
 
-| Requirement               | Dimension                                                               |
-| ------------------------- | ----------------------------------------------------------------------- |
-| Elevator Car Clear Floor  | 1100 mm width x 1400 mm depth [IRR App. A, Sec. 8.1, p. 54]             |
-| Door Clear Opening Width  | Minimum 900 mm [IRR App. A, Sec. 8.2, p. 54]                            |
-| Control Panel Button Size | Minimum 20 mm diameter, tactile + Braille [IRR App. A, Sec. 8.4, p. 55] |
-| Control Panel Max Height  | 1200 mm AFF (lowest button 900 mm AFF) [IRR App. A, Sec. 8.4, p. 55]    |
-| Lobby Turning Space       | 1800 mm x 1800 mm clear [IRR App. A, Sec. 7.3, p. 53]                   |
+## 📊 Data Cheat Sheet (Visualize + "Why" for Retention)
 
-## Step-by-Step Computation (If Applicable)
+Picture the elevator as a "wheelchair phone booth" – memorize via story!
 
-Not applicable for this topic.
+| Feature            | Exact Spec                                     | Why Critical (Exam Hook)        | Source    |
+| ------------------ | ---------------------------------------------- | ------------------------------- | --------- |
+| **Car Floor**      | 1100 mm W x 1400 mm D _clear_                  | Wheelchair + attendant fit/turn | App A 8.1 |
+| **Door Width**     | **900 mm clear opening**                       | No door-jam disasters           | App A 8.2 |
+| **Buttons**        | ≥**20 mm diameter**; tactile + Grade 2 Braille | Blind/low-vision users          | App A 8.4 |
+| **Panel Height**   | Lowest 900 mm; highest **1200 mm AFF**         | Seated reach (no stretching)    | App A 8.4 |
+| **Lobby Turning**  | **1800x1800 mm clear**                         | Pre/post elevator maneuvers     | App A 7.3 |
+| **Emergency Comm** | 900-1200 mm AFF; ≤750 mm reach                 | Trapped? Help now               | App A 8.5 |
 
-## ALE Exam Traps and Common Mistakes
+**Power Numbers**: 1100-1400 car, 900 door, 20 buttons, 1200 panel, 1800 turn. _Cover table. Recite._
 
-- **Misinterpreting Dimensions**: Clear floor 1100x1400 mm (not overall car size); door 900 mm clear width.
-- **Omitting Control Panel Details**: Buttons ≥20 mm diameter + Braille; panel 900-1200 mm AFF reach range.
-- **Confusing Turning Spaces**: 1800 mm applies to lobby/corridor turnabouts, not inside car.
+## ⚠️ Exam Traps (Active Avoidance Drills)
 
-## Active Recall Question
+**Self-Test These Pitfalls Now** (Behavioral conditioning):
 
-What is the required minimum diameter of an accessible elevator control panel button according to BP 344 (2024 IRR)?
+1. **Trap**: "Car size 1100x1400 overall." ❌ **Clear floor space only** – walls protrude!
+2. **Trap**: Door "900 mm wide." ❌ **Clear opening** (frame eats space).
+3. **Trap**: Buttons "15 mm." ❌ **20 mm min + Braille** (feel & read).
+4. **Trap**: Turning "inside elevator." ❌ **Lobby/corridor** (car too small!).
+5. **Trap**: Panel "1000 mm max." ❌ **1200 mm top, 900 bottom range**.
 
-A. At least 15 mm  
-B. At least 20 mm  
-C. No specific requirement
+_Quiz Yourself: Name 2 traps. Explain why wrong. Retention locked._
 
-> **Answer:** B. At least 20 mm
->
-> **Explanation:** 2024 IRR Appendix A, Section 8.4 (p. 55) requires tactile control buttons minimum 20 mm diameter with Grade 2 Braille.
+## 🧠 Active Recall Battery (Spacing + Testing Effect)
 
-## Verified Sources
+**Q1**: Elevator car clear floor? (A) 1000x1300 (B) **1100x1400 mm** (C) 1200x1500  
+**Ans: B** [8.1]
 
-1. **2024 Amended IRR of BP 344 – Appendix A** (Official Gazette, pp. 54-57)
-   - Section 8: Elevators and Platform Lifts
-   - Section 7: Corridors and Lobby Spaces
-2. DPWH/NBCC Reference: BP 344 Revised Implementing Rules (2024)
+**Q2**: Button diameter? **≥20 mm** + Braille! [8.4]
 
-## Additional Details
+**Q3**: Lobby turn space? **1800x1800 mm** (not car). [7.3]
 
-- **Emergency Communication**: Two-way system at 900-1200 mm AFF, max 750 mm horizontal reach from centerline; audible/visual [IRR App. A, Sec. 8.5, p. 56].
-- **Corridor Turning Spaces**: 1800x1800 mm at ≤12 m intervals; within 3.5 m of dead-ends [IRR App. A, Sec. 7.3, p. 53].
-- **Status Note**: No DPWH MC 03 s. 2025 exists as of March 2026; 2024 IRR remains current standard.
+**Q4**: Panel reach? 900-**1200 mm AFF**.
+
+_Write answers. Check in 5 min, then tomorrow (spaced repetition gold)._
+
+## 🔗 Extras (Corridors – Exam Sneak Attack)
+
+- Turns every ≤12 m; ≤3.5 m from dead-ends: 1800x1800 mm. [7.3]
+- **Current**: 2024 IRR rules (no 2025 MC as of Mar 2026).
+
+## 📚 Ironclad Sources
+
+- **2024 IRR BP 344 App A, pp.54-57**: Sec 7 (corridors), 8 (elevators).
+- DPWH/NBCC BP 344 (2024).
+
+_Teach this to a peer – mastery guaranteed (Protégé Effect). You're exam-ready!_

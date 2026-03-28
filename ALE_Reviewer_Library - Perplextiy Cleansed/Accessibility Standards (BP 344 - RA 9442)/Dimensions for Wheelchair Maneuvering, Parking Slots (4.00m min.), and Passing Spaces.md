@@ -1,61 +1,87 @@
-# Dimensions for Wheelchair Maneuvering, Parking Slots (Minimum), and Passing Spaces
+# Wheelchair Dimensions: Parking, Passing & Turning Spaces
 
-_An Immersive ALE Review Module_
+_Immersive ALE Review Module – Lock in BP 344 Specs for Board Exam Victory_
 
-## The Real-World Scenario (The Hook)
+## Hook: High-Stakes Parking Puzzle
 
-Imagine designing a new commercial building that must accommodate wheelchair users effectively. You need to ensure there are sufficient accessible parking slots with proper dimensions, clear walkways between parked cars, and adequate passing and turning spaces in corridors.
+You're site-supervising a mall retrofit. PWDs complain: parking slots too narrow, can't transfer. Walkways blocked, corridors too tight for passing. BP 344 saves the day—but only if you know **3700x5000 mm slots + 1500 mm aisle**. Get this wrong? Failed inspection. Master it now.
 
-## Core Concepts
+**Core Rule**: BP 344 dictates **all PWD spaces**—PD 1096 is general baseline.
 
-- **Accessible Parking Slots**: Minimum clear dimensions to allow ingress/egress and transfer for persons with disabilities.
-- **Walkway Between Parked Cars**: Continuous clear path alongside parked vehicles, accessible to wheelchairs.
-- **Passing and Turning Spaces**: Minimum clear widths and turning circles in corridors, alcoves, and other circulation areas.
+## Memory Framework (3-Chunk System)
 
-## The Hard Data (Cheat Sheet)
+**Chunk 1: Parking** → 37-50-15 (3700w x 5000l mm + 1500 aisle)  
+**Chunk 2: Paths** → 12 single (walkway), 15 pass (corridor)  
+**Chunk 3: Turns** → 15 circle (1500 mm dia.)
 
-| Feature                        | Dimension                                                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Accessible Parking Slot Width  | Minimum **3700 mm** clear width (excluding access aisle) [BP 344 2024 IRR, Appendix A, Section 7.1]                                                     |
-| Accessible Parking Slot Length | Minimum **5000 mm** along the vehicle length [BP 344 2024 IRR, Appendix A, Section 7.1]                                                                 |
-| Accessible Access Aisle        | Minimum **1500 mm** adjacent to the parking slot, shared with adjacent bay if between two accessible spaces [BP 344 2024 IRR, Appendix A, Section 7.1]  |
-| Walkway Between Parked Cars    | Clear width of **at least 1200 mm** [BP 344 2024 IRR, Appendix A, Section 7.1]                                                                          |
-| Corridor Passing Space Minimum | Clear width of **1500 mm** in corridors where two wheelchairs may pass [BP 344 2024 IRR, Appendix A, Section 7.2]                                       |
-| Wheelchair Turning Circle      | Minimum **1500 mm diameter** turning space (or 1500 mm x 1500 mm square with 600 mm min. shoulder clearance) [BP 344 2024 IRR, Appendix A, Section 7.3] |
+_Visualize_: "37 Big Slot, 15 Path & Pivot."
 
-## Step-by-Step Computation (If Applicable)
+## Ultimate Cheat Sheet (Side-by-Side Visual)
 
-Not applicable for this topic.
+| Space Type           | **BP 344 Min Dimension**                | Mnemonic | Exam Use Case              |
+| -------------------- | --------------------------------------- | -------- | -------------------------- |
+| **Parking Slot**     | **3700 mm W x 5000 mm L** (clear)       | 37-50    | PWD-designated bays        |
+| **Access Aisle**     | **1500 mm** adjacent (shared possible)  | 15-Aisle | Vehicle door transfer      |
+| **Walkway (Cars)**   | **1200 mm** clear between vehicles      | 12-Walk  | Parking lot circulation    |
+| **Corridor Passing** | **1500 mm** (2 wheelchairs pass)        | 15-Pass  | Dead-end corridors/alcoves |
+| **Turning Circle**   | **1500 mm diameter** (or 1500x1500 sq.) | 15-Turn  | U-turns, door approaches   |
 
-## ALE Exam Traps and Common Mistakes
+**Pro Tip**: Wheelchair = 0.6-0.75m W x 1.1-1.8m L → These dims give 2x clearance.
 
-- **Parking Slot Dimensions**: Confusing PD 1096 RIRR’s general parking dimensions with BP 344’s stricter accessible‑parking requirements; BP 344 prevails for PWD‑designated slots (3700 mm width is the minimum, not 4000 mm).
-- **Walkway Widths**: Mixing up 1200 mm walkways between parked cars with 1500 mm corridor passing spaces; 1200 mm is the minimum single‑user circulation width, while 1500 mm is the minimum for two‑wheelchair passing.
-- **Turnaround Space**: Using 1800 mm or 2000 mm as “standard” without checking that BP 344 requires only **1500 mm diameter** turning circle or equivalent.
+## Recall Mnemonics (Burn to Memory)
 
-## Active Recall Question
+- **Parking**: "37 Fifty, 15 Free" (3700x5000 +1500 aisle).
+- **Paths**: "12 Solo, 15 Duo" (1200 single, 1500 passing).
+- **Turn**: "1.5 Meter Magic Circle."
+- **Precedence**: "BP Beats PD for PWD."
 
-What are the minimum dimensions for an accessible parking slot according to BP 344?
+## Exam Traps – Avoid Auto-Fail!
 
-A) Width: 3700 mm, Length: 5000 mm  
-B) Width: 4000 mm, Length: 5000 mm  
-C) Width: 4200 mm, Length: 6000 mm
+- ❌ **Trap 1**: 4000 mm slot width → **3700 mm only** (not 4200/5000).
+- ❌ **Trap 2**: Confuse 1200 mm walkway w/ 1500 mm passing → 1200 = between cars; 1500 = corridors.
+- ❌ **Trap 3**: 1800/2000 mm turning → **1500 mm dia.** exact.
+- ❌ **Trap 4**: PD 1096 general dims → BP 344 overrides for PWD.
+  ✅ **Win Move**: Always cite "BP 344 App A Sec 7.1-7.3."
 
-**Answer:** A) Width: 3700 mm, Length: 5000 mm
+_Hack_: Whisper traps 3x → Negative conditioning sticks.
 
-**Explanation:** BP 344 (2024 IRR, Appendix A, Section 7.1) requires accessible parking slots to be at least **3700 mm wide** and **5000 mm long** clear of the access aisle, with a **1500 mm** adjacent access aisle; the total stall package is often larger when including the access aisle, but the slot itself is 3700 mm × 5000 mm minimum.
+## Active Recall Blitz (Cover & Quiz NOW)
 
-## Verified Sources
+**Q1**: PWD parking slot? **\_\_\_ W x \_\_\_ L mm**  
+_Ans: 3700 x 5000_
 
-1. **2024 Amended IRR of BP 344 – Appendix A** (Official Gazette: amended_irr_bp_344_official_gazette_2.pdf)
-   - Section 7.1: Accessible Parking
-   - Section 7.2–7.3: Circulation and Turning Spaces
-2. **PD 1096 RIRR 2004 – Revised IRR (Architecture Board / DPWH)** (Page 280)
-   - General parking and circulation dimensions (non‑accessibility specific; BP 344 applies where PWD‑designated spaces are required).
+**Q2**: Min for 2 wheelchairs to pass? **\_\_\_ mm**  
+_Ans: 1500_
 
-## Additional Details
+**Q3**: Turning space dia.? **\_\_\_ mm**  
+_Ans: 1500_
 
-- **Wheelchair Maneuvering**: PD 1096 RIRR cites typical wheelchair length 1.10–1.80 m and width 0.60–0.75 m, which supports BP 344’s requirement of a **1500 mm diameter** turning circle for planning maneuvering spaces.
-- **Parking Slots**: Accessible parking slots must be located closest to the accessible entrance, with the access aisle sloping ≤1:48 and unobstructed for at least 1500 mm x 1500 mm (transfer space) near the vehicle door [BP 344 2024 IRR, Section 7.1].
-- **Passing Spaces**: In corridors where two wheelchairs may pass, the clear width must be at least **1500 mm**; where only one‑way circulation is expected, **1200 mm** is the minimum clear width [BP 344 2024 IRR, Section 7.2].
-- **Note on PD 1096 vs BP 344**: PD 1096 provides general parking and circulation rules, but BP 344’s accessibility standards (3700 mm wide, 5000 mm long, 1500 mm access aisle, 1500 mm corridor passing width, 1500 mm turning circle) take precedence wherever PWD‑designated spaces and circulation are required.
+**MCQ Crusher**:
+Accessible parking slot per BP 344:  
+A) 3700x5000 mm +1500 aisle **(Correct)**  
+B) 4000x5000 mm  
+C) 3700x6000 mm  
+**Why A?** Clear slot dims exclude aisle (Sec 7.1).
+
+_Repeat in 10 min → Spaced mastery._
+
+## Quick Resolution Steps
+
+1. **ID Space**: Parking? Walkway? Corridor? Turn area?
+2. **Grab BP 344**: Sec 7.1 (parking), 7.2 (paths), 7.3 (turns).
+3. **Override PD**: Accessibility > general.
+4. **Add-Ons**: Slots nearest entrance; aisle ≤1:48 slope; 1500x1500 transfer zone.
+5. **Cite**: "2024 IRR Appendix A."
+
+## High-Yield Extras (Curveballs)
+
+- **Shared Aisle**: Between 2 slots → 1500 mm total (750 mm each? NO—full 1500 shared).
+- **Location**: Closest to accessible entrance.
+- **PD Context**: General parking smaller; wheelchair dims justify BP extras.
+
+## Ironclad Sources
+
+1. **BP 344 2024 IRR**: App A Sec 7.1-7.3 (Official Gazette).
+2. **PD 1096 RIRR 2004**: P280 general (overridden by BP).
+
+**Ultimate Retention**: Sketch the table from memory → Done.
