@@ -1,63 +1,101 @@
 # North American Indigenous Architecture: Pueblos, Longhouses, and Tipis
-*An Immersive ALE Review Module*
 
-## The Real-World Scenario (The Hook)
-[This scenario is missing from the given data.]
+_An Immersive ALE Review Module for Board Exams – Optimized for Retention via Mnemonics, Dual Coding, Spaced Repetition, and Error Correction_
 
-## Core Concepts
-- **North American Indigenous Architecture**: Not covered in provided sources.
-- **Pueblos**: Missing from local DB and web search sources.
-- **Longhouses**: Missing from local DB and web search sources.
-- **Tipis**: Missing from local DB and web search sources.
+[image:11]
 
-## The Hard Data (Cheat Sheet)
-[The table is missing as there are no dimensions, clearances, slopes or other quantitative rules provided in the context.]
+Taos Pueblo showcases multi-story adobe structures, continuously inhabited and a UNESCO site representing Ancestral Puebloan ingenuity.[web:5]
 
-## Step-by-Step Computation
-[No computation required since there's no numerical data related to North American Indigenous Architecture.]
+## Real-World Hook (PH Connection)
 
-## ALE Exam Traps and Common Mistakes
-Since the topic of North American Indigenous Architecture is not covered by Philippine laws or IRRs, it would be a mistake to apply local building codes from PD 1096 RIRR 2004 directly.
+Picture a flood-resilient community center in Tondo: Draw from Pueblos' thermal mass, Longhouses' communal layout, and Tipis' ventilation for heat, crowding, and typhoons. This equips you to analyze vernacular logic for board exams – no code specifics, pure design principles!
 
-## Active Recall Question
-Which of these indigenous architectural styles are mentioned in the context provided for this review module?
+**Sticks because**: PH scenarios + chant "P-L-T powers PH resilience!"
 
-A) Pueblos  
-B) Longhouses  
-C) Tipis  
+## Core Concepts (P-L-T Mnemonic – Chant 3x)
 
-**Answer:** None
+**P-L-T**: **P**ueblos, **L**onghouses, **T**ipis. PH ties: Mass for heat, communal for density, vents for humidity.
 
-The provided context does not contain any information about North American Indigenous Architecture: Pueblos, Longhouses, and Tipis.
+- **Pueblos (Ancestral Puebloans)**: Multi-story adobe/stone complexes (AD 700-1500+, e.g., Taos, Mesa Verde, Chaco Canyon). Sun-dried adobe bricks (clay/sand/straw), stone bases; small windows, flat roofs, kivas/plazas.[web:1][web:5][web:6]
+- **Longhouses (Iroquois/Haudenosaunee)**: Elongated timber halls (pre-contact to historic, e.g., 80ft x 18ft x 18ft avg., up to 330ft long). Posts/poles + bark slabs; central aisle with multiple hearths for families.[web:2][web:7]
+- **Tipis (Plains tribes, e.g., Lakota)**: Portable cones (post-1700s horse era). 14-20 lodgepole pine/red cedar poles + buffalo hides/canvas; smoke flaps, central hearth.[web:3][web:8]
+
+**Fact-Check**: Verified cultures/materials; no modern code ties – principles only.[web:1][web:2][web:3]
+
+**Sketch Now** (dual code):
+Pueblo: [stacked boxes, tiny windows]
+Longhouse: [long rectangle, fires inside]
+Tipi: [cone poles + flaps]
+
+## Data Cheat Sheet (Quiz Right Column First)
+
+| Type           | Materials/Size                          | Key Features                            | Climate Logic (PH Useful)                            |
+| -------------- | --------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
+| **Pueblos**    | Adobe/stone; multi-story                | Small windows, flat roofs, plazas/kivas | Thermal mass, compact, courtyard vent [web:1][web:5] |
+| **Longhouses** | Timber posts/poles + bark; 20-100m long | Central hearths, family compartments    | Communal heat, flexible frame [web:2][web:7]         |
+| **Tipis**      | Poles (14-20) + hides/canvas; 4-6m high | Smoke flaps, low profile                | Wind-resistant, adjustable vent [web:3][web:8]       |
+
+**Hack**: Cover logic, recite. Space: today, tomorrow, week.
+
+[image:13]
+
+Mesa Verde cliff dwellings highlight Pueblo multi-story stone/adobe builds into alcoves for protection.[web:13]
+
+## Memory Palace (Tondo Village Walk)
+
+**Flood-Prone Path** (your mental stroll):
+
+1. **Pueblo Block**: Stacked adobe towers, cool plazas shade crowds.
+2. **Longhouse Hall**: Endless bark tunnel, fires warm families.
+3. **Tipi Circle**: Hide cones flap smoke, pack quick for floods.
+
+**Daily Walk**: Narrate 5 min (motor-visual boost).
+
+## Exam Traps (Write/Cross/Fix Drill)
+
+- **Trap 1**: "Codes approve Pueblos." **Fix**: No mentions – principles only (thermal/vent).[web:5]
+- **Trap 2**: Longhouses unlimited size. **Fix**: Avg 80x18ft, up to 330ft; structural limits apply.[web:2]
+- **Trap 3**: Tipis permanent. **Fix**: Portable, temp; wind/vent smart.[web:3]
+- **Trap 4**: Uniform indigenous. **Fix**: Regional (SW arid, NE forest, Plains windy).[web:1][web:4]
+
+**Act**: Wrong answer Trap 1, cross, fix.
+
+## Active Recall Drill (Cold Aloud!)
+
+**Q1**: P-L-T?  
+**A**: Pueblos, Longhouses, Tipis.
+
+**Q2**: Pueblo features?  
+**A**: Adobe multi-story, small windows, thermal mass.[web:1]
+
+**Q3**: Longhouse layout?  
+**A**: Long aisle, multiple hearths.[web:2]
+
+**Q4**: Tipi vents?  
+**A**: Smoke flaps, base openings.[web:3]
+
+_4/4? Ace. Retest misses spaced._
+
+## Design Framework (5-Step Chain)
+
+1. **ID P-L-T**: Culture/form.
+2. **Materials/Features**: List 3.
+3. **Logic**: Climate response.
+4. **PH Link**: E.g., Pueblo mass for heat.
+5. **Hybrid**: Tipi vents + Longhouse communal for evac center.
+
+**PH Example**: Tondo Center – Pueblo-style mass walls, Longhouse linear hall, Tipi flaps for airflow.
 
 ## Verified Sources
-1. PD 1096 RIRR 2004 - Revised IRR (DPWH Official).pdf
 
-## Additional Details
+- UNESCO: Taos Pueblo (whc.unesco.org/en/list/492).[web:5]
+- Ancestral Puebloans: Wikipedia/NPS (AD 700+ adobe/stone).[web:1][web:6][web:10]
+- Longhouses: Historical specs (80-330ft).[web:2][web:7]
+- Tipis: Plains construction (poles/hides).[web:3][web:8]
 
-### North American Indigenous Architecture: Pueblos, Longhouses, and Tipis
+**Hack**: Sketch P-L-T + label.
 
-#### The Real-World Scenario (The Hook)
-Imagine a scenario where you're planning to build an eco-friendly community center that respects traditional architectural styles. You decide to incorporate elements from various indigenous cultures around the world. One of your goals is to include designs inspired by North American Indigenous Architecture, specifically focusing on Pueblos, Longhouses, and Tipis.
+## 60-Second Blitz
 
-#### Core Concepts
-- **Pueblos**: Multi-story adobe buildings constructed by Native Americans in the Southwestern United States.
-  - **Materials Used**: Adobe bricks made from clay mixed with straw or other organic materials.
-  - **Design Features**: Flat roofs, small windows to minimize heat gain, and communal living spaces.
-
-- **Longhouses**: Large wooden structures used primarily by indigenous peoples of northeastern North America.
-  - **Construction Materials**: Wood logs for the frame, bark or woven mats for roofing.
-  - **Layout**: Long rectangular shape with multiple hearths along its length, serving as a central gathering place.
-
-- **Tipis**: Conical tents traditionally used by nomadic tribes in the Great Plains of North America.
-  - **Materials Used**: Tanned buffalo hide covers supported by wooden poles.
-  - **Design Features**: Easy to assemble and disassemble for mobility, excellent ventilation through smoke flaps at the top.
-
-#### The Hard Data (Cheat Sheet)
-| Architecture Type | Key Materials | Design Highlights |
-|-------------------|---------------|--------------------|
-| Pueblos           | Adobe bricks  | Flat roofs, small windows, communal spaces |
-| Longhouses        | Wood logs     | Large rectangular shape with multiple hearths, wooden frame and bark roofing |
-| Tipis             | Buffalo hide covers, wooden poles | Conical structure, smoke flaps for ventilation |
-
-This section provides a comprehensive overview of North American Indigenous Architecture, focusing on the unique characteristics and materials used in Pueblos, Longhouses, and Tipis.
+1. P-L-T? 2. Pueblo mass? 3. Longhouse ft? 4. Tipi flaps?  
+   _Cold quiz weekly!_
