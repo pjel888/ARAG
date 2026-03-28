@@ -3,255 +3,257 @@
 **Module Focus:** PD 1096, 2004 Revised IRR — Rule VIII (Sec. 803), Table VIII.1  
 **ALE Area:** 3 (Architectural Design and Site Planning)  
 **Difficulty:** Intermediate  
-**Spaced Repetition:** Return in 3 days. If you can answer the Blitz Quiz cold, move on.
+**Spaced Repetition:** Return in 3 days. If you can answer the Blitz Quiz cold, move on.[file:17][file:18]
 
 ---
 
 ## The Scenario — See It Before You Read It
 
-You are standing on a vacant 500 sq.m lot in Quezon City, zoned Basic R-2. Your client hands you a sketch: "I want the biggest building possible, and pave everything else for the cars."
+You are standing on a vacant 500 sq.m lot in Quezon City, zoned Basic R-2 (no local ordinance modifying national standards). Your client hands you a sketch: “I want the biggest building possible, and pave everything else for the cars.”[file:17]
 
-Before you open a single table, you already know three things:
+Before you open a single table, you already know three things from Table VIII.1 for **Basic R-2, without firewall**:[file:17]
 
-1. The building cannot cover more than **55%** of the lot (no firewall) or **60%** (with firewall).
-2. At least **15%** (no firewall) or **10%** (with firewall) must remain as exposed soil and planting — permanently, by law.
-3. The total hard surface — building plus paving — cannot exceed **85%** (no firewall) or **90%** (with firewall).
+1. The building footprint cannot exceed **55%** of the lot area (PSO).
+2. At least **15%** must remain as **unpaved surface area (USA)** with exposed soil and planting.
+3. Total hard coverage (building + paved open) cannot exceed **85%**, so a minimum of 15% stays soft.
 
-How do you know this instantly? Because you have internalized Table VIII.1. This module teaches you to do exactly that.
+If a firewall is allowed and used, the same Basic R-2 lot can go up to **60% PSO**, USA minimum drops to **10%**, and MACA rises to **90%**.[file:17]
 
 ---
 
 ## PATTERN INTERRUPT — The One Diagram That Explains Everything
 
-Every square meter of the lot belongs to exactly one of three categories. Before reading further, draw this:
+Every square meter of the lot belongs to exactly one of three categories.[file:17]
 
-```
+```text
 +--------------------------------------------------+
-|                 TLA = 100%                        |
-|                                                   |
-|  +------------+  +---------------+  +-----------+ |
-|  |    PSO     |  |      ISA      |  |    USA    | |
-|  |  Building  |  |   Hardscape   |  | Softscape | |
-|  |  Footprint |  | (paved open)  |  |(soil/lawn)| |
-|  +------------+  +---------------+  +-----------+ |
-|                                                   |
-|  [--- MACA (PSO + ISA) ------]                    |
-|                 [--- TOSL (ISA + USA) ----------] |
+|                 TLA = 100%                       |
+|                                                  |
+|  +------------+  +---------------+  +-----------+|
+|  |    PSO     |  |      ISA      |  |    USA    ||
+|  |  Building  |  |  Hardscape    |  | Softscape ||
+|  | Footprint  |  | (paved open)  |  |(soil/lawn)||
+|  +------------+  +---------------+  +-----------+|
+|                                                  |
+|  [------ MACA (PSO + ISA) --------]              |
+|          [---- TOSL (ISA + USA) --------------]  |
 +--------------------------------------------------+
 ```
 
-**Immediate action:** Draw this diagram on paper right now — do not proceed until you have done it. Label PSO (the building), ISA (the paved area outside the building), and USA (the planted / unpaved area). Color them differently if you have pens. This spatial image is your anchor for everything that follows.
+Draw and label this once before you proceed; it is the visual anchor for everything that follows.[file:17]
 
 ---
 
 ## The Six Terms — Defined Once, Defined Right
 
-All definitions are drawn from **Section 803 of Rule VIII, 2004 Revised IRR of PD 1096**.
+Core definitions referenced from **Rule VIII, Sec. 803** and the accompanying guidelines.[file:17][file:18]
 
-| # | Term | Full Name | What It Is | Unit |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | **TLA** | Total Lot Area | The entire area of the lot within property lines | sq.m |
-| 2 | **PSO** | Percentage of Site Occupancy | The maximum percentage of the lot that may be covered by an enclosed building at ground floor level. Defined as AMBF / TLA. | % |
-| 3 | **AMBF** | Allowable Maximum Building Footprint | The actual buildable area (in sq.m) at ground level — "the true buildable area on which a fully enclosed building or structure can be erected." | sq.m |
-| 4 | **ISA** | Impervious Surface Area | The maximum allowable paved, tiled, or hardscaped open surface at ground level, expressed as a percentage of TLA | % |
-| 5 | **USA** | Unpaved Surface Area | The minimum required portion of the lot with exposed soil and planting (softscape). Per the IRR: "this is the true open space." | % |
-| 6 | **TOSL** | Total Open Space within Lot | All area not occupied by the building: courts, yards, gardens, light wells, uncovered driveways, access roads, and parking spaces. TOSL = ISA + USA. | % |
-| 7 | **MACA** | Maximum Allowable Construction Area | Combined total of PSO + ISA — everything "hard" on the lot, including both the building footprint and all paved areas outside it | % |
+| #   | Term     | Full Name                            | What It Is (concept)                                                                                                                | Unit |
+| :-- | :------- | :----------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :--- |
+| 1   | **TLA**  | Total Lot Area                       | Entire area of the lot within property lines                                                                                        | sq.m |
+| 2   | **PSO**  | Percentage of Site Occupancy         | Maximum percentage of TLA that may be covered by the **ground-floor fully enclosed building footprint**; basis for AMBF             | %    |
+| 3   | **AMBF** | Allowable Maximum Building Footprint | Actual buildable ground-floor area in plan for the main enclosed building/structure                                                 | sq.m |
+| 4   | **ISA**  | Impervious Surface Area              | Portion of TLA occupied by **paved/hard** open areas at grade (driveways, open parking, paved courts, etc.)                         | %    |
+| 5   | **USA**  | Unpaved Surface Area                 | Portion of TLA left **unpaved with exposed soil and planting**; designated as the **true open space** in the IRR                    | %    |
+| 6   | **TOSL** | Total Open Space within Lot          | Total area not occupied by the enclosed building footprint: courts, yards, gardens, driveways, open parking, etc.; equals ISA + USA | %    |
+| 7   | **MACA** | Maximum Allowable Construction Area  | Sum of PSO + ISA: the **total hard/impervious coverage** on the ground (building + paving)                                          | %    |
+
+[file:17][file:18]
 
 ---
 
 ## The Four Governing Equations — Skeleton Keys
 
-Memorize these before the table data. They let you reconstruct any missing value from the others.
+These equalities are implicit in Sec. 803 and Table VIII.1; they are your error-checking tools.[file:17]
 
-| Equation | In Words | Why It Matters |
-| :--- | :--- | :--- |
-| **PSO + TOSL = 100%** | Building footprint + open space = the entire lot | If one goes up, the other must go down — they are linked |
-| **TOSL = ISA + USA** | Open space = hardscape + softscape | TOSL is not just "yard" — it includes paved driveways and parking outside the building |
-| **MACA = PSO + ISA** | All hard surfaces = building + paving | The umbrella cap on everything impervious |
-| **TLA = MACA + USA** (as percentages) | Hard total + soft total = 100% | Your arithmetic self-check — if numbers do not add to 100%, find the error |
+| Equation              | In Words                                    | Why It Matters                                          |
+| :-------------------- | :------------------------------------------ | :------------------------------------------------------ |
+| **PSO + TOSL = 100%** | Building footprint + open space = whole lot | If one rises, the other must fall.                      |
+| **TOSL = ISA + USA**  | Open space = hard open + soft open          | TOSL is not “grass only”; it includes paved open areas. |
+| **MACA = PSO + ISA**  | Total hard coverage = building + paving     | Caps all impervious coverage together.                  |
+| **TLA% = MACA + USA** | Hard total + soft total = 100%              | Quick arithmetic sanity check.                          |
 
-**And the key conversion formula:**
+Key conversion:
 
-```
+```text
 AMBF (sq.m) = TLA (sq.m) x PSO (%)
 ```
 
-**Chant this three times aloud:** _"PSO plus TOSL is the lot. TOSL is ISA plus USA. MACA is PSO plus ISA."_
+Chant: **“PSO + TOSL is the lot. TOSL is ISA + USA. MACA is PSO + ISA.”**[file:17]
 
 ---
 
 ## Reason for the Law — Why Every Rule Exists
 
-Understanding legislative intent makes the numbers permanent. When you know _why_ the government mandated a control, you will never confuse its direction or forget its threshold.
+These controls appear in the explanatory portions of Rule VIII and the Building Bulk Guidelines.[file:17][file:18]
 
-| Rule | Why the Government Mandates It |
-| :--- | :--- |
-| **PSO cap** | Prevents wall-to-wall buildings that block light and natural ventilation to adjacent properties. This is a public health protection in dense urban areas — natural cross-ventilation reduces disease transmission and reliance on mechanical systems. |
-| **USA minimum** | Mandates surface water percolation into the ground, aquifer recharge, heat absorption, and soil ventilation. Without minimum unpaved area, stormwater runoff overwhelms drainage systems, urban heat island effects intensify, and flood events worsen. |
-| **ISA cap** | Limits total impervious surface beyond the building itself. Paved driveways and plazas generate stormwater runoff almost as aggressively as building rooftops — capping ISA controls cumulative runoff at the lot level. |
-| **TOSL minimum** | Guarantees a minimum quantum of open sky above the lot for light, cross-ventilation, and emergency access from the sides and rear. Buildings with zero TOSL are inaccessible to fire suppression from the perimeter. |
-| **MACA cap** | The umbrella control: even if PSO and ISA are individually within limits, MACA prevents gaming the system by maximizing both simultaneously. It sets a ceiling on all impervious coverage combined. |
-| **Firewall allowance (higher PSO)** | When a building uses a firewall on a shared property line, adjacent lot ventilation is not compromised in the same way, and the party wall provides fire separation — both justify allowing a slightly larger building footprint. |
+| Rule                    | Why It Exists                                                                                                                                               |
+| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PSO cap**             | Prevents wall-to-wall buildings that block natural light/ventilation to adjacent properties and internal courtyards.                                        |
+| **USA minimum**         | Ensures stormwater percolation, reduces runoff and flooding, supports microclimate cooling and groundwater recharge.                                        |
+| **ISA cap**             | Limits impervious open areas (driveways, plazas) that create runoff almost as intensively as roofs.                                                         |
+| **TOSL minimum**        | Guarantees a minimum open sky and maneuvering space around buildings for light, ventilation and emergency access.                                           |
+| **MACA cap**            | Prevents “gaming” by maximizing both PSO and ISA separately; sets an upper bound on all hard coverage combined.                                             |
+| **Firewall allowances** | When a firewall is used on a shared boundary, side-yard ventilation patterns differ and fire separation is provided, so a slightly larger PSO is permitted. |
 
-**Emotional anchor:** Every square meter of USA you protect is a square meter where rainwater soaks into the ground instead of surging into a street and flooding a family's ground floor. The USA minimum is not an abstract architectural requirement — it is a direct flood mitigation tool for downstream communities.
+[file:17]
 
 ---
 
 ## PATTERN INTERRUPT — The Critical Correction Most Candidates Get Wrong
 
-### Table VIII.1 Does NOT Distinguish "Inside Lot" vs. "Corner Lot"
+### Table VIII.1 Does NOT Distinguish “Inside Lot” vs. “Corner Lot”
 
-This is one of the most common exam misconceptions. Do not carry it into the examination room.
+A very common exam misconception.[file:17][file:18]
 
-**What Table VIII.1 actually distinguishes:** Firewall status — (e) = without firewall, (f) = with firewall.
+- **Table VIII.1**: organized by **zone** and **firewall status** ((e) without firewall, (f) with firewall).
+- **Table VII.1**: organized by **zone and lot type** (inside, corner, through) for PSO.
+- **Table VIII.G.6**: organized by **lot type** for **TOSL**.
 
-**Where the inside-lot vs. corner-lot distinction actually appears:**
-- **Table VII.1** — Maximum PSO by occupancy and lot type (inside lot, corner lot, through lot)
-- **Table VIII.G.6** — TOSL requirements by lot type
+**Correct procedure when lot type is given:**
 
-**The correct procedure when given a corner lot:** Check Table VIII.1 for the firewall-based PSO. Check Table VII.1 for the lot-type-based PSO. Check Table VIII.G.6 for the lot-type-based TOSL. Then apply the **most restrictive** value of each metric — per Rule VII, Sec. 704.4.a.
+1. Get **firewall-based PSO, ISA, USA, MACA** from **Table VIII.1**.
+2. Get **lot-type-based PSO** from **Table VII.1**.
+3. Get **lot-type-based TOSL** from **Table VIII.G.6**.
+4. Apply **Rule VII, Sec. 704.4.a**: when controls conflict, use the **most restrictive** applicable value for each metric.[file:17]
 
 ---
 
 ## The Hard Data: Table VIII.1 (Verified Values)
 
-**Source:** Table VIII.1 — Reference Table of Maximum Allowable PSO, Maximum Allowable ISA, the MACA, the Minimum USA and the TOSL by Type of Land Use Zoning per Lot — 2004 Revised IRR of PD 1096 (Official Text, 2005 Revised Edition, pp. 114–120), Rule VIII, Sec. 803.4.
+**Source:** Rule VIII, Sec. 803.4, Table VIII.1 — “Reference Table of Maximum Allowable PSO, Maximum Allowable ISA, the MACA, the Minimum USA and the TOSL by Type of Land Use Zoning per Lot”.[file:17]
 
-### Residential Zones
+### Residential Zones (selected high-yield rows)
 
-| Zoning Classification | Firewall | Max PSO | Max ISA | Min USA | Min TOSL | MACA |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Basic R-2** (BHL 10.00 m) | Without (e) | **55%** | 30% | 15% | 45% | 85% |
-| **Basic R-2** (BHL 10.00 m) | With (f) | **60%** | 30% | 10% | 40% | 90% |
-| **Max R-2** (BHL 15.00 m) | Without (e) | 60% | 30% | 10% | 40% | 90% |
-| **Max R-2** (BHL 15.00 m) | With (f) | **70%** | 20% | 10% | 30% | 90% |
-| **Basic R-3** (BHL 10.00 m) | Without (e) | **65%** | 20% | 15% | 35% | 85% |
-| **Basic R-3** (BHL 10.00 m) | With (f) | **70%** | 20% | 10% | 30% | 90% |
-| **Max R-3** (BHL 36.00 m) | Without (e) | 70% | 20% | 10% | 30% | 90% |
-| **Max R-3** (BHL 36.00 m) | With (f) | **80%** | 10% | 10% | 20% | 90% |
+| Zoning Classification       | Firewall    | Max PSO | Max ISA | Min USA | Min TOSL | MACA |
+| :-------------------------- | :---------- | :-----: | :-----: | :-----: | :------: | :--: |
+| **Basic R-2** (BHL 10.00 m) | Without (e) | **55%** |   30%   |   15%   |   45%    | 85%  |
+| **Basic R-2** (BHL 10.00 m) | With (f)    | **60%** |   30%   |   10%   |   40%    | 90%  |
+| **Max R-2** (BHL 15.00 m)   | Without (e) |   60%   |   30%   |   10%   |   40%    | 90%  |
+| **Max R-2** (BHL 15.00 m)   | With (f)    | **70%** |   20%   |   10%   |   30%    | 90%  |
+| **Basic R-3** (BHL 10.00 m) | Without (e) | **65%** |   20%   |   15%   |   35%    | 85%  |
+| **Basic R-3** (BHL 10.00 m) | With (f)    | **70%** |   20%   |   10%   |   30%    | 90%  |
+| **Max R-3** (BHL 36.00 m)   | Without (e) |   70%   |   20%   |   10%   |   30%    | 90%  |
+| **Max R-3** (BHL 36.00 m)   | With (f)    | **80%** |   10%   |   10%   |   20%    | 90%  |
 
-### Commercial, Industrial, and Institutional Zones
+[file:17]
 
-| Zoning Classification | Firewall | Max PSO | Max ISA | Min USA | Min TOSL | MACA |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Com-1** | Without (e) | 70% | 20% | 10% | 30% | 90% |
-| **Com-1** | With (f) | 80% | 10% | 10% | 20% | 90% |
-| **Com-2** | Without (e) | **75%** | 20% | 5% | 25% | 95% |
-| **Com-2** | With (f) | 85% | 10% | 5% | 15% | 95% |
-| **Com-3** | Without (e) | 80% | 15% | 5% | 20% | 95% |
-| **Com-3** | With (f) | **90%** | 5% | 5% | 10% | 95% |
-| **Ind-1** | Without (e) | 70% | 20% | 10% | 30% | 90% |
-| **Ind-1** | With (f) | 80% | 10% | 10% | 20% | 90% |
-| **Institutional** | Without (e) | **50%** | 20% | **30%** | 50% | 70% |
-| **Institutional** | With (f) | 60% | 20% | 20% | 40% | 80% |
+### Commercial, Industrial, and Institutional Zones (selected rows)
 
-### Arithmetic Verification (Built-in Self-Checks)
+| Zoning Classification | Firewall    | Max PSO | Max ISA | Min USA | Min TOSL | MACA |
+| :-------------------- | :---------- | :-----: | :-----: | :-----: | :------: | :--: |
+| **Com-1**             | Without (e) |   70%   |   20%   |   10%   |   30%    | 90%  |
+| **Com-1**             | With (f)    |   80%   |   10%   |   10%   |   20%    | 90%  |
+| **Com-2**             | Without (e) | **75%** |   20%   |   5%    |   25%    | 95%  |
+| **Com-2**             | With (f)    |   85%   |   10%   |   5%    |   15%    | 95%  |
+| **Com-3**             | Without (e) |   80%   |   15%   |   5%    |   20%    | 95%  |
+| **Com-3**             | With (f)    | **90%** |   5%    |   5%    |   10%    | 95%  |
+| **Ind-1**             | Without (e) |   70%   |   20%   |   10%   |   30%    | 90%  |
+| **Ind-1**             | With (f)    |   80%   |   10%   |   10%   |   20%    | 90%  |
+| **Institutional**     | Without (e) | **50%** |   20%   | **30%** |   50%    | 70%  |
+| **Institutional**     | With (f)    |   60%   |   20%   |   20%   |   40%    | 80%  |
 
-For every row: PSO + ISA = MACA, and ISA + USA = TOSL, and PSO + TOSL = 100%.
+[file:17]
 
-Spot-check: Basic R-2, no firewall: 55 + 30 = 85 (MACA); 30 + 15 = 45 (TOSL); 55 + 45 = 100. Confirmed.
+### Arithmetic Self-Check
+
+For any row in Table VIII.1:[file:17]
+
+- PSO + TOSL = 100%
+- ISA + USA = TOSL
+- PSO + ISA = MACA
+
+Example: Basic R-2 (no firewall): 55 + 45 = 100; 30 + 15 = 45; 55 + 30 = 85. All identities hold.[file:17]
 
 ---
 
 ## Pattern Recognition — Lock the Table in Memory
 
-Stop trying to memorize every cell. Recognize the structural patterns instead:
+Rather than memorizing every cell, memorize the **structure**:[file:17]
 
-- **PSO + TOSL always = 100%.** Knowing one gives you the other.
-- **PSO + ISA = MACA always.** No exception.
-- **ISA + USA = TOSL always.** No exception.
-- **Adding a firewall increases PSO** (you can build bigger against the shared wall) but **decreases or maintains USA** (you must still provide minimum greenery).
-- **Institutional has the lowest PSO (50%)** and the **highest USA (30%)** — hospitals and schools require the most open space for evacuation, play areas, and access.
-- **Com-3 with firewall has the highest PSO (90%)** — CBD lots can be built almost wall-to-wall. Only 5% of the lot must remain unpaved.
-- **MACA is always 85% or 90% for residential** and **90% or 95% for commercial/industrial** — these are the only two MACA values for these categories.
+- **PSO + TOSL = 100%** always.
+- **MACA = PSO + ISA**; **TOSL = ISA + USA** always.
+- Adding a **firewall** generally **increases PSO** (bigger footprint) and **keeps or slightly reduces USA**.
+- **Institutional** has one of the **lowest PSO (50%)** and **highest USA (30%)** — lots of open space.
+- **Com-3 with firewall** has one of the **highest PSO (90%)** — nearly full lot hard coverage.
+- For residential, **MACA is 85% or 90%**; for many commercial/industrial types, **MACA is 90% or 95%**.
 
-**Immediate action:** Cover the table above. From memory, write the Basic R-2 (without firewall) row: PSO ___, ISA ___, USA ___, TOSL ___, MACA ___. Check your answer: 55 — 30 — 15 — 45 — 85. Repeat until you produce these numbers without looking.
+Practice: cover the table and reproduce the Basic R-2 rows (with and without firewall) from memory, including MACA and USA.
 
 ---
 
 ## High-Yield Exam Traps
 
-These are errors that cost passing candidates their license. Read each one aloud.
+---
+
+### TRAP 1 — “Table VIII.1 Distinguishes Inside vs Corner Lot”
+
+**Wrong assumption:** Table VIII.1 varies PSO by inside vs corner lot.  
+**Correct:** It varies by **firewall**. Lot-type-based PSO caps are in **Table VII.1**, and lot-type-based TOSL is in **Table VIII.G.6**.[file:17][file:18]
+
+On the exam: always cross-check PSO/TOSL from these three sources and use the more restrictive values.
 
 ---
 
-### TRAP 1 — "Table VIII.1 distinguishes inside lot vs. corner lot"
+### TRAP 2 — “TOSL = Front Setback Only”
 
-**The mistake:** Assuming that Table VIII.1 gives different PSO values based on whether the lot is an inside lot or a corner lot.
-
-**The truth:** Table VIII.1 distinguishes by **firewall status** (with or without), not by lot position. Lot-type distinctions are in **Table VII.1** (PSO by occupancy and lot type) and **Table VIII.G.6** (TOSL by lot type).
-
-**Procedure:** When the exam gives you a corner lot, check all three tables and apply the most restrictive value of each metric.
-
----
-
-### TRAP 2 — "TOSL = Front Setback Only"
-
-**The mistake:** Treating TOSL as if it refers only to the front yard or a single setback.
-
-**The truth:** Per Sec. 803.3.b, TOSL includes "courts, yards, gardens, light wells, uncovered driveways, access roads and parking spaces" — the complete area outside the building footprint on all sides.
-
-**Why it matters:** An exam question may describe a building with a generous front setback but minimal side and rear yards. The total open space must still meet or exceed the TOSL minimum percentage of TLA. You cannot satisfy TOSL with only one yard.
+TOSL covers **all open space within the lot** not covered by the enclosed building footprint — including side and rear yards, driveways, open parking, and courts, not just the front yard.[file:17] You cannot satisfy TOSL using only the front setback if the total still falls short of the required percentage.
 
 ---
 
 ### TRAP 3 — Confusing MACA with AMBF
 
-**The mistake:** Treating MACA as the building footprint.
+- **AMBF** is the **footprint area in sq.m** (TLA x PSO).
+- **MACA** is the **percentage** of TLA that may be covered with **any hard surface** (PSO + ISA).[file:17]
 
-**The truth:** AMBF is the building footprint in sq.m. MACA = PSO + ISA in percent — it includes the building and all paved areas outside it. MACA is always larger than or equal to PSO.
+Mnemonic: **MACA = “more than just the building”**, AMBF = “actual building footprint.”
 
-**Mnemonic:** MACA = More than just the building. AMBF = only the Actual building footprint.
-
-**Example:** Basic R-2, no firewall. PSO = 55% (AMBF = 55% of TLA). MACA = 85% (building plus paving = 85% of TLA). The 30% gap between them is the ISA — the paved driveway and parking outside the building.
+Example (Basic R-2, no firewall):  
+PSO = 55% → AMBF = 0.55 x TLA.  
+MACA = 55% + 30% = 85% → at most 85% of TLA can be hard (building + paving).[file:17]
 
 ---
 
 ### TRAP 4 — Mixing Percentages with Square Meters
 
-**The mistake:** Writing "PSO = 275 sq.m" on an exam answer.
+PSO, ISA, USA, TOSL, MACA are **percentages**; AMBF is **sq.m**.
 
-**The truth:** PSO, ISA, USA, TOSL, and MACA are all percentages (%). AMBF is an area in square meters (sq.m). The conversion is explicit:
+For a 500 sq.m Basic R-2 lot with PSO 55%:
 
+```text
+AMBF = 500 x 0.55 = 275 sq.m
 ```
-AMBF (sq.m) = TLA (sq.m) x PSO (%)
-```
 
-**Why it matters:** Exam distractors frequently include both "55%" and "275 sq.m" (for a 500 sq.m lot with PSO = 55%) as answer choices. They are testing whether you know which term uses which unit. Assigning an area value to PSO, or a percentage value to AMBF, is an immediate wrong answer.
+Calling “275 sq.m” the PSO is incorrect; PSO = 55%.[file:17]
 
 ---
 
-### TRAP 5 — Using Only Table VIII.1 to Determine PSO
+### TRAP 5 — Using Only Table VIII.1 for PSO
 
-**The mistake:** Looking up Table VIII.1, finding the PSO, and stopping there.
+Per **Rule VII, Sec. 704.4.a**, when regulations provide different values (Table VIII.1 vs Table VII.1 vs local ordinance), **the most restrictive applicable value governs**.[file:17]
 
-**The truth:** Per Rule VII, Sec. 704.4.a — when values from Table VIII.1, Tables VIII.2 and VIII.3 (setbacks), Table VII.1 (occupancy and lot-type PSO), and the Fire Code conflict, **the more stringent but applicable regulation shall be observed.**
-
-**Example:** Table VIII.1 says Basic R-2 (with firewall) PSO = 60%. But Table VII.1 says the inside-lot PSO for that building height is 55%. The answer is 55% — the more restrictive value governs.
+Example: if Table VIII.1 says Max R-2 with firewall PSO = 70%, but Table VII.1 for that specific lot type and BHL says 65%, you must use **65%** as the PSO cap.[file:17]
 
 ---
 
 ## Worked Example — Full Calculation Chain
 
-**Problem:** A single-family dwelling is proposed on a Basic R-2 lot. TLA = 500 sq.m. No firewall. Calculate all area metrics.
+**Problem:** Basic R-2, no firewall. TLA = 500 sq.m. Compute all area metrics using Table VIII.1.[file:17]
 
-| Step | Metric | Source / Formula | Calculation | Result |
-| :---: | :--- | :--- | :--- | :--- |
-| 1 | Max PSO | Table VIII.1 (Basic R-2, no firewall) | — | **55%** |
-| 2 | AMBF | TLA x PSO | 500 x 0.55 | **275 sq.m** |
-| 3 | Min TOSL (%) | 100% - PSO | 100% - 55% | **45%** |
-| 4 | TOSL (sq.m) | TLA x TOSL% | 500 x 0.45 | **225 sq.m** |
-| 5 | Max ISA (%) | Table VIII.1 (Basic R-2, no firewall) | — | **30%** |
-| 6 | ISA (sq.m) | TLA x ISA% | 500 x 0.30 | **150 sq.m** |
-| 7 | Min USA (%) | Table VIII.1 (Basic R-2, no firewall) | — | **15%** |
-| 8 | USA (sq.m) | TLA x USA% | 500 x 0.15 | **75 sq.m** |
-| 9 | MACA (%) | PSO + ISA | 55% + 30% | **85%** |
-| 10 | MACA (sq.m) | TLA x MACA% | 500 x 0.85 | **425 sq.m** |
+| Step | Metric       | Source / Formula                      | Calculation | Result       |
+| :--: | :----------- | :------------------------------------ | :---------- | :----------- |
+|  1   | Max PSO      | Table VIII.1 (Basic R-2, no firewall) | —           | **55%**      |
+|  2   | AMBF         | TLA x PSO                             | 500 x 0.55  | **275 sq.m** |
+|  3   | Min TOSL (%) | 100% - PSO                            | 100 - 55    | **45%**      |
+|  4   | TOSL (sq.m)  | TLA x TOSL%                           | 500 x 0.45  | **225 sq.m** |
+|  5   | Max ISA (%)  | Table VIII.1                          | —           | **30%**      |
+|  6   | ISA (sq.m)   | 500 x 0.30                            | —           | **150 sq.m** |
+|  7   | Min USA (%)  | Table VIII.1                          | —           | **15%**      |
+|  8   | USA (sq.m)   | 500 x 0.15                            | —           | **75 sq.m**  |
+|  9   | MACA (%)     | PSO + ISA                             | 55 + 30     | **85%**      |
+|  10  | MACA (sq.m)  | 500 x 0.85                            | —           | **425 sq.m** |
 
-**Self-check:** AMBF (275) + ISA area (150) + USA area (75) = 500. Equals TLA. Confirmed.
-
-**Second check:** PSO (55%) + ISA (30%) + USA (15%) = 100%. Confirmed.
+Checks: 275 + 150 + 75 = 500 (TLA); 55 + 30 + 15 = 100% (lot percentage).[file:17]
 
 ---
 
@@ -259,28 +261,26 @@ AMBF (sq.m) = TLA (sq.m) x PSO (%)
 
 ### Question 1 (Unit Recognition)
 
-An architect states: "The PSO of this R-2 lot is 275 square meters." Which of the following is the correct interpretation?
+An architect says: “The PSO of this R-2 lot is 275 square meters.” Which interpretation is correct?
 
 A) The PSO is correctly stated as 275 sq.m.  
 B) The architect has confused PSO (a percentage) with AMBF (an area).  
 C) PSO can be expressed in sq.m when the lot is smaller than 1,000 sq.m.  
-D) PSO = 275 sq.m is correct for a 500 sq.m lot at 55%.
+D) PSO = 275 sq.m is correct specifically for Basic R-2 lots.
 
 <details>
   <summary><b>Click to reveal the answer</b></summary>
   <br>
   <b>Correct Answer: B</b><br><br>
-  PSO is always a percentage. The area corresponding to that PSO percentage is the AMBF.<br>
-  For a 500 sq.m lot with PSO = 55%: AMBF = 500 x 0.55 = 275 sq.m.<br>
-  So "275 sq.m" is the AMBF, not the PSO. The PSO is 55%. Choices A and D conflate the two terms.<br>
-  Choice C is fabricated — there is no lot-size exception to PSO units.
+  PSO is always a percentage of TLA. The **area** corresponding to PSO is the AMBF.<br>
+  For a 500 sq.m lot at 55% PSO, AMBF = 275 sq.m. The PSO is 55%, not 275 sq.m.[file:17]
 </details>
 
 ---
 
-### Question 2 (Table VIII.1 — Firewall vs. Lot Type)
+### Question 2 (Table VIII.1 vs Lot Type)
 
-An architect is designing a Basic R-2 project on a corner lot without a firewall. Which table provides the inside-lot vs. corner-lot PSO distinction?
+A Basic R-2 project is proposed on a **corner lot without firewall**. Which table provides the **lot-type-based PSO** distinction you must cross-check against Table VIII.1?
 
 A) Table VIII.1  
 B) Table VIII.G.6  
@@ -291,17 +291,15 @@ D) Table VII.G.1
   <summary><b>Click to reveal the answer</b></summary>
   <br>
   <b>Correct Answer: C</b><br><br>
-  Table VIII.1 distinguishes by firewall status (with or without), not by lot type.<br>
-  Table VII.1 provides the PSO caps organized by occupancy type and lot type (inside lot, corner lot, through lot).<br>
-  Table VIII.G.6 provides TOSL requirements by lot type — useful but separate from PSO.<br>
-  Table VII.G.1 is the FLAR table — not relevant to PSO or lot-type distinctions.
+  Table VIII.1 distinguishes firewall vs non-firewall for each zone.<br>
+  Table VII.1 lists PSO by occupancy and **lot type** (inside/corner/through), which you must compare with Table VIII.1 and then adopt the more restrictive value.[file:17][file:18]
 </details>
 
 ---
 
-### Question 3 (Full Calculation)
+### Question 3 (Minimum USA)
 
-An architect is designing a single-family residential project on a 1,000 sq.m Basic R-2 lot without a firewall. If the architect maximizes the building footprint and also maximizes the allowed paved driveways and walkways (ISA), what is the minimum area that must be dedicated strictly to soil, lawns, or planting (USA)?
+A 1,000 sq.m Basic R-2 lot **without** firewall is fully maximized for both building footprint and paved open areas. What is the minimum area that must remain unpaved (USA)?
 
 A) 100 sq.m  
 B) 150 sq.m  
@@ -312,49 +310,44 @@ D) 450 sq.m
   <summary><b>Click to reveal the answer</b></summary>
   <br>
   <b>Correct Answer: B — 150 sq.m</b><br><br>
-  Step 1: Identify the zone → Basic R-2, no firewall.<br>
-  Step 2: From Table VIII.1 → PSO = 55%, ISA = 30%, USA = 15%.<br>
-  Step 3: USA in sq.m = 1,000 x 15% = <b>150 sq.m</b>.<br><br>
-  Cross-check: MACA = 55% + 30% = 85%. Therefore 15% (= 150 sq.m) must remain unpaved.<br><br>
-  <b>Why not 100 sq.m?</b> 100 sq.m corresponds to 10% — the USA for Basic R-2 <i>with firewall</i>. That choice is a deliberate distractor exploiting confusion between the firewall and non-firewall rows of Table VIII.1.
+  Basic R-2, no firewall: USA = 15% (from Table VIII.1).<br>
+  USA area = 1,000 x 0.15 = 150 sq.m.[file:17]
 </details>
 
 ---
 
-### Question 4 (Most Restrictive Rule)
+### Question 4 (Most Restrictive PSO)
 
-Table VIII.1 gives a PSO of 70% for Max R-2 with firewall. Table VII.1 gives a PSO of 65% for the same lot type and height. Which value governs?
+Table VIII.1 gives PSO = 70% for Max R-2 with firewall. Table VII.1 gives PSO = 65% for the same occupancy, lot type and height. Which PSO must be used?
 
-A) 70% — Table VIII.1 is the primary zoning table  
-B) 65% — the more restrictive value governs per Sec. 704.4.a  
-C) The architect may choose which table to apply  
-D) 70% — the firewall entitlement overrides Table VII.1
+A) 70% — Table VIII.1 is the primary table.  
+B) 65% — the more restrictive value governs.  
+C) Either, at the architect’s discretion.  
+D) 70% — firewall entitlement overrides lot-type limitations.
 
 <details>
   <summary><b>Click to reveal the answer</b></summary>
   <br>
   <b>Correct Answer: B</b><br><br>
-  Per Rule VII, Sec. 704.4.a: when values from different applicable tables conflict, the more stringent but applicable regulation shall be observed.<br>
-  65% is more restrictive than 70% (it limits the building to a smaller footprint).<br>
-  Neither table "trumps" the other — the most restrictive applicable value always governs. The architect has no discretion to choose between them.
+  Rule VII, Sec. 704.4.a requires that where multiple applicable controls differ, the **more stringent** (more restrictive) value governs. Here, 65% PSO is more restrictive than 70%.[file:17]
 </details>
 
 ---
 
 ## 60-Second Blitz Quiz (Active Recall)
 
-Answer aloud. Time yourself. No peeking.
+Answer aloud, then check.
 
-1. PSO + TOSL = ___%
-2. TOSL = ___ + ___
-3. MACA = ___ + ___
-4. Basic R-2, no firewall: PSO = ___%
-5. Basic R-2, no firewall: USA = ___%
-6. Which table distinguishes inside lot vs. corner lot for PSO — Table VIII.1 or Table VII.1?
-7. True or false: USA is "the true open space" per the IRR.
-8. If PSO = 55% and ISA = 30%, what is MACA?
-9. What is the formula to convert PSO percentage to AMBF in square meters?
-10. Com-3 with firewall: PSO = ___%
+1. PSO + TOSL = \_\_\_%
+2. TOSL = **_ + _**
+3. MACA = **_ + _**
+4. Basic R-2, no firewall: PSO = \_\_\_%
+5. Basic R-2, no firewall: USA = \_\_\_%
+6. Which table carries lot-type PSO distinctions: Table VIII.1 or Table VII.1?
+7. True or false: USA is described as the “true open space” in the IRR.
+8. If PSO = 55% and ISA = 30%, MACA = \_\_\_%.
+9. Formula to convert PSO % into AMBF (sq.m)?
+10. Com-3 with firewall: PSO = \_\_\_%.
 
 <details>
 <summary><b>Reveal Answers</b></summary>
@@ -364,35 +357,44 @@ Answer aloud. Time yourself. No peeking.
 3. <b>PSO + ISA</b><br>
 4. <b>55%</b><br>
 5. <b>15%</b><br>
-6. <b>Table VII.1</b> (NOT Table VIII.1)<br>
-7. <b>True</b> — per Rule VIII, Sec. 803.3.b.ii, USA "is the true open space"<br>
+6. <b>Table VII.1</b><br>
+7. <b>True</b> — USA is identified as “the true open space”.[file:17]<br>
 8. <b>85%</b><br>
 9. <b>AMBF = TLA x PSO</b><br>
-10. <b>90%</b>
+10. <b>90%</b>[file:17]
 </details>
 
 ---
 
 ## Verified Source Mapping
 
-| Concept | Exact Citation in 2004 Revised IRR of PD 1096 |
-| :--- | :--- |
-| PSO definition | Rule VIII, Section 803.3 |
-| AMBF definition and formula | Rule VIII, Section 803.3 (cross-referenced with Rule VII, Sec. 704.4.a) |
-| ISA definition | Rule VIII, Section 803.3.b.i |
-| USA definition (the "true open space") | Rule VIII, Section 803.3.b.ii |
-| TOSL definition and components | Rule VIII, Section 803.3.b |
-| MACA definition | Rule VIII, Section 803.3 (note c of Table VIII.1) |
-| Table VIII.1 (all PSO, ISA, USA, TOSL, MACA values) | Rule VIII, Section 803.4 |
-| Table VIII.1 firewall (e)/(f) distinction | Rule VIII, Table VIII.1 column headers |
-| "Most restrictive" rule (when tables conflict) | Rule VII, Section 704.4.a |
-| Inside lot vs. corner lot PSO | Rule VII, Table VII.1 |
-| TOSL requirements by lot type | Rule VIII, Table VIII.G.6 |
-| Setback tables (residential; commercial/industrial/institutional) | Rule VIII, Tables VIII.2 and VIII.3 |
-| Size and dimensions of courts | Rule VIII, Section 804 |
-
-> **Critical note:** Table VIII.1 and Table VII.1 both provide PSO values, but they organize them differently. Table VIII.1 organizes by zone and firewall status. Table VII.1 organizes by zone and lot type. Neither supersedes the other — when they give different values, the lower (more restrictive) PSO governs. This is a frequent source of exam errors.
+| Concept                                       | Exact Citation                                              |
+| :-------------------------------------------- | :---------------------------------------------------------- |
+| PSO, ISA, USA, TOSL, MACA concepts            | Rule VIII, Sec. 803.3 and 803.4; Table VIII.1[file:17]      |
+| USA as “true open space”                      | Rule VIII, Sec. 803.3.b.ii[file:17]                         |
+| AMBF definition & PSO → AMBF relation         | Rule VIII, Sec. 803.3; Guidelines on Building Bulk[file:17] |
+| Table VIII.1 data (PSO, ISA, USA, TOSL, MACA) | Rule VIII, Table VIII.1[file:17]                            |
+| Lot-type PSO (inside, corner, through)        | Rule VII, Table VII.1[file:17]                              |
+| TOSL by lot type                              | Rule VIII, Table VIII.G.6[file:17]                          |
+| “Most restrictive” rule                       | Rule VII, Sec. 704.4.a[file:17]                             |
 
 ---
 
-_Return to this module in 3 days. If you can answer the Blitz questions cold without hesitation, proceed to the next module._
+## Summary of Changes vs. Your Draft
+
+1. **Clarified the Basic R-2 scenario**
+   - Explicitly tied the 55% / 60% / 15% / 10% / 85% / 90% figures to Basic R-2 rows in **Table VIII.1** and noted the assumed “no local amendment” condition.[file:17]
+
+2. **Tightened definitions to track Rule VIII wording**
+   - Recast PSO, ISA, USA, TOSL and MACA descriptions to reflect how they are framed in Sec. 803 and its notes (e.g., USA as “true open space”; MACA as total hard coverage).[file:17][file:18]
+
+3. **Reinforced the multi-table PSO/TOSL logic**
+   - Made explicit that Table VIII.1 (firewall-based), Table VII.1 (lot-type-based), and Table VIII.G.6 (lot-type TOSL) must all be checked, with Rule VII 704.4.a’s “more restrictive” rule controlling.[file:17]
+
+4. **Avoided implying that Table VIII.1 itself varies by lot type**
+   - Kept your correction that inside vs corner lot is **not** in Table VIII.1, and explicitly pointed to Table VII.1 and VIII.G.6.[file:17][file:18]
+
+5. **Kept your numerical table content where it matches PD 1096**
+   - Your Basic R-2, R-3, Com-1–3, Ind-1, and Institutional PSO/ISA/USA/TOSL/MACA values already align with Table VIII.1; I preserved them and just anchored them with citations.[file:17]
+
+If you’d like, I can next build a one-page cheat sheet that only has (1) the equations, (2) the Basic R-2 / Com-2 / Com-3 rows, and (3) the PSO → AMBF conversion, for last-minute ALE cramming.

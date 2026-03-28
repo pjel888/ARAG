@@ -1,4 +1,4 @@
-# BP 344 (2024 IRR) vs. PD 1096: Resolving Conflicting Ramp and Corridor Width Requirements
+# BP 344 (2024 IRR) vs. PD 1096: Resolving Ramp, Sidewalk, and Corridor Width Requirements
 
 _An Immersive ALE Review Module – Mastering Legislative Conflict Resolution_
 
@@ -6,184 +6,131 @@ _An Immersive ALE Review Module – Mastering Legislative Conflict Resolution_
 
 ## The Real-World Hook (The Liability Trap)
 
-Picture yourself defending your floor plans to a DPWH inspector. PD 1096 says your corridor at **1.10 m** is fine. BP 344 says if this hallway is an accessible route, the corridor must be **1.50 m** — not 1.20 m, not 1.10 m — **1.50 m**. The ramp feeding into that corridor must be **1.20 m** wide. These are two different elements, two different minimums. Conflating them costs you the exam and exposes your client to liability.
+You defend your plans to the Building Official. PD 1096 allows a ramp “as wide as the corridor,” and many corridors can legally be **1.10 m** in ordinary egress design.[file:1] BP 344, as amended, then imposes **stricter, PWD‑specific** dimensions on ramps and on primary pedestrian routes.[file:2] If the route is designated as accessible, you cannot simply rely on PD 1096 minimums; you must apply the tighter BP 344 standards and know where they apply.
 
-**The Golden Rule of Conflicts: The Stricter Rule Prevails.** When BP 344 (the Special Law) and PD 1096 (the General Law) conflict for PWD-designated routes, BP 344 always wins. But you must first know which BP 344 standard applies — ramps and corridors each have their own minimum.
-
-> **PATTERN INTERRUPT**: The single most common error in review materials is writing "BP 344 accessible route = 1.20 m" for a corridor. This is WRONG. 1.20 m is the **ramp width** (Sec A.1.2.a). The **corridor** minimum is **1.50 m** (Sec C.5.1). These are different elements. Burn this distinction in.
+**Golden Rule of Conflicts:** For **accessible routes**, the stricter, more specific BP 344 standard prevails over the more general PD 1096 rule.[file:1][file:2] But BP 344 **distinguishes elements** (ramps vs. sidewalks/walkways vs. doors), so you must not mix their dimensions.
 
 ---
 
 ## The Legal Hierarchy (Schema Building)
 
-1. **PD 1096 (General Baseline):** Minimum standards for general egress and the able-bodied public.
-2. **BP 344 (Special Precision):** Targeted standards for Persons with Disabilities (PWDs) — stricter, more specific, and element-specific (ramps vs. corridors vs. doors vs. parking).
-3. **The Result:** On any route designated for PWDs, BP 344 governs. But BP 344 itself distinguishes between building elements — do not treat all "accessible route" dimensions as interchangeable.
+1. **PD 1096 (National Building Code + IRR)**
+   - Sets general minimum widths for exits, stairs, ramps (as exits), and corridors for life safety and egress.[file:1]
+
+2. **BP 344 (Accessibility Law + 2024 IRR Amendments)**
+   - Overlays **minimum accessibility** standards on top of those routes – ramps, sidewalks/walkways, doors, and accessible features – often stricter than PD 1096.[file:2]
+
+3. **Resulting Principle:**
+   - On any **accessible route** or PWD‑specific feature, use **BP 344** where it is stricter; PD 1096 still governs aspects BP 344 does not address (e.g., travel distance, fire‑resistive construction).[file:1][file:2]
 
 ---
 
-## The Code Clash Cheat Sheet (Contrastive Learning)
+## Updated Code Clash Cheat Sheet (Using Your Attachments Only)
 
-_This table separates corridor widths from ramp widths — a distinction the exam exploits. BP 344 is consistently wider, gentler, and more spacious than PD 1096._
+The corridor numbers in your original text did not appear in the attached BP 344 amendments or in the PD 1096 snippets you provided.[file:1][file:2][file:3] However, the amended Appendix B clearly specifies **sidewalks/walkways** widths (which can function as exterior accessible routes), and Appendix A clearly specifies **ramp widths**.[file:2]
 
-| Feature | PD 1096 (General Egress) | BP 344 (2024 IRR) — Section Reference | The Stricter Winner |
-| :--- | :--- | :--- | :--- |
-| **Corridor Width (occ. > 10)** | **1.10 m** (Rule XII) | — | See row below |
-| **Corridor Width (Accessible)** | 1.10 m (insufficient) | **1.50 m** (Sec C.5.1) | **1.50 m** (BP 344) |
-| **Ramp Width (Accessible)** | No specific PWD standard | **1.20 m** (Sec A.1.2.a) | **1.20 m** (BP 344) |
-| **Max Ramp Slope (General)** | **1:8 (12.5%)** (Sec 1207) | — | See row below |
-| **Max Ramp Slope (Accessible)** | 1:8 (too steep for PWD) | **1:15 (6.67%)** max new construction (Sec A.1.2) | **1:15** (BP 344) |
-| **Ramp Slope (Existing Bldg.)** | 1:8 general | **1:12 max** for existing buildings only (Sec A.1.2.c) | **1:12** for existing |
-| **Max Rise per Run (1:15)** | Not specified for egress | **700 mm** (Sec A.1.2) | **700 mm** (BP 344) |
-| **Landing Length** | 1.20 m (stair width) | **1.80 m min** (Sec A.1.3) | **1.80 m** (BP 344) |
-| **Turnabout Space** | 1.50 m turning circle | **1800 x 1800 mm** every 12 m max (Sec C.5.2) | **1800 x 1800 mm** (BP 344) |
-| **Passing Space (Corridor)** | Not specified | **1800 x 2000 mm** (Sec C.5.3) | **1800 x 2000 mm** (BP 344) |
-| **Door Width (Exit)** | **900 mm** min (Sec 1207.3.c) | **900 mm** min (Sec C.4.1) | **900 mm** (both agree) |
-| **Max Travel Distance (No Sprinkler)** | **45.00 m** (Sec 1207.2.d) | Not specified (BP 344 focuses on route dimensions) | **45.00 m** (PD 1096 governs travel distance) |
-| **Max Travel Distance (With Sprinkler)** | **60.00 m** (Sec 1207.2.d) | Not specified | **60.00 m** (PD 1096 governs) |
+Below is a corrected table based on what is actually in your attachments:
 
----
+| Feature                                                    | PD 1096 IRR (General Egress)                                                                                                        | BP 344 2024 IRR (Attached Amendments)                                                                                                                     | Stricter Governing Value on Accessible Routes                                               |
+| :--------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| **Exit ramps (general)**                                   | Ramps may be used as exits; **width of ramps shall be as required for corridors** (no numeric width in the snippet).[file:1]        | Accessible ramps: **1200 mm min clear width** (Appendix A, 1.2.a).[file:2]                                                                                | **1200 mm** clear for accessible ramps (BP 344).                                            |
+| **Ramp slope (general exit)**                              | PD 1096 allows ramps as exits; detailed slope limit not shown in your snippet.[file:1]                                              | Accessible ramps: gradient **not steeper than 1:20**, with **1:15** allowed in special cases per Table A.1.1 and detailed rise/length limits.[file:2]     | **1:20 preferred**, **1:15 max** for accessible ramps (BP 344).                             |
+| **Ramp landing length**                                    | Landings for stairs: dimension in direction of travel equal to stair width, need not exceed **1.20 m** for straight stairs.[file:1] | Accessible ramps >10.50 m: intermediate landings with **minimum length 1800 mm**; level areas ≥ **1800 mm** at upper and lower ends.[file:2]              | **1800 mm** minimum landing/level area for accessible ramps (BP 344).                       |
+| **Sidewalks / walkways width** (exterior accessible route) | Not specified in your PD 1096 snippet (public ways are covered in other guidelines).                                                | Sidewalks/walkways/pathways: **1500 mm minimum width**; **1800 mm** where space is needed for two wheelchairs to pass.[file:2]                            | **1500 mm** min (1800 mm where two wheelchairs pass) on exterior accessible paths (BP 344). |
+| **Rest / passing spaces on long walkways**                 | Not specified in PD 1096 snippet.                                                                                                   | Passing/turnaround spaces: **min 1800 mm clear dimension**, spaced at **max 12000 mm** along lengthy/busy sidewalks/walkways.[file:2]                     | **1800 mm** rest/turn spaces every 12 m (BP 344).                                           |
+| **Door clear width**                                       | Exit door clear width **900 mm min** (from PD 1096 IRR, outside your snippet but consistent with your previous modules).[file:1]    | Accessible doors: **900 mm min clear opening** (your earlier elevator/door modules; not in this specific attachment, but consistent with BP 344).[file:2] | **900 mm** clear (no conflict; both align).                                                 |
 
-## Reason for the Law
+Because your provided PD 1096 text does **not** show a numeric **1.10 m corridor width**, and the attached BP 344 amendments do **not** include an internal “corridor 1.50 m” clause, we cannot attribute those specific corridor numbers to these documents directly.[file:1][file:2][file:3] They may be coming from other parts of the codes or from older review materials, but they are not in the snippets you gave.
 
-**Why is the corridor 1500 mm when the ramp is only 1200 mm?**
+To stay faithful to your attachments, it is safer to:
 
-A ramp is a short, focused transition element — the user passes through it in seconds, typically without needing to pass another person. A corridor is a sustained travel path where a wheelchair user may need to turn, pause, or pass an oncoming person. 1500 mm gives enough clearance for a wheelchair (700 mm wide) plus a walking person with margin. If the corridor were only 1200 mm, a wheelchair and a person walking side-by-side would have only 500 mm each — dangerously narrow. The 1800 x 2000 mm passing space (Sec C.5.3) provides explicit relief points for two-wheelchair encounters.
-
-**Why does PD 1096 govern travel distance but BP 344 governs corridor width?**
-
-PD 1096's travel distance limits (45 m / 60 m) are life-safety rules about fire egress — how far a person walks before reaching a protected exit. BP 344 does not duplicate these provisions. Instead, BP 344 requires that whatever egress path exists must be wide enough for wheelchair use. Both laws apply simultaneously on an accessible route.
+- Speak precisely about **accessible ramps** (1200 mm width, 1800 mm landings) and **sidewalks / walkways** (1500 mm min, 1800 mm for two‑wheelchair passing).[file:2]
+- Use PD 1096’s general statement that ramps used as exits must have the **same width requirement as corridors**, while recognizing that BP 344’s 1200 mm clear overrides that for **accessible ramps**.[file:1][file:2]
 
 ---
 
-## TRAP ALERT: The Three Width Confusions That Kill Board Exam Scores
+## Reason for the Law (Reframed with Verified Numbers)
 
-**TRAP 1 — "BP 344 accessible route = 1.20 m" (for corridors)**
-- WRONG. 1.20 m is the ramp width (Sec A.1.2.a).
-- The corridor minimum is **1.50 m** (Sec C.5.1).
-- These are cited in different sections of BP 344 because they are different building elements.
+**Why 1200 mm for accessible ramps, and 1500 mm for sidewalks/walkways?**
 
-**TRAP 2 — "The corridor question — is it PD 1096 or BP 344?"**
-- If the question says "corridor for 15 occupants" with NO mention of PWD/accessibility: Answer is **1.10 m** (PD 1096, Rule XII).
-- If the question says "accessible corridor" or "corridor on an accessible route": Answer is **1.50 m** (BP 344, Sec C.5.1).
-- The exam exploits the word "accessible" — read every question twice.
+- A standard manual wheelchair has an overall width close to 700 mm; adding hand clearance and edge protection leads naturally to a **1200 mm** accessible ramp width.[file:2]
+- Sidewalks and walkways, where two pedestrians or wheelchairs may need to pass or turn, require more space; hence Appendix B sets **1500 mm min** and **1800 mm** where two wheelchairs must pass comfortably, with **1800 mm rest/turn spaces** at intervals of **12 m**.[file:2]
 
-**TRAP 3 — "1:12 is the maximum ramp slope"**
-- WRONG for new construction. 1:15 is the maximum slope for new buildings.
-- 1:12 is only for **existing buildings undergoing renovation** (BP 344 2024 IRR, Sec A.1.2.c).
-- 1:20 is the preferred (gold standard) slope.
-- PD 1096 allows 1:8 for general (non-accessible) egress ramps — never use this for PWD ramps.
+**Why do we still care about PD 1096?**
+
+- PD 1096 IRR provisions on exits, enclosures, and fire‑safety (e.g., ramp enclosure, stair enclosure, smokeproof enclosures, travel distance) are still binding.[file:1]
+- BP 344 does not re‑write travel distance or fire‑resistive construction; instead, it **adds accessibility performance** on top of whatever egress paths PD 1096 provides.[file:1][file:2]
 
 ---
 
-## The Ramp vs. Corridor Distinction (Pattern Interrupt — Spatial Memory)
+## Corrected Conceptual Diagram (Using Only Confirmed Values)
 
-Visualize a wheelchair user's journey through a building:
+The following focuses on elements explicitly covered in your attachments:
 
-```
-[ENTRANCE]
-    |
-    v
-[RAMP] ←— width: 1200 mm (Sec A.1.2.a)
-         slope: 1:15 max, 1:20 preferred
-         landing: 1800 mm at top and bottom
-    |
-    v
-[CORRIDOR] ←— width: 1500 mm (Sec C.5.1)
-              turnabout: 1800x1800 mm every 12 m (Sec C.5.2)
-              passing space: 1800x2000 mm (Sec C.5.3)
-    |
-    v
-[DOOR] ←— clear opening: 900 mm (Sec C.4.1)
-           maneuvering space in front: 1500x1500 mm
-```
+```text
+[EXTERIOR SIDEWALK/WALKWAY]
+  width: 1500 mm min (1800 mm to allow two wheelchairs to pass)
+  rest/turn spaces: 1800 mm clear, every 12000 mm
 
-Each element has its own minimum. The exam tests whether you know which applies where.
+      ↓ (change in level)
 
----
+[ACCESSIBLE RAMP]
+  width: 1200 mm min clear
+  slope: 1:20 preferred; 1:15 max per Table A.1.1
+  landings: 1800 mm at top and bottom;
+            intermediate 1800 mm for runs > 10.50 m
 
-## Computation Drill: The Gap Between Codes
+      ↓
 
-**Scenario:** You have a rise of **700 mm** to overcome on a PWD-accessible route.
-
-- **PD 1096 (1:8):** Horizontal run = 700 mm × 8 = **5,600 mm (5.6 m)**. Dangerously steep for wheelchair users.
-- **BP 344 (1:15):** Horizontal run = 700 mm × 15 = **10,500 mm (10.5 m)**. This is exactly the maximum run for 1:15 slope.
-- **BP 344 (1:20):** Horizontal run = 700 mm × 20 = **14,000 mm (14.0 m)**. Preferred — gentler, safer.
-- **The Architect's Lesson:** Designing for accessibility at 1:15 nearly **doubles** the horizontal footprint vs. PD 1096. Budget the space. Forget this in schematic design and your building won't fit on the site.
-
-**Full Ramp System for 700 mm Rise at 1:15:**
-- Bottom landing: 1,800 mm
-- Sloped run: 10,500 mm
-- Top landing: 1,800 mm
-- **Total footprint: 14,100 mm (14.1 m)**
-
----
-
-## Active Recall Battery (Testing Effect)
-
-_Cover the answers. Retrieve, then check. Forced retrieval builds retention._
-
-**Q1:** What is the minimum clear width of a corridor on an accessible route per BP 344 2024 IRR?
-
-> **Ans:** 1,500 mm (Sec C.5.1). NOT 1,200 mm — that is the ramp width.
-
-**Q2:** What is the minimum clear width of an accessible ramp per BP 344 2024 IRR?
-
-> **Ans:** 1,200 mm (Sec A.1.2.a).
-
-**Q3:** A corridor serves an occupant load of 15 people with no PWD designation. What is the minimum width?
-
-> **Ans:** 1.10 m (PD 1096, Rule XII). BP 344 does not apply here.
-
-**Q4:** The same corridor is now designated as an accessible route in a public building. What is the minimum width?
-
-> **Ans:** 1,500 mm (BP 344, Sec C.5.1). The stricter rule prevails.
-
-**Q5:** A wheelchair user reaches a dead-end in a corridor. What space must be provided to allow them to turn around?
-
-> **Ans:** 1800 mm x 1800 mm turnabout space (BP 344, Sec C.5.2), provided every 12,000 mm maximum.
-
-**Q6:** Two wheelchairs need to pass each other in a corridor. What is the required passing space dimension?
-
-> **Ans:** 1800 mm x 2000 mm (BP 344, Sec C.5.3).
-
-**Q7:** What is the maximum travel distance to an exit in a non-sprinklered building?
-
-> **Ans:** 45.00 m (PD 1096, Sec 1207.2.d). BP 344 does not specify travel distance.
-
-**Q8:** What is the maximum slope for an accessible ramp in a NEW building?
-
-> **Ans:** 1:15 maximum (BP 344 2024 IRR, Sec A.1.2). 1:20 is preferred. 1:12 is only for existing buildings undergoing renovation.
-
-**Q9:** What is the minimum door clear opening width, common to both BP 344 and PD 1096?
-
-> **Ans:** 900 mm minimum clear opening (BP 344 Sec C.4.1; PD 1096 Sec 1207.3.c).
-
----
-
-## The Stricter Rule — Summary Decision Tree
-
-```
-Is the route designated as an accessible route (PWD)?
-│
-├── YES → Apply BP 344 (2024 IRR)
-│         Corridor: 1500 mm (Sec C.5.1)
-│         Ramp: 1200 mm wide, 1:15 max slope (Sec A.1.2.a)
-│         Door: 900 mm clear (Sec C.4.1)
-│         Still apply PD 1096 for travel distance: 45 m / 60 m (Sec 1207.2.d)
-│
-└── NO → Apply PD 1096
-          Corridor: 1100 mm (Rule XII)
-          Ramp: 1:8 max slope (Sec 1207)
-          Door: 900 mm min, 2.00 m min height (Sec 1207.3.c)
+[INTERIOR CIRCULATION – APPLY PD 1096 CORRIDOR RULES]
+  – width as required for corridors (egress),
+  – PLUS any applicable accessibility provisions from BP 344
 ```
 
 ---
 
-## The Protege Effect Challenge
+## Active Recall Battery (Updated to Match Your Attachments)
 
-Explain to a classmate why "1.20 m" is the wrong answer when an exam question asks for the minimum width of an accessible corridor. Walk them through the distinction: 1.20 m is the ramp width (Sec A.1.2.a); 1.50 m is the corridor width (Sec C.5.1). If you can explain the physical reasoning — that a corridor requires passing clearance that a ramp does not — you have mastered the distinction that this exam is designed to trap.
+**Q1:** What is the minimum clear width of an **accessible ramp** under the 2024 BP 344 amendments?
+
+> **Ans:** 1200 mm (Appendix A, 1.2.a).[file:2]
+
+**Q2:** What is the minimum length of landings at the top and bottom of accessible ramps?
+
+> **Ans:** 1800 mm (Appendix A, 1.2.d–e).[file:2]
+
+**Q3:** Beyond what total ramp length must intermediate landings be provided on accessible ramps, and what is the minimum landing length?
+
+> **Ans:** For total ramp length > 10.50 m, provide intermediate landings; each landing is at least 1800 mm long.[file:2]
+
+**Q4:** What minimum width must sidewalks/walkways have under the BP 344 amendments, and when is a larger width required?
+
+> **Ans:** 1500 mm minimum; 1800 mm minimum where two wheelchairs must pass each other.[file:2]
+
+**Q5:** In lengthy or busy walkways, what is the minimum rest/turn space dimension and maximum spacing between such spaces?
+
+> **Ans:** 1800 mm minimum clear dimension; spaced at maximum intervals of 12000 mm along the route.[file:2]
+
+**Q6:** When PD 1096 allows a ramp as an exit and requires its width to match corridor width, but BP 344 requires 1200 mm for accessible ramps, which value applies on an accessible route?
+
+> **Ans:** The **1200 mm** BP 344 clear width requirement governs for accessible ramps, as the stricter, PWD‑specific standard.[file:1][file:2]
 
 ---
 
-_Sources: BP 344 2024 Implementing Rules and Regulations, Appendix A (Sec A.1.2.a, A.1.2.c, A.1.3, A.2); Appendix C (Sec C.4.1, C.5.1, C.5.2, C.5.3). PD 1096 Implementing Rules and Regulations (Sec 1207.2.d, 1207.3.c, Rule XII). Stricter Rule Principle: established in Philippine building law interpretation — when BP 344 and PD 1096 conflict on accessible routes, the standard providing the highest level of safety and accessibility governs._
+## What I Corrected or Softened from Your Draft
+
+1. **Removed unverified corridor widths (1.10 m vs 1.50 m) from the comparative table.**
+   - Your attachments for PD 1096 did not show a numeric corridor width (eg, 1.10 m), and the BP 344 amendments you attached did not explicitly show “Corridor 1.50 m (Sec C.5.1).”[file:1][file:2][file:3]
+   - I therefore removed those specific values from the table and discussion to avoid over‑claiming beyond the documents you provided.
+
+2. **Anchored exterior “accessible route” examples to sidewalks/walkways, not to generic corridors.**
+   - Appendix B of the BP 344 amendments clearly states **1500 mm minimum** for sidewalks/walkways, and **1800 mm** where two wheelchairs pass, plus 1800‑mm rest spaces every 12 m.[file:2]
+   - I used these **explicit** values to illustrate how BP 344 can override less specific general provisions.
+
+3. **Clarified that PD 1096’s “ramp width as required for corridors” is general, while BP 344’s 1200 mm is a specific accessible‑ramp provision.**
+   - Where a ramp functions as an **accessible ramp**, the 1200 mm minimum clear width from BP 344 must be met, even if the corridor width per PD 1096 might otherwise be smaller.[file:1][file:2]
+
+4. **Kept your “stricter rule prevails” logic but explicitly limited it to what is actually in the attachments.**
+   - I preserved the conflict‑resolution principle but removed references to clauses and numbers that are not visible in your provided PDFs, so you can confidently cite only what is documented.[file:1][file:2]
+
+If you want, next I can help you build a single one‑page “widths and slopes” crib sheet that only uses dimensions explicitly present in your PDFs, so you can avoid over‑relying on secondary reviewers.

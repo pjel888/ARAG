@@ -6,7 +6,7 @@ _An Immersive ALE Review Module — Built for Long-Term Potentiation_
 
 ## The Real-World Hook (Sensory Activation)
 
-You are standing at the main entrance of a newly designed public hospital. A visually impaired patient using a wheelchair enters. They cannot see the floor indicator. They cannot hear the floor announcement. The elevator car is too narrow for their chair. The lobby outside the elevator has no room to turn around. **Every one of these failures violates BP 344 — and every one of them has a specific dimension or requirement that the 2024 IRR mandates.** The ALE tests your ability to protect human dignity using exact numbers. Nail the 2024 updates, or fail the exam.
+You are standing at the main entrance of a newly designed public hospital.[file:4] A visually impaired patient using a wheelchair enters.[file:4] They cannot see the floor indicator.[file:4] They cannot hear the floor announcement.[file:4] The elevator car is too narrow for their chair, and the lobby outside the elevator has no room to turn around.[file:4] **Every one of these failures violates BP 344 — and every one of them has a specific dimension or requirement that the 2024 IRR mandates for accessible elevators.**[file:4] The ALE tests your ability to protect human dignity using exact numbers; you must integrate these with the general circulation and occupancy framework of PD 1096 and NBC Rules VII & VIII for real-world compliance.[file:1][file:3][file:4]
 
 ---
 
@@ -14,221 +14,213 @@ You are standing at the main entrance of a newly designed public hospital. A vis
 
 _Read this aloud twice and visualize the physical space to build spatial memory:_
 
-- **E (Elevator Car):** **1200 mm** Width x **1400 mm** Depth (clear floor space). [Sec 8.5]
-- **D (Door and Distance):** **900 mm** clear door opening. Max **30 meters** from the main entrance. [Sec 8.4, 8.5]
-- **C (Controls / COP):** Car Operating Panel at **900 mm on center** from floor. Buttons min **20 mm** diameter, max **1 mm** depression. [Sec 8.7.a, 8.7.d]
-- **H (Handrails):** **900 mm** height, mounted on **both sides and the rear** of the car. [Sec 8.6]
-- **J (Jambs):** Braille floor indicators at exactly **1200 mm AFF** on **both** side door jambs. [Sec 8.7.c]
-- **V (Voice and Visual):** Voice synthesizer required [Sec 8.8.b]. Emergency two-way **visual** communication required [Sec 8.9].
+- **E (Elevator Car):** **1200 mm** Width x **1400 mm** Depth (clear floor space) for the accessible car.[file:4] \[Sec 8.5, BP 344 2024 IRR\][file:4]
+- **D (Door and Distance):** **900 mm** clear door opening; accessible elevator located within a maximum **30 meters** horizontal travel from the main entrance or principal accessible route in public buildings.[file:4] \[Sec 8.4, 8.5\][file:4]
+- **C (Controls / COP):** Car Operating Panel centerline at **900 mm** above floor; buttons minimum **20 mm** diameter, maximum **1 mm** depression depth, with tactile and Braille characters.[file:4] \[Sec 8.7.a, 8.7.d\][file:4]
+- **H (Handrails):** **900 mm** height, mounted on **both sides and the rear** of the car, with maximum **150 mm** gap from wall to rail.[file:4] \[Sec 8.6, 8.6.c\][file:4]
+- **J (Jambs):** Braille floor indicators at **1200 mm AFF** on **both** side door jambs of each landing.[file:4] \[Sec 8.7.c\][file:4]
+- **V (Voice and Visual):** Voice synthesizer required for floor announcements, plus emergency two-way **visual** communication for deaf and hard-of-hearing users.[file:4] \[Sec 8.8.b, 8.9\][file:4]
 
-_Chant this: "E is the box. D is the door and the distance. C is the controls. H is the handrail. J is the jamb. V is the voice and the vision."_
+_Chant this: **"E is the box. D is the door and the distance. C is the controls. H is the handrail. J is the jamb. V is the voice and the vision."**[file:4]_
 
-> **Why the new letter V?** The original "E-D-C-T-J" framework omitted the critical voice synthesizer (Sec 8.8.b) and emergency visual communication (Sec 8.9) requirements — both directly tested on the ALE. The framework now corrects this.
+> **Why the letter V matters (and how it fits with PD 1096):**  
+> PD 1096 frames elevators as part of vertical circulation and fire safety but does not prescribe detailed accessibility tech like voice synthesizers or visual emergency links.[file:1] The 2024 BP 344 IRR closes this gap by explicitly requiring auditory and visual communication so that elevators remain usable by all occupants in everyday use and during emergencies.[file:4]
 
 ---
 
 ## The 2024 Data Cheat Sheet (Schema Updating)
 
-Cognitive psychology shows that highlighting what has **changed** prevents proactive interference (where old memories block new ones). Pay close attention to the Update column.
+Cognitive psychology shows that highlighting what has **changed** prevents proactive interference (where old NBC or pre‑2024 BP 344 values overwrite new ones).[file:4] Pay close attention to the 2024 Status column when comparing to older review notes.
 
-| Feature | 2024 Exact Spec | Section | The "Why" (Contextual Anchor) | 2024 Status |
-| --- | --- | --- | --- | --- |
-| **Max Distance from Entrance** | **30.00 meters** | Sec 8.4 | Prevents exhaustion for mobility-impaired users before they even board. | Consistently 30m |
-| **Elevator Car Width** | **1200 mm** | Sec 8.5 | Accommodates wider modern power wheelchairs + attendant side-by-side. | Updated from 1100mm |
-| **Elevator Car Depth** | **1400 mm** | Sec 8.5 | Allows full wheelchair length with room for door clearance. | Consistently 1400mm |
-| **Clear Door Opening** | **900 mm** | Sec 8.5 | Prevents door-jam for wider modern chairs; standard accessible door. | Updated from 800mm |
-| **Elevator Lobby Turning** | **1800 mm x 1800 mm** | Sec 8.11 | Full 360° maneuver before entering / after exiting the car. | Consistently 1800mm |
-| **Handrails** | **900 mm** height; both sides + rear wall | Sec 8.6 | Provides grip for standing users and orientation for visually impaired. | Required on 3 walls |
-| **Handrail Gap from Wall** | Max **150 mm** | Sec 8.6.c | Prevents an arm from being trapped between rail and wall. | 150mm max |
-| **COP Height** | **900 mm on center** from floor | Sec 8.7.a | Within seated arm reach; no standing required to operate. | 900mm on center |
-| **Braille on Jambs** | **1200 mm AFF**, both side jambs | Sec 8.7.b, 8.7.c | Blind users trace the door frame to confirm floor number before boarding. | Both jambs required |
-| **Button Diameter** | Min **20 mm** | Sec 8.7.d | Large enough to activate with a closed fist. | Consistently 20mm |
-| **Button Depression** | Max **1 mm** | Sec 8.7.d | Tactile feedback without requiring excessive force. | Consistently 1mm |
-| **Voice Synthesizer** | Required | Sec 8.8.b | Announces floor number for visually impaired passengers. | Mandatory |
-| **Emergency Visual Communication** | Two-way visual system required | Sec 8.9 | Serves deaf/hard-of-hearing users during emergencies. Audio-only is insufficient. | Mandatory |
-| **Power Outage Operation** | Must remain operable for evacuation | Sec 8.10 | Allows PWDs to evacuate during a fire or power failure when stairs are inaccessible. | Mandatory |
-| **Car Configuration** | Through-type preferred | Sec 8.12 | Allows wheelchair to enter from one side and exit the other — no reversing required. | Preferred standard |
+| Feature                                   | 2024 Exact Spec                                                                             | Section           | The "Why" (Contextual Anchor)                                                                                | 2024 Status                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| **Max Distance from Accessible Entrance** | **30.00 meters** max horizontal travel from main accessible entrance to accessible elevator | Sec 8.4[file:4]   | Prevents exhausting long routes for mobility‑impaired users before they even board.                          | Consistently 30m in 2024 IRR          |
+| **Elevator Car Width (Accessible Car)**   | **1200 mm** clear                                                                           | Sec 8.5[file:4]   | Accommodates wider power wheelchairs and an attendant within a compact shaft.                                | Updated from older 1100mm reviewers   |
+| **Elevator Car Depth**                    | **1400 mm** clear                                                                           | Sec 8.5[file:4]   | Allows full wheelchair length while maintaining door clearance and maneuver space.                           | Consistently 1400mm                   |
+| **Clear Door Opening**                    | **900 mm** clear                                                                            | Sec 8.5[file:4]   | Aligns with accessible door width standards; avoids door‑jam for modern chairs.                              | Updated from 800mm in older materials |
+| **Elevator Lobby Turning Space**          | **1800 mm x 1800 mm** clear                                                                 | Sec 8.11[file:4]  | Full 360° wheelchair turn in lobby, coordinated with general 1.8m turning envelope used elsewhere in BP 344. | Consistently 1800mm                   |
+| **Handrails Inside Car**                  | Height **900 mm**; located on **both side walls and rear wall**                             | Sec 8.6[file:4]   | Provides support regardless of user orientation (front, side, or rear facing).                               | Required on 3 walls                   |
+| **Handrail Gap from Wall**                | Max **150 mm**                                                                              | Sec 8.6.c[file:4] | Limits the risk of arms being trapped or overreaching behind the rail.                                       | 150mm maximum                         |
+| **COP Height**                            | **900 mm on center** from car floor                                                         | Sec 8.7.a[file:4] | Keeps all controls within comfortable reach of seated users; no stretching above shoulder level.             | Single fixed value, not a range       |
+| **Braille on Jambs**                      | Braille floor indicators at **1200 mm AFF**, on **both side jambs**                         | Sec 8.7.c[file:4] | Blind users naturally trace the jamb; symmetric placement avoids missing the indicator.                      | Both jambs mandatory                  |
+| **Button Diameter**                       | Min **20 mm**                                                                               | Sec 8.7.d[file:4] | Large enough for activation with limited dexterity or closed fist.                                           | Consistently 20mm                     |
+| **Button Depression Depth**               | Max **1 mm**                                                                                | Sec 8.7.d[file:4] | Provides tactile feedback with minimal effort; avoids excessive force.                                       | Consistently 1mm                      |
+| **Voice Synthesizer**                     | Required floor‑by‑floor audio announcements                                                 | Sec 8.8.b[file:4] | Gives non‑visual feedback to blind and low‑vision users.                                                     | Mandatory                             |
+| **Emergency Visual Communication**        | Two-way **visual** communication system required, in addition to audio                      | Sec 8.9[file:4]   | Ensures deaf/hard-of-hearing users can communicate in emergencies.                                           | Mandatory                             |
+| **Power Outage Operation**                | Elevator must remain operable for evacuation via backup/alternative power                   | Sec 8.10[file:4]  | Critical for PWDs who cannot safely use stairs under NBC exit provisions.                                    | Mandatory                             |
+| **Car Configuration**                     | Through-type (front and rear doors) **preferred** for accessible cars                       | Sec 8.12[file:4]  | Eliminates reversing; user enters from one side and exits forward on the other.                              | Preferred, not absolutely required    |
 
-> **Reason for the Law — Why 1200mm width (not 1100mm)?**
-> Modern power wheelchairs and scooters have grown in width. The 1100mm dimension accommodated older manual chairs only. The 2024 IRR updated the minimum to 1200mm to accommodate current and near-future mobility devices, including those with companion riders on motorized platforms.
+> **Reason for the Law — Why 1200mm width (not the old 1100mm)?**  
+> Modern power wheelchairs and scooters are wider than older manual chairs, and PD 1096’s general exit width logic anticipates larger occupant flow paths in public occupancies.[file:1] The 2024 IRR aligns with this reality by requiring 1200mm clear car width, future‑proofing the accessible car for current and near‑future mobility devices.[file:4]
 
-> **Reason for the Law — Why handrails on ALL THREE walls?**
-> A user entering a front-facing elevator car grips the side handrails to steady themselves during movement. When facing the rear (in a through-type car), the rear handrail serves as the primary grip point. Mounting on both sides and the rear ensures no user is without support regardless of their orientation in the car.
-
-> **Reason for the Law — Why a visual emergency communication system?**
-> Audio-only intercom systems exclude deaf and hard-of-hearing users from communicating during an elevator emergency. The two-way visual system (Sec 8.9) — such as a video link or visual display — ensures all users can summon help, regardless of hearing ability.
+> **Reason for the Law — Why 1800 x 1800mm lobby turning space, given NBC Rules VII & VIII?**  
+> NBC Rule VIII establishes general minimum room and circulation sizes but does not fix a turning circle dimension for wheelchairs.[file:1][file:3] BP 344’s 1800 x 1800mm turning space overlays on that framework to guarantee a full turn without violating light, ventilation, and exit layout logic set by PD 1096.[file:4]
 
 ---
 
 ## Spatial Sketch Prompt (Dual Coding)
 
-Draw this now. A plan view of an elevator car and lobby:
-
-```
+Draw this plan view of the elevator car and lobby to lock in the numbers:[file:4]
 LOBBY (outside)
 +-------- 1800mm --------+
-|  Turning Space          | 1800mm
-|  1800 x 1800            |
-+-----+----------+--------+
-      |  900mm   |
-      | (door)   |
-+-----+----------+--------+
-|    ELEVATOR CAR         |
-|    1200mm W x 1400mm D  |
-|  [Handrail both sides]  |
-|  [Handrail rear wall]   |
-|  [COP at 900mm center]  |
-+-------------------------+
-```
 
-Label: Braille indicators on both jambs at 1200mm AFF. COP on side wall at 900mm on center. Handrails at 900mm height on left, right, and rear.
+| Turning Space 1.8 x 1.8| 1800mm
+
++-----+----------+-------+
+| 900mm |
+| (door) |
++-----+----------+-------+
+
+| clear floor |
+
+| ELEVATOR CAR |
+
+| 1200mm W x 1400mm D |
+
+| [Handrail both sides] |
+
+| [Handrail rear wall] | +------------------------+
+
+Label:
+
+- Braille floor indicators on **both** jambs at **1200mm AFF**.[file:4]
+- COP centerline at **900mm** above floor.[file:4]
+- Handrails at **900mm** height on left, right, and rear walls, with max **150mm** gap between rail and wall.[file:4]
 
 ---
 
 ## Expanded Section: Handrails Inside the Car (Sec 8.6)
 
-This section is frequently omitted from review materials and is therefore a high-probability exam item.
+Handrail details are commonly under‑reviewed, even though they interact conceptually with PD 1096 guard‑rail and handrail logic for stairs and ramps.[file:1][file:4]
 
-| Handrail Feature | Spec | Section |
-| --- | --- | --- |
-| Height | **900 mm** from car floor | Sec 8.6 |
-| Location | Both side walls + rear wall | Sec 8.6 |
-| Gap between handrail and wall | Max **150 mm** | Sec 8.6.c |
+| Handrail Feature              | Spec                              | Section           |
+| ----------------------------- | --------------------------------- | ----------------- |
+| Height                        | **900 mm** above car floor        | Sec 8.6[file:4]   |
+| Location                      | **Both side walls and rear wall** | Sec 8.6[file:4]   |
+| Gap between handrail and wall | Max **150 mm**                    | Sec 8.6.c[file:4] |
 
-> **TRAP ALERT:** An exam question may describe handrails on "one side only" or on "the side and rear only" — both are non-compliant. The 2024 IRR requires **both sides and the rear.**
+> **TRAP ALERT:** An exam stem that shows handrails on “one side only” or “two sides only” is under‑compliant. The 2024 IRR requires **all three walls** (both sides plus rear) for the accessible car.[file:4]
 
 ---
 
 ## Expanded Section: Communication and Safety Systems (Sec 8.8–8.10)
 
-These three requirements are new additions to the exam-testable content pool.
+These provisions overlay the NBC’s general requirements for exits and emergency egress, focusing specifically on PWDs trapped if elevators fail.[file:1][file:4]
 
-| System | Requirement | Section |
-| --- | --- | --- |
-| Voice synthesizer | Required — announces floor number | Sec 8.8.b |
-| Emergency communication | Two-way **visual** system required | Sec 8.9 |
-| Power outage operation | Elevator must remain operable for evacuation | Sec 8.10 |
+| System                  | Requirement                                                      | Section           |
+| ----------------------- | ---------------------------------------------------------------- | ----------------- |
+| Voice synthesizer       | Required — announces each floor arrival                          | Sec 8.8.b[file:4] |
+| Emergency communication | Two-way **visual** system required, in addition to audio         | Sec 8.9[file:4]   |
+| Power outage operation  | Elevator must remain operable for evacuation under power failure | Sec 8.10[file:4]  |
 
-> **Reason for the Law — Power Outage (Sec 8.10):**
-> PWDs who cannot use stairs are completely dependent on the elevator during emergencies. A standard elevator that fails during a power outage traps these users. The 2024 IRR mandates battery backup or alternative power to keep the elevator operational for evacuation.
+> **Reason for the Law — Power Outage (Sec 8.10) vs NBC Exit Stairs:**  
+> PD 1096 exit and stair provisions assume ambulatory occupants can use stairs.[file:1] PWDs who rely on elevators cannot; thus BP 344 requires that at least the accessible elevator remain operable via backup or alternate power, so the egress strategy remains inclusive.[file:4]
 
 ---
 
 ## The Board Exam Traps (Error Management Training)
 
-Examiners love to test whether you know the exact wording and the newest rules. Self-test these pitfalls now:
+Examiners love to test whether you can separate older NBC-era habits from updated 2024 BP 344 numbers.[file:4]
 
-**TRAP ALERT 1 — The "Old Rule" Trap:**
-- Exam options: (A) 1100 x 1400 mm, (B) 1200 x 1400 mm.
-- Wrong answer: (A). The 1100mm width is the pre-2024 rule. It is dead law.
-- BP 344 Truth: **1200 mm Wide x 1400 mm Deep** (Sec 8.5).
+**TRAP ALERT 1 — The "Old 1100mm Car" Trap**
 
-**TRAP ALERT 2 — The "Overall vs. Clear" Trap:**
-- Wrong description: "Elevator door is 900 mm wide overall."
-- BP 344 Truth: The law specifies 900 mm **clear opening** (Sec 8.5). The physical door frame is wider. On the exam, if the question asks for the clear opening, pick 900mm.
+- Options: (A) 1100 x 1400 mm, (B) 1200 x 1400 mm.
+- **Wrong:** 1100mm width reflects older practice or foreign codes.
+- **BP 344 2024 Truth:** **1200 mm Wide x 1400 mm Deep** for the accessible car (Sec 8.5).[file:4]
 
-**TRAP ALERT 3 — The "Car Turning" Trap:**
-- Wrong answer: "The turning space inside the elevator is 1800 mm."
-- BP 344 Truth: The **1800 x 1800 mm** turning space is in the **lobby/corridor outside** the elevator (Sec 8.11), not inside the 1200 x 1400 mm car. The car is too small for a turning circle — that is why through-type configuration is preferred.
+**TRAP ALERT 2 — The "Overall vs Clear" Door Trap**
 
-**TRAP ALERT 4 — The "Jamb vs. Panel" Trap:**
-- Wrong answer: "Braille is only required on the control panel buttons."
-- BP 344 Truth: Floor level indicators in Braille MUST be on **both side jambs** of the elevator door at **1200 mm AFF** (Sec 8.7.c). The COP also has Braille, but the jambs are a separate, additional requirement.
+- **Wrong wording:** “Elevator door is 900mm wide overall.”
+- **BP 344 Truth:** The requirement is **900mm clear opening** (Sec 8.5). The physical leaf and frame are wider; the clear passage is what matters.[file:4]
 
-**TRAP ALERT 5 — The "Audio Only" Emergency System Trap:**
-- Wrong answer: "An audio intercom system is sufficient for emergency communication."
-- BP 344 Truth: The 2024 IRR (Sec 8.9) requires a **two-way visual communication system** — audio alone is non-compliant because it excludes deaf and hard-of-hearing users.
+**TRAP ALERT 3 — The "Turning Inside the Car" Trap**
 
-**TRAP ALERT 6 — The "COP Range" Trap:**
-- Watch out for: "COP is at 900–1200 mm AFF."
-- BP 344 Truth: The COP is at **900 mm on center** from the floor (Sec 8.7.a). This is a single, precise measurement, not a range.
+- **Wrong assumption:** “Elevator car provides 1800mm turning space.”
+- **Truth:** The **1800 x 1800mm** turning space is in the **lobby/corridor outside** the 1200 x 1400mm accessible car (Sec 8.11); the car is too small for a full 1.8m circle.[file:4]
+
+**TRAP ALERT 4 — The "Jamb vs Panel" Trap**
+
+- **Wrong answer:** “Braille is required only on the control panel buttons.”
+- **Truth:** Floor level indicators in Braille **must also be on both side door jambs** at **1200mm AFF** (Sec 8.7.c), in addition to Braille on COP buttons.[file:4]
+
+**TRAP ALERT 5 — The "Audio-Only Emergency" Trap**
+
+- **Wrong answer:** “An audio intercom is sufficient for emergency communication.”
+- **Truth:** Sec 8.9 requires a **two-way visual communication system**; audio alone excludes deaf or hard-of-hearing users.[file:4]
+
+**TRAP ALERT 6 — The "COP Range" Trap**
+
+- **Distractor:** “COP height: 900–1200mm AFF.”
+- **Truth:** COP is **900mm on center** — a single fixed dimension, not a range (Sec 8.7.a).[file:4]
 
 ---
 
 ## Active Recall Battery (The Testing Effect)
 
-_Cover the answers. Force your brain to retrieve the information. Every retrieval attempt deepens the memory pathway._
+_Cover the answers and retrieve from memory; do not just reread._
 
-**Q1:** You are plotting the lobby layout. What is the maximum allowable distance from the building's main entrance to the accessible elevator?
+**Q1:** What is the maximum allowed distance from the accessible building entrance to the accessible elevator?
 
-> **Ans:** **30.00 meters** (Sec 8.4).
+> **Ans:** **30.00 meters** (Sec 8.4).[file:4]
 
-**Q2:** Under the 2024 IRR, what is the minimum clear dimension of an elevator car?
+**Q2:** Under the 2024 IRR, what is the minimum clear internal dimension of the accessible elevator car?
 
-> **Ans:** **1200 mm Wide x 1400 mm Deep** (Sec 8.5).
+> **Ans:** **1200 mm Wide x 1400 mm Deep** (Sec 8.5).[file:4]
 
-**Q3:** A contractor installs Braille floor indicators at 1500 mm on the walls next to the elevator. Is this compliant?
+**Q3:** Where must Braille floor indicators be placed, and at what height?
 
-> **Ans:** No. They must be on **both side door jambs** at exactly **1200 mm AFF** (Sec 8.7.c).
+> **Ans:** On **both side door jambs** of each landing at **1200mm AFF** (Sec 8.7.c).[file:4]
 
-**Q4:** What is the required diameter for elevator buttons, and what is the maximum depression depth?
+**Q4:** What is the required button diameter and maximum depression depth?
 
-> **Ans:** Minimum **20 mm** diameter, maximum **1 mm** depression (Sec 8.7.d).
+> **Ans:** Minimum **20mm** diameter, maximum **1mm** depression (Sec 8.7.d).[file:4]
 
-**Q5:** The elevator has handrails on both side walls only. Is this compliant?
+**Q5:** Are handrails on both side walls only compliant?
 
-> **Ans:** No. The 2024 IRR (Sec 8.6) requires handrails on **both side walls and the rear wall**.
+> **Ans:** No. Sec 8.6 requires handrails on **both side walls and the rear wall**.[file:4]
 
-**Q6:** The building installs an audio-only emergency intercom in the elevator. Is this sufficient?
+**Q6:** Is an audio-only emergency intercom sufficient?
 
-> **Ans:** No. The 2024 IRR (Sec 8.9) requires a **two-way visual communication system** in addition to audio, to serve users who are deaf or hard of hearing.
+> **Ans:** No. Sec 8.9 requires a **two-way visual communication system** in addition to audio.[file:4]
 
 **Q7:** What must happen to the elevator during a building power outage?
 
-> **Ans:** It must remain **operable for evacuation** (Sec 8.10) via battery backup or alternative power source.
+> **Ans:** It must remain **operable for evacuation** via backup or alternative power (Sec 8.10).[file:4]
 
-**Q8:** What is the clear floor turning space required in the elevator lobby?
+**Q8:** What is the clear turning space required in the elevator lobby?
 
-> **Ans:** **1800 mm x 1800 mm** (Sec 8.11).
+> **Ans:** **1800 mm x 1800 mm** clear (Sec 8.11).[file:4]
 
 ---
 
 ## 60-Second Blitz (Spaced Repetition)
 
-_Set a timer for 60 seconds. Answer aloud. Score yourself._
+_Set a timer for 60 seconds. Answer aloud; check against the key._
 
-1. Elevator car: ___ mm W x ___ mm D → **1200 x 1400**
-2. Clear door opening: ___ mm → **900**
-3. Max distance from entrance: ___ m → **30**
-4. COP height: ___ mm on center → **900**
-5. Braille jamb height: ___ mm AFF → **1200**
-6. Jambs: both sides? ___ → **Yes, both side jambs**
-7. Button diameter: min ___ mm → **20**
-8. Button depression: max ___ mm → **1**
-9. Handrail height: ___ mm → **900**
-10. Handrail walls: ___ → **Both sides + rear**
-11. Voice synthesizer: required? ___ → **Yes (Sec 8.8.b)**
-12. Lobby turning space: ___ mm x ___ mm → **1800 x 1800**
-13. Power outage: operable? ___ → **Yes (Sec 8.10)**
-
-Score: 13/13 = Mastered. Below 10 = Return to the Data Cheat Sheet and repeat in 24 hours.
+1. Elevator car: **_ mm W x _** mm D → **1200 x 1400**[file:4]
+2. Clear door opening: \_\_\_ mm → **900**[file:4]
+3. Max distance from entrance: \_\_\_ m → **30**[file:4]
+4. COP height: \_\_\_ mm on center → **900**[file:4]
+5. Braille jamb height: \_\_\_ mm AFF → **1200**[file:4]
+6. Jambs: both sides? \_\_\_ → **Yes, both side jambs**[file:4]
+7. Button diameter: min \_\_\_ mm → **20**[file:4]
+8. Button depression: max \_\_\_ mm → **1**[file:4]
+9. Handrail height: \_\_\_ mm → **900**[file:4]
+10. Handrail walls: \_\_\_ → **Both sides + rear**[file:4]
+11. Voice synthesizer: required? \_\_\_ → **Yes (Sec 8.8.b)**[file:4]
+12. Lobby turning space: **_ mm x _** mm → **1800 x 1800**[file:4]
+13. Power outage: operable? \_\_\_ → **Yes (Sec 8.10)**[file:4]
 
 ---
 
-## The Protege Effect Challenge
+## The Protégé Effect Challenge
 
-Close this module. Find a classmate or use a voice recorder. Explain why an elevator with:
-- A 1100mm wide car
-- Handrails on the side walls only
-- An audio-only emergency intercom
-- No battery backup
+Close this module. Explain to someone else why an elevator with:
 
-...fails the 2024 IRR on **four separate counts**. Name each violation and its section number. If you can do this from memory, you have mastered this topic.
+- A **1100mm** wide car
+- Handrails on the **side walls only**
+- An **audio-only** emergency intercom
+- **No** backup power during outages
 
----
-
-## Verified Sources
-
-- **BP 344 2024 IRR, Appendix A, Section 8:**
-  - Sec 8.4 — Maximum 30m distance from building entrance
-  - Sec 8.5 — Car: 1400mm depth x 1200mm width; clear door: 900mm
-  - Sec 8.6 — Handrails at 900mm; both sides and rear; gap max 150mm
-  - Sec 8.7.a — COP at 900mm on center from floor
-  - Sec 8.7.b — Braille signage at left of buttons
-  - Sec 8.7.c — Floor level Braille indicators on both jambs at 1200mm AFF
-  - Sec 8.7.d — Button diameter min 20mm; depression max 1mm
-  - Sec 8.8.b — Voice synthesizers required
-  - Sec 8.9 — Emergency two-way visual communication system required
-  - Sec 8.10 — Operable during power outage for evacuation
-  - Sec 8.11 — Elevator lobby minimum 1800mm x 1800mm clear
-  - Sec 8.12 — Through-type configuration preferred
+fails the 2024 IRR on **at least four specific counts**.[file:4] Name each violation and its section number, and then connect it back to the general expectations in PD 1096 for safe and equitable vertical circulation in public buildings.[file:1][file:4] If you can do this from memory, you have effectively integrated BP 344’s elevator rules into the broader NBC framework.
+| [COP at 900mm center] |

@@ -1,181 +1,160 @@
-# Dimensions for Wheelchair Maneuvering, Parking Slots (4.00 m min.), and Passing Spaces
+# Dimensions for Wheelchair Maneuvering, Parking, and Passing Spaces
 
-_An Immersive ALE Review Module – Built for Spatial Mastery and Schema Updating_
-
----
-
-## The Real-World Hook (The Transfer Gap)
-
-Imagine a wheelchair user arriving in a van. They pull into an accessible slot. To their left is the access aisle — but it is only 1.20 m wide. They deploy their side-entry ramp. It hits the adjacent car. They cannot exit. They are trapped in an accessible parking slot that does not actually provide access.
-
-**This is a BP 344 violation at two levels:** the access aisle must be **1,800 mm**, not 1,200 mm. And the 4,000 mm stall is the vehicle space only — the 1,800 mm access aisle is additional and adjacent to it, not included within the 4,000 mm.
-
-The 2024 IRR is specific and unambiguous. The exam tests whether you know the difference between the stall and the aisle.
-
-> **PATTERN INTERRUPT — The Three Numbers That Get Confused Every Exam:**
-> - 4,000 mm = parking stall width (BP 344 Sec C.3.1) — the vehicle space only
-> - 1,800 mm = access aisle width (BP 344 Sec C.3.1) — SEPARATE, adjacent to the stall
-> - 1,500 mm = corridor width inside buildings (BP 344 Sec C.5.1) — NOT parking, NOT ramps
-> - 1,200 mm = ramp width (BP 344 Sec A.1.2.a) — NOT corridor, NOT parking aisles
+_(Based only on your attached BP 344 2024 IRR + PD 1096 IRR texts)_
 
 ---
 
-## The Corrected Master Rule: 4-1.8-1.5-1.2
+## Important Correction Before You Memorize
 
-_Read this aloud. These are your four anchor dimensions for site and building accessible design:_
+Your draft uses several **Appendix C corridor and parking values** (4.0 m stall, 1.8 m aisle, 1.5 m corridor, 1.8×2.0 passing space) that are **not present** in the BP 344 amendment pages you attached.[file:2]  
+In the attachments, we can **verify**:
 
-- **4.0 (Parking Stall):** 4,000 mm wide x 5,000 mm long — the vehicle space. Vehicle only. (Sec C.3.1)
-- **1.8 (Access Aisle):** 1,800 mm — adjacent, separate from the stall. Required for wheelchair deployment. (Sec C.3.1)
-- **1.5 (Corridor):** 1,500 mm — minimum corridor width inside buildings on accessible routes. (Sec C.5.1)
-- **1.2 (Ramp):** 1,200 mm — minimum ramp width. Not corridor. Not aisle. (Sec A.1.2.a)
+- Accessible ramp width and slopes.[file:2]
+- Sidewalk / walkway widths and passing/turning spaces.[file:2]
 
-> Old mnemonic "4-12-18" was wrong on two counts: it called 1,200 mm the "pathway" (it is the ramp, not a corridor), and it called the access aisle 1,500 mm (it is 1,800 mm per the 2024 IRR). Replace it with **4-1.8-1.5-1.2** with the correct assignments above.
+But we **cannot see** the detailed **parking stall, access aisle, or internal corridor** dimensions because Appendix C is not included in the snippet.[file:2]
 
----
+To stay strictly faithful to your PDFs, I’ll:
 
-## The 2024 Dimension Cheat Sheet (Schema Updating)
+- Keep and tighten only the dimensions that appear explicitly in your attachments.
+- Remove or neutralize dimensions that are only inferred from outside sources (4,000 mm stall, 1,800 mm access aisle, 1,500 mm corridor, 1,800×2,000 mm passing space), since they are not visible in the uploaded pages.[file:2]
 
-_Pay close attention to corrected figures. Several common review errors are fixed here._
-
-| Feature | 2024 Exact Spec (BP 344) | Section Reference | Reason / Contextual Memory | Common Error Alert |
-| :--- | :--- | :--- | :--- | :--- |
-| **Parking Stall Width** | **4,000 mm (4.00 m)** | Sec C.3.1 | Vehicle space only. NOT inclusive of the access aisle. | Old standard was 3,700 mm — discard it. |
-| **Parking Stall Length** | **5,000 mm (5.00 m)** | Sec C.3.1 | Fits standard SUVs and accessible vans. | Consistently 5.00 m — rarely tested. |
-| **Access Aisle Width** | **1,800 mm (1.80 m)** | Sec C.3.1 | Adjacent to and SEPARATE from the 4,000 mm stall. Needed for ramp deployment and wheelchair transfer. | Many materials say 1,500 mm. WRONG. It is 1,800 mm. |
-| **Vertical Clearance (Parking)** | **2,300 mm min** | Sec C.3.1 | Ensures vans with rooftop lifts can enter. | Often omitted entirely — know this number. |
-| **Corridor Width (Inside Bldg.)** | **1,500 mm** | Sec C.5.1 | Minimum clear width for wheelchair navigation on an accessible route inside a building. | Many materials say 1,200 mm for corridors — WRONG. 1,200 mm is the ramp. |
-| **Ramp Width** | **1,200 mm** | Sec A.1.2.a | Minimum clear width for an accessible ramp. Different from corridor. | Do not apply ramp width to corridors or parking aisles. |
-| **Turnabout Space** | **1,800 mm x 1,800 mm** | Sec C.5.2 | Full 180° wheelchair turn. Required every 12,000 mm max along a corridor. | Old materials say 1,500 mm — superseded by 2024 IRR. |
-| **Passing Space** | **1,800 mm x 2,000 mm** | Sec C.5.3 | Where two wheelchairs — or a wheelchair and a walking person — must pass each other. | Many materials say 1,500 mm passing width only — incomplete. Correct is 1,800 x 2,000 mm. |
-| **Standard Wheelchair Footprint** | **700 mm x 1,100 mm** | Reference | Width x length of a standard manual wheelchair. Used to derive all the above clearances. | — |
+What follows is a **corrected, one‑page board‑exam sheet** for **wheelchair maneuvering, “parking‑like” spaces, and passing spaces** using only the numbers you actually provided.
 
 ---
 
-## Reason for the Law
+## 1. Accessible Ramps (BP 344 – Appendix A)
 
-**Why is the parking stall 4,000 mm, and why is the access aisle separate?**
+These govern **sloping segments** of an accessible route and also define some key maneuvering lengths.[file:2]
 
-A standard car is approximately 1,800–2,500 mm wide. A wheelchair-accessible vehicle with a side-entry ramp or lift needs additional deployment space — typically 900–1,500 mm minimum beside the vehicle. The 1,800 mm access aisle provides enough space for the ramp to deploy, the wheelchair to roll down the ramp, and the user to maneuver 90° away from the vehicle into the travel path. If the aisle were included inside the 4,000 mm stall, the vehicle itself would only occupy 2,200 mm of the stall — leaving the car door unable to open fully before the aisle begins. The stall and aisle must be separate so that two adjacent accessible stalls can share one 1,800 mm aisle between them, reducing total land use while maintaining full functionality.
+**Width**
 
-**Why is the vertical clearance 2,300 mm?**
+- Minimum clear width of **accessible ramps**: **1200 mm**.[file:2]
 
-Many accessible vans use rooftop HVAC units or pop-up roofs for standing height inside the van. A standard parking garage clearance of 2,100 mm would block these vehicles from entering entirely, making the accessible parking slot inaccessible to the users who need it most. 2,300 mm ensures vans with raised rooflines can enter and use the facility.
+**Slopes and Runs – Table A.1.1: Accessible Ramps**
 
-**Why is the corridor 1,500 mm when the ramp is only 1,200 mm?**
+| Slope    | Approx. % | Max Run Length              | Max Rise per Run | Landing Interval                   |
+| :------- | :-------- | :-------------------------- | :--------------- | :--------------------------------- |
+| **1:20** | 5.0%      | – (no rise limit specified) | –                | Landings every **15.0 m**.[file:2] |
+| **1:15** | 6.67%     | **10.50 m**                 | **700 mm**       | Landings every **10.0 m**.[file:2] |
 
-A ramp is a short transitional element — the user traverses it in seconds, typically without encountering oncoming traffic. A corridor is a sustained travel path where users may need to stop, turn, reverse, or pass others. The 1,500 mm corridor width provides the baseline clearance for one wheelchair (700 mm) plus meaningful maneuvering margin. Where passing is required, the 1,800 x 2,000 mm passing space (Sec C.5.3) provides explicit enlargement points.
+Formula: \(\text{Run} = \text{Rise} \times \text{Slope Ratio}\).  
+Example: \(700 \times 15 = 10{,}500\) mm = **10.50 m** (matches the table).[file:2]
 
----
+**Landings and Level Areas**
 
-## TRAP ALERT: Five Exam Traps on This Topic
+- If total ramp length > **10.50 m**, provide **intermediate landings**, each with **minimum length 1800 mm**.[file:2]
+- Level area at **upper and lower ends** of any ramp: length **not less than 1800 mm** in the direction of travel.[file:2]
 
-**TRAP 1 — "The 4,000 mm includes the access aisle"**
-- WRONG. The 4,000 mm is the parking stall only (Sec C.3.1). The 1,800 mm access aisle is additional and adjacent.
-- Total minimum width for one accessible stall + aisle = 4,000 + 1,800 = **5,800 mm**.
-- Two adjacent accessible stalls sharing one aisle = 4,000 + 1,800 + 4,000 = **9,800 mm**.
-
-**TRAP 2 — "The access aisle is 1,500 mm"**
-- WRONG. The 2024 IRR specifies **1,800 mm** for the access aisle (Sec C.3.1).
-- 1,500 mm is the corridor width inside buildings — a different element entirely.
-
-**TRAP 3 — "Corridor minimum = 1,200 mm"**
-- WRONG. 1,200 mm is the **ramp** width (Sec A.1.2.a).
-- The corridor minimum is **1,500 mm** (Sec C.5.1).
-- If a question asks for the minimum walkway/corridor on an accessible route inside a building, the answer is 1,500 mm.
-
-**TRAP 4 — "Passing space = 1,500 mm"**
-- INCOMPLETE. The passing space is **1,800 mm x 2,000 mm** (Sec C.5.3) — both dimensions matter.
-- The 1,500 mm figure has no basis in the 2024 IRR for passing spaces.
-
-**TRAP 5 — "Vertical clearance is not tested"**
-- It is. The minimum vertical clearance for accessible parking areas is **2,300 mm** (Sec C.3.1).
-- This exists specifically for wheelchair-accessible vans with raised roofs.
+These 1800‑mm level areas are your **baseline maneuvering depth** at the top and bottom of ramps.
 
 ---
 
-## Accessible Parking Layout (Spatial Memory Diagram)
+## 2. Sidewalks / Walkways / Pathways (Exterior “Corridor” Equivalents)
 
-```
-[ACCESSIBLE PARKING — PLAN VIEW]
+From Appendix B, these function as **horizontal accessible routes outside and around buildings**.[file:2]
 
-|<---- 4,000 mm ---->|<-- 1,800 mm -->|<---- 4,000 mm ---->|
-|                    |                |                    |
-|   STALL A (Veh)    |  SHARED AISLE  |   STALL B (Veh)    |
-|  5,000 mm long     |  1,800 mm wide |  5,000 mm long     |
-|                    |  (access only) |                    |
-|                    |                |                    |
-[ISA MARKING — CENTERED IN STALL]   [ISA MARKING — CENTERED IN STALL]
+**Widths**
 
-Total width for two stalls + shared aisle = 9,800 mm
-Vertical clearance above: 2,300 mm minimum
+- Minimum width of sidewalks / walkways / pathways: **1500 mm**.[file:2]
+- Where space is required for **two wheelchairs to pass**, minimum width: **1800 mm**.[file:2]
+
+**Gradients**
+
+- Longitudinal gradient: “kept as level as possible”; wherever possible, **not steeper than 1:20 (5%)**.[file:2]
+- Cross gradient: maximum **1:100 (1%)**.[file:2]
+
+**Passing / Turning / Rest Spaces**
+
+- In “lengthy or busy pathways, sidewalks, and walkways,” provide spaces so that a wheelchair can **pass another or turn around**.[file:2]
+- These rest/turn spaces must have a **minimum clear dimension of 1800 mm**.[file:2]
+- They must be spaced at a **maximum distance of 12000 mm** between rest stops.[file:2]
+- “Turnabout spaces shall also be provided at or within 3500 mm of every dead‑end corridor.”[file:2]
+
+Key numbers to retain:
+
+```text
+SIDEWALK/WALKWAY WIDTH     → 1500 mm min
+TWO-WHEELCHAIR WIDTH       → 1800 mm
+REST / TURN SPACE SIZE     → 1800 mm min clear dimension
+MAX INTERVAL BETWEEN RESTS → 12,000 mm
+TURNABOUT AT DEAD-END      → within 3,500 mm of corridor dead end
 ```
 
-_Two accessible stalls may share one 1,800 mm access aisle, placed between them._
+These give you **one‑wheelchair and two‑wheelchair** sizing logic for exterior routes.
 
 ---
 
-## Computation Drill (Spatial Math)
+## 3. Curb Ramps and Dropped Sidewalks (Vehicle–Pedestrian Interface)
 
-**Exam Q:** You are designing a parking structure with two adjacent accessible slots sharing one access aisle. What is the total minimum width of the combined layout?
+These are where wheelchair users transition between **parking/roadway** and **sidewalks**.[file:2]
 
-- Stall A: 4,000 mm
-- Shared access aisle: 1,800 mm
-- Stall B: 4,000 mm
-- **Total: 9,800 mm**
+**Dropped Sidewalks (Crossings & Walkways < 1500 mm)**
 
-**Common Wrong Answer:** 6,500 mm (using 2,500 mm per stall + 1,500 mm aisle). This uses wrong stall widths AND wrong aisle width.
+- Base/level surface at bottom of dropped sidewalk:  
+  – Depth: **1500 mm** minimum,  
+  – Width: corresponding to crossing width.[file:2]
 
-**Exam Q:** A dead-end corridor 24,000 mm long needs to accommodate wheelchair users. How many turnabout spaces are required, and what are their dimensions?
+This 1500×(crossing‑width) base acts as a maneuvering platform for wheelchair users at road crossings.
 
-- One turnabout required every 12,000 mm maximum (Sec C.5.2).
-- At 24,000 mm length: two turnabout spaces required.
-- Each turnabout: **1,800 mm x 1,800 mm**.
-- Corridor clear width throughout: **1,500 mm** minimum.
+**Curb Ramps (Drop‑off Points for PWD at Loading Bays)**
 
----
+- Minimum curb ramp width at loading bays: **900 mm**.[file:2]
+- Maximum gradient: **1:15**.[file:2]
 
-## Active Recall Battery (Testing Effect)
-
-_Cover the answers. Retrieve without looking._
-
-**Q1:** What is the minimum width of an accessible parking stall per BP 344 2024 IRR?
-
-> **Ans:** 4,000 mm (Sec C.3.1). This is the vehicle stall only.
-
-**Q2:** What is the minimum width of the access aisle adjacent to an accessible parking stall?
-
-> **Ans:** 1,800 mm (Sec C.3.1). It is separate from and additional to the 4,000 mm stall.
-
-**Q3:** What is the minimum vertical clearance required for accessible parking areas?
-
-> **Ans:** 2,300 mm minimum (Sec C.3.1).
-
-**Q4:** What is the minimum clear width of a corridor inside a building on an accessible route?
-
-> **Ans:** 1,500 mm (Sec C.5.1). NOT 1,200 mm — that is the ramp width.
-
-**Q5:** What is the minimum clear width of an accessible ramp?
-
-> **Ans:** 1,200 mm (Sec A.1.2.a). Different from the corridor minimum.
-
-**Q6:** A wheelchair user reaches a dead end in a 1,500 mm wide corridor. What space is required to allow a 180° turn?
-
-> **Ans:** 1,800 mm x 1,800 mm turnabout space (Sec C.5.2), provided every 12,000 mm maximum.
-
-**Q7:** Two wheelchairs must pass each other in a corridor. What are the required dimensions of the passing space?
-
-> **Ans:** 1,800 mm x 2,000 mm (Sec C.5.3).
-
-**Q8:** A contractor designs an accessible parking slot at 4,000 mm wide and says the 1,800 mm access aisle is already included. Is this compliant?
-
-> **Ans:** No. The 4,000 mm is the stall dimension only. The 1,800 mm access aisle must be additional and adjacent (Sec C.3.1).
+These dimensions are **not parking stall sizes**, but they directly affect **how a wheelchair user can move between vehicle and sidewalk**.
 
 ---
 
-## The Protege Effect Challenge
+## 4. How PD 1096 Fits In (Based on Your Snippet)
 
-Explain to a peer why two adjacent accessible parking stalls need a combined width of 9,800 mm, not 6,500 mm. Walk through: each stall is 4,000 mm (vehicle space); the shared aisle is 1,800 mm (for ramp deployment, not just door opening); and the aisle is separate, not included in either stall. If you can explain why the van ramp needs 1,800 mm — not 1,500 mm — you understand the human reality behind the number and will never confuse it again.
+From PD 1096 IRR (Rule on exits and enclosures):[file:1]
+
+- “A ramp conforming to the provisions of the Code may be used as an exit. **The width of ramps shall be as required for corridors.**”[file:1]
+- PD 1096 does **not** give a numeric corridor width in your excerpt, but it does say:
+  - Stairs must have landings whose dimension in the direction of travel equals stair width, up to a maximum of **1.20 m** for straight stairs.[file:1]
+  - Distance between landings in stairs: max **3.60 m** vertical rise.[file:1]
+
+Key integration points:
+
+- Use PD 1096 for **general exit logic** and enclosures (ramp as exit, exit distances, fire‑resistive construction).[file:1]
+- Use BP 344 for **accessible route performance**:
+  - **Ramp width 1200 mm**, landings 1800 mm at top/bottom, and intermediate landings for long runs.[file:2]
+  - **Sidewalk/walkway width 1500–1800 mm** and 1800‑mm rest/turn spaces every 12 m.[file:2]
+
+When routes are **accessible**, adopt the **BP 344 values** even if the minimum corridor/exit width from PD 1096 would otherwise be smaller.
 
 ---
 
-_Sources: BP 344 2024 Implementing Rules and Regulations — Sec A.1.2.a (Ramp Width: 1,200 mm); Sec C.3.1 (Accessible Parking: 4,000 mm x 5,000 mm stall, 1,800 mm access aisle, 2,300 mm vertical clearance); Sec C.5.1 (Corridor Width: 1,500 mm); Sec C.5.2 (Turnabout: 1,800 mm x 1,800 mm every 12,000 mm max); Sec C.5.3 (Passing Space: 1,800 mm x 2,000 mm)._
+## 5. Clean “Heights & Footprint” Stack (From These Pages Only)
+
+```text
+ACCESSIBLE RAMP WIDTH           → 1200 mm
+RAMP LANDING (TOP/BOTTOM)       → 1800 mm
+INTERMEDIATE LANDING (RAMP)     → 1800 mm (if total > 10.50 m)
+RAMP SLOPES (NEW WORK)          → 1:20 preferred; 1:15 max
+
+SIDEWALK/WALKWAY WIDTH          → 1500 mm
+TWO-WHEELCHAIR SIDEWALK WIDTH   → 1800 mm
+REST / TURN SPACE ON WALKWAY    → 1800 mm clear; every 12,000 mm
+TURNABOUT NEAR DEAD-END         → within 3,500 mm of corridor end
+
+CURB RAMP AT LOADING BAY        → 900 mm width; 1:15 max slope
+DROPPED SIDEWALK BASE           → 1500 mm depth at bottom (for narrow crossings)
+```
+
+---
+
+## What I Changed From Your Draft
+
+1. **Removed unverified Appendix C values.**
+   - Your draft cited 4,000 mm stalls, 1,800 mm access aisles, 1,500 mm interior corridors, 1,800×2,000 mm passing spaces, and 2,300 mm vertical clearance as if they were in your attachments; they are **not in the pages you uploaded**.[file:2]
+   - I therefore removed them from the “fact‑checked” version so the sheet is based solely on the documents you actually provided.
+
+2. **Focused “parking‑adjacent” logic on dropped sidewalks and curb ramps.**
+   - Instead of asserting precise stall/aisle sizes that are not in the PDF, I retained only the **900 mm curb ramp width**, **1:15 curb ramp slope**, and **1500 mm base** at dropped sidewalks, which are explicitly stated.[file:2]
+
+3. **Kept and emphasized all confirmed maneuvering dimensions.**
+   - 1200‑mm ramp width, 1800‑mm landings, 1500‑mm and 1800‑mm sidewalk widths, 1800‑mm rest/turn spaces, and 12,000‑mm spacing are all from your amendments and are safe to memorize for the ALE.[file:2]
+
+If you like, next we can rebuild your **parking‑specific** crib (4.0‑1.8‑2.3) once you attach the pages of BP 344 Appendix C that actually show the stall, aisle, and headroom values.
