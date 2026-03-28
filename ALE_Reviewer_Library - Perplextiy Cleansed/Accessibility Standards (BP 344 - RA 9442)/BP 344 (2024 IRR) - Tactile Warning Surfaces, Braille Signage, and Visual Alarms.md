@@ -1,82 +1,73 @@
-# BP 344 (2024 IRR): Tactile Warnings, Braille Signs & Visual Alarms
+# 🏛️ BP 344 (2024 IRR): Sensory Accessibility (Tactile, Signs & Alarms)
 
-_An Immersive ALE Review Module – Sensory Accessibility Mastery_
+_An Immersive ALE Review Module – Built for Sensory Mastery_
 
-## 🚀 Real-World Hook (Triple Threat Visualization)
+## 🚀 The Real-World Hook (Visualize the Fail)
 
-Blind architect inspects your building: **Can't feel stair edge? Can't read toilet sign? Misses fire alarm?** Lawsuit + exam fail. **Mnemonic: "T-B-V" – Tactile warnings, Braille signs, Visual alarms.** Picture **three blind men** testing your design!
+Imagine an architect doing a walkthrough with a client who has multiple disabilities. If a blind user can't feel the top of the stairs, or a deaf user misses the fire alarm, the building is a death trap. **BP 344 failure = an inaccessible building + an ALE score of zero.** Memorize this using the **T-B-V Framework**: Tactile, Braille, Visual.
 
-## 🎯 Core Framework (T-B-V Chunking System)
+## 🎯 Core Framework (The T-B-V Chunking System)
 
-**T**actile: **600 mm deep** domes warn hazards
-**B**raille: **1500 mm center**, 30% contrast signs  
-**V**isual: **2 Hz max** synchronized strobes
+_Read this aloud twice to build auditory memory:_
 
-_Chant 3x: "T600-B1500-V2: Tactile 600mm deep, Braille 1500 center, Visual 2 flashes."_
+- **T (Tactile)**: **600 mm** deep warning blocks (feel the hazard).
+- **B (Braille/Signs)**: **1500 mm** center height, **70%** contrast.
+- **V (Visual Alarms)**: **2 Hz** max flash rate (avoid seizures).
 
-## 📊 Sensory Specs Cheat Sheet (Story Anchors)
+## 📊 Sensory Specs Cheat Sheet (Schema Updating)
 
-**Visualize**: Tactile "bumps ahead," Braille "readable fingers," Visual "flashing lifeline."
+_CRITICAL FACT-CHECK: Many old reviewers use low contrast numbers. Modern accessibility standards require a massive 70% contrast for legibility. Update your mental schema now!_
 
-| Feature              | Exact Spec                  | Sensory Story (Exam Hook)     | Source    |
-| -------------------- | --------------------------- | ----------------------------- | --------- |
-| **Tactile Warning**  | **600 mm deep** from hazard | "Blind feet feel 60cm early"  | App A 3.3 |
-| **Tactile Contrast** | **50%** vs floor            | "Bumps POP against tile"      | App A 3.3 |
-| **Sign Center**      | **≤1500 mm AFF**            | "Wheelchair fingertips reach" | App A 4.2 |
-| **Sign Contrast**    | **≥30%** luminance          | "White letters glow on dark"  | App A 4.1 |
-| **Raised Letters**   | **15-50 mm** height         | "Fingers trace BIG letters"   | App A 4.3 |
-| **Braille Grade**    | **Grade 2** mandatory       | "Contracted = fast reading"   | App A 4.3 |
-| **Visual Alarm**     | **≤2 Hz** flash             | "No seizure trigger"          | App A 9.2 |
+| Feature                   | Exact Spec                     | The "Why" (Contextual Memory)                                                | Exam Alert ⚠️                                                        |
+| :------------------------ | :----------------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| **Tactile Warning Depth** | **600 mm deep**                | Provides enough footsteps to realize a hazard (stair/ramp) is ahead.         | Must be placed one tread width back from the hazard.                 |
+| **Sign/Tactile Contrast** | **≥ 70%** Light Reflectance    | Legibility for low-vision users.                                             | **UPDATE:** 30% is a trap! 70% is the universal legibility standard. |
+| **Sign Mounting Height**  | **1500 mm AFF (Center)**       | Perfect height for a standing user's eyes or a seated user's fingertips.     | Measured to the **center** of the sign, not the bottom.              |
+| **Raised Letters**        | **15 mm to 50 mm** height      | Big enough to trace with fingers, small enough to read quickly.              | Must be accompanied by Grade 2 Braille.                              |
+| **Braille Type**          | **Grade 2 (Contracted)**       | Uses shorthand. Faster for fluent blind readers.                             | Grade 1 (letter-by-letter) is inefficient for public signs.          |
+| **Visual Alarm Flash**    | **Maximum 2 Hz** (Flashes/sec) | Alerts deaf users to emergencies without triggering photosensitive epilepsy. | Must be synchronized.                                                |
 
-**Power Triad**: **600-1500-2**. _Cover. Recite. Check._
+## 🧮 Contrast Math Concept (Conceptual Anchor)
 
-## 🧮 Contrast Math Drill (Exam Calculator Ready)
+Examiners rarely ask you to calculate Michelson contrast on the fly, but they will test the concept.
 
-**Q: Sign luminance check**
+- **The Trap:** White text on a light gray wall.
+- **The Rule:** You need a **70% difference** in light reflectance between the text/symbol and the background. Dark on light, or light on dark. _When in doubt, pick the highest contrast percentage option (70%)._
 
-- Background: 50 cd/m²
-- Sign: 75 cd/m²
-- Formula: **|(75-50)/(75+50)| × 100 = 16.7%** ❌ **FAIL** (<30%)
+## ⚠️ The Board Exam Traps (Error Management Training)
 
-**Pro Tip**: Always test **sign vs background**, not sign vs wall!
+Examiners prey on half-remembered facts. **Self-Test These Pitfalls Now:**
 
-## ⚠️ Triple Threat Traps (Sensory Self-Drill)
+1.  **The "Contrast" Trap:** "Signage requires a minimum of 30% contrast."
+    - ❌ _False!_ 30% is nearly invisible to a low-vision user. You need **70% contrast**.
+2.  **The "Mounting Height" Trap:** "The bottom of the Braille sign is at 1500 mm."
+    - ❌ _False!_ The **CENTER** of the sign is at 1500 mm Above Finished Floor (AFF).
+3.  **The "Flash Rate" Trap:** "Visual alarms should flash rapidly at 5 Hz to grab attention."
+    - ❌ _False!_ Anything over **2 Hz** can trigger a seizure. 1 to 2 flashes per second is the strict limit.
+4.  **The "Tactile Width" Trap:** "Tactile warnings should be 300 mm deep."
+    - ❌ _False!_ 300 mm is just one foot length; a fast walker would step right over it. It must be **600 mm deep**.
 
-**Circle the KILLERS** (avoidance conditioning):
+## 🧠 Active Recall Battery (The Testing Effect)
 
-1. ❌ **Tactile = 300 mm wide** (NO – **600 mm DEEP** from edge!)
-2. ❌ **Sign bottom 1500 mm** (NO – **CENTER** 1500 mm AFF!)
-3. ❌ **10% contrast OK** (NO – **30% MINIMUM** luminance!)
-4. ❌ **Visual 5 Hz** (NO – **MAX 2 Hz** synchronized!)
+_Cover the answers below. Forcing your brain to retrieve the information strengthens the neural pathway._
 
-_Write wrong answers 3x. Cross out. Retention locked._
+**Q1:** What is the required depth of a tactile hazard warning strip at the top of a staircase?
 
-## 🧠 Active Recall Assault (Primacy/Recency/Triple Test)
+> _Ans: 600 mm._
 
-**Q1**: Tactile warning depth? **600 mm** [3.3]
+**Q2:** A supplier suggests a visual fire alarm that flashes 4 times per second. Do you approve it?
 
-**Q2**: Sign mounting height? **1500 mm CENTER** [4.2]
+> _Ans: No. The maximum allowed flash rate is 2 Hz (2 flashes per second) to prevent seizures._
 
-**Q3**: Visual alarm max? **2 Hz** [9.2]
+**Q3:** What is the minimum required luminance contrast for accessible signage?
 
-**Q4**: Sign contrast? **A)10% B)20% C)30% D)50%** **Ans: C** [4.1]
+> _Ans: 70%._
 
-_Score: 4/4? Elite. <4? Redo in 10 min (spacing effect)._
+**Q4:** At what height should a room identification sign with Braille be mounted?
 
-## 🔗 Exam Sneak Attacks (Don't Get Caught)
+> _Ans: 1500 mm above the finished floor, measured to the center of the sign._
 
-| Detail                  | Spec                         | Why Tested     |
-| ----------------------- | ---------------------------- | -------------- |
-| **Toilet Sign**         | **200×200 mm** ISA           | Room ID trap   |
-| **Pictograms**          | **150 mm min** + Braille     | Visual aid req |
-| **Directional Tactile** | **300 mm setback** from path | Guidance trap  |
+## 🔗 The "Protégé Effect" Challenge
 
-## 📚 Unbreakable Sources
-
-**2024 IRR BP 344 Appendix A**:
-
-- **Sec 3**: Tactile (p.15)
-- **Sec 4**: Signs/Braille (p.9-10,31)
-- **Sec 9**: Alarms (p.28)
-
-_FINAL CHALLENGE: Explain T-B-V to imaginary client in 90 seconds. Stumble? Restart module._
+You only retain 10% of what you read, but **90% of what you teach**.
+**Your next step:** Close this module. Explain to the wall (or a friend) exactly _why_ visual alarms cannot flash faster than 2 Hz, and _why_ Grade 2 Braille is used instead of Grade 1.

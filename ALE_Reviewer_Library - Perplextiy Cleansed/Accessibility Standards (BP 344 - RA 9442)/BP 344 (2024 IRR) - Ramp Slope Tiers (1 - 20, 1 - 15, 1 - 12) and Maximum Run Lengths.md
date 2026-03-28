@@ -1,77 +1,70 @@
-# BP 344 (2024 IRR): Ramp Slopes 1:20 & 1:15 – Slope Mastery
+# 🏛️ Universal Ramp Mastery & BP 344 (2024 IRR): Slope Calculations
 
-_An Immersive ALE Review Module – Board Exam Ramp Calculator_
+_An Immersive Review Module – Board Exam Ramp Calculator_
 
-## 🚀 Real-World Hook (Visualize the Fail)
+## 🚀 The Real-World Hook (Visualize the Fail)
 
-You're bidding on a government hospital ramp. Wheelchair stalls halfway up—**1:16 slope disaster**. Client sues. Exam gives zero. **Mnemonic: "20-GOLD, 15-MAX"** – 1:20 preferred, 1:15 absolute limit. Picture a wheelchair "goldilocks" ramp!
+You're designing a hospital ramp. A wheelchair stalls halfway up because the slope is too steep, or the user has nowhere to rest because you forgot the landing. **Failure = an inaccessible building + a board exam score of zero.** Regardless of the specific code, the universal goal is a "Goldilocks" ramp: not too steep, with ample resting spots. For the ALE, we anchor on the **2024 IRR standards**: "20-GOLD, 15-MAX".
 
-## 🎯 Core Framework (Chunk: SLOPE-LENGTH-LANDING)
+## 🎯 Core Framework (The S-L-L Method)
 
-**S**lope: 1:20 (5%, unlimited), 1:15 (6.67%, 9m max run)
-**L**ength: 1:15 = 9m → LANDING → repeat
-**O**nly 2 slopes exist. **1:12 = exam trap!**
+Master any ramp by breaking it down into **S**lope, **L**ength, and **L**anding.
+_Read this aloud twice:_
 
-_Chant 3x: "20 gold unlimited, 15 max 9 meters, land every run."_
+- **S (Slope)**: 1:20 (Preferred/Gold) or 1:15 (Maximum Limit).
+- **L (Length/Run)**: How far it goes before a rest is legally required.
+- **L (Landing)**: The flat resting zone (Min. 1800 mm length).
 
-## 📊 Ramp Calculator (Visualize + Formula Memory)
+## 📊 The 2024 Data Cheat Sheet (Schema Updating)
 
-**Picture**: 1:15 = 600mm rise over 9m run. Steep but legal.
+_CRITICAL FACT-CHECK: Many reviewers use outdated or mixed metrics. The official 2024 IRR Table A.1.1 explicitly dictates the following. Overwrite old memories now!_
 
-| Slope           | Max Run Length | Max Rise/Run       | Landing Every | % Grade   |
-| --------------- | -------------- | ------------------ | ------------- | --------- |
-| **1:20** (GOLD) | **Unlimited**  | ≤600 mm continuous | **15 m**      | **5%**    |
-| **1:15** (MAX)  | **9 m**        | **600 mm**         | **9 m**       | **6.67%** |
+| Slope Ratio     | Grade %   | Max Run Length | Max Rise per Run | Interval for Landing |
+| :-------------- | :-------- | :------------- | :--------------- | :------------------- |
+| **1:20** (GOLD) | **5%**    | **Unlimited**  | No limit per run | Every **15 meters**  |
+| **1:15** (MAX)  | **6.67%** | **10.50 m** ⚠️ | **700 mm** ⚠️    | Every **10 meters**  |
 
-**Landing Specs**: 1500x1500 mm clear, level. [App A 5.2-5.3]
-**Power Formula**: Length = Rise × Slope Ratio
+**Universal Formula**: `Length = Rise × Slope Ratio`
+
+## ⚠️ The Board Exam Traps (Error Management Training)
+
+Examiners test if you know the _exact_ numbers and the _current_ memos. **Self-Test These Pitfalls:**
+
+1.  **The "9-Meter" Trap:** "Maximum run for 1:15 is 9m."
+    - ❌ _False!_ The 2024 IRR states the max length is **10.50 meters** (with a max rise of 700 mm).
+2.  **The "1500mm Landing" Trap:** "Landings must be 1.5m."
+    - ❌ _False!_ The 2024 IRR explicitly requires intermediate and end landings to have a minimum length of **1800 mm**.
+3.  **The "1:12 is Illegal" Trap (The 2025 Curveball):** "1:12 is strictly prohibited."
+    - ❌ _Context Matters!_ While the 2024 IRR pushes for 1:15/1:20, DPWH NBCDO Memo Circular No. 03 s. 2025 states that **1:12 is still the enforceable minimum standard** until the new appendix is officially published. For theoretical design questions, default to 1:15/1:20. For strict permit enforcement trick questions, 1:12 is technically still alive!
 
 ## 🧮 Computation Drill (Muscle Memory Math)
 
-**Exam Q**: 1200 mm rise @ 1:15 slope?
+_Cover the answers. Do the math. The universal formula (`Length = Rise x Ratio`) works anywhere._
 
-1. **Max rise/run**: 600 mm
-2. **Length/run**: 600 × 15 = **9 m**
-3. **Runs needed**: 1200 ÷ 600 = **2 runs**
-4. **Total ramp**: 2 × 9m + **1 landing** = **19 m**
-5. **Landings**: Every 9m → **1 intermediate**
+**Exam Q**: You have a 1400 mm total elevation to overcome using a 1:15 slope.
 
-_Cover table. Solve on paper NOW. Check. Repeat tomorrow._
+1.  **Find the total length**: 1400 mm (1.4 m) × 15 = **21 meters**.
+2.  **Check max rise per run**: The 2024 limit is **700 mm**.
+3.  **Calculate runs needed**: 1400 ÷ 700 = **2 runs**.
+4.  **Find landings**: 2 runs require **1 intermediate landing** (min 1800 mm length).
+5.  **Calculate total footprint**: 21 m (ramp slope) + 1.8 m (landing) = **22.8 meters total length**.
 
-## ⚠️ Exam Killers (Trap Avoidance Training)
+## 🧠 Active Recall Battery (The Testing Effect)
 
-**Test Yourself – Circle Wrong Answers**:
+_Force your brain to retrieve the information. Do not peek._
 
-1. ❌ **1:12 allowed** (NO – prohibited!)
-2. ❌ **1:15 = 10.5m max** (NO – **9m only**)
-3. ❌ **No landings needed** (NO – every 9m/15m)
-4. ❌ **Rise >600mm/run** (NO – **600mm max**)
+**Q1:** Under the 2024 IRR, what is the maximum rise allowed for a 1:15 slope before a landing is required?
 
-**Self-Drill**: "1:15 = 9m-600mm-land-repeat." Write 5x.
+> _Ans: 700 mm._
 
-## 🧠 Active Recall Battery (Testing Effect Locked)
+**Q2:** How frequently must you place a landing on a 1:20 slope?
 
-**Q1**: 1:15 max length? **9 m** [5.2]
+> _Ans: Every 15 meters._
 
-**Q2**: 1:20 landing interval? **15 m** [5.2]
+**Q3:** What is the minimum required length for an intermediate ramp landing?
 
-**Q3**: 900 mm rise @ 1:20? **A) 18m B) 15m C) Unlimited D) 9m**  
-**Ans: A** (900×20=18m, 1 landing @15m)
+> _Ans: 1800 mm._
 
-**Q4**: Max rise per 1:15 run? **600 mm**
+## 🔗 The "Protégé Effect" Challenge
 
-_Score yourself. <80%? Redo section. Spacing tomorrow._
-
-## 🔗 Critical Details (Exam Sneak Attacks)
-
-| Feature       | Spec                                            | Source   |
-| ------------- | ----------------------------------------------- | -------- |
-| **Landings**  | **1500×1500 mm** clear                          | 5.3      |
-| **Handrails** | **800-900 mm AFF**, 300 mm extension            | 5.4      |
-| **NO 1:12**   | **Prohibited** (Pedro Santos illustrative only) | 2024 IRR |
-
-## 📚 Rock-Solid Sources
-
-**2024 IRR BP 344 Appendix A, p.17-18**: Section 5 (Ramps)
-
-_FINAL RITE: Teach this to someone in 60 seconds. Can't? Redo module._
+To solidify this, explain to a peer exactly _why_ a 10.5m ramp at 1:15 works. (Hint: Because 10.5 ÷ 15 = 0.7m or 700mm rise, which perfectly matches the exact maximum rise allowed!). When you prove the math, you never forget the rule.

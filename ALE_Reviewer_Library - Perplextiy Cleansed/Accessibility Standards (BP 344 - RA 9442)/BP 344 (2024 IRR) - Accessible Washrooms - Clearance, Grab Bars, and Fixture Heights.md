@@ -56,7 +56,7 @@ _Write answers on paper. Check. Repeat in 10 min (spacing effect)._
 
 ## 🔗 Bonus: Showers (Don't Miss on Exams)
 
-- Roll-in: 1500x1500 mm min (1800x1800 preferred).
+- Roll-in: 1800x1800 mm min.
 - Grab bars: Same L-type + vertical on entry.
 - Slip-resistant floor. [App A 6.6]
 

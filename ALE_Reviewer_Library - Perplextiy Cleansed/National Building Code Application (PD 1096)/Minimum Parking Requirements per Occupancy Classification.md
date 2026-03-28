@@ -1,56 +1,97 @@
-# Minimum Parking Requirements per Occupancy Classification
+# 🚗 Architecture Board Exam (ALE) Mastery: Minimum Parking Requirements
 
-_An Immersive Architect Licensure Exam (ALE) Review Module_
+_Module Focus: Off-Street Parking Standards & Occupancy Ratios (NBCP)_
 
-## The Real-World Scenario (The Hook)
+---
 
-Imagine you are designing a new residential subdivision with single-family and multi-family dwelling units in Quezon City. Per PD 1096 RIRR Appendix A, what off-street parking slots are required based on occupancy and units?
+## 🧠 The "Why It Matters" Scenario (Schema Activation)
 
-## Core Concepts
+Imagine you are designing a medium-rise condominium in Quezon City. The developer wants to maximize saleable units, but you know that every unit you add changes the parking formula. If you miscalculate the required parking slots, the building won't get a permit, and redesigning the basement at the last minute will cost millions.
 
-- **Occupancy Classification**: Group A (Residential: single/multi-family); drives parking per unit/bedroom.
-- **Parking Slot Requirement**: Minimum **integral** off-street slots (4.8m x 7.5m min); pooled/visitor extra (NBCP IRR Appendix A).
+In the ALE, parking questions are guaranteed. The exam tests your ability to instantly recall specific ratios based on the **Occupancy Group** and the **Gross Floor Area (GFA)** of the units.
 
-## The Hard Data (Cheat Sheet)
+---
 
-| Occupancy (Group)                   | Key Metric           | Parking Slots Required (Appendix A) |
-| ----------------------------------- | -------------------- | ----------------------------------- |
-| **Single Detached (A-1)**           | Per dwelling unit    | 1 slot/unit                         |
-| **Duplex/Attached (A-1)**           | Per dwelling unit    | 1 slot/unit                         |
-| **Multi-Family <30 sqm/unit (A-2)** | Per 3 dwelling units | 1 slot/3 units                      |
-| **Multi-Family ≥30 sqm/unit (A-2)** | Per dwelling unit    | 1 slot/unit                         |
-| **Apartment w/ ≥4 bedrooms (A-2)**  | Per bedroom          | 1 slot/2 bedrooms                   |
-| **Dormitory (A-3)**                 | Per 5 beds           | 1 slot/5 beds                       |
-| **Hotels (H-2)**                    | Per room             | 1 slot/2 guest rooms                |
-| **Theaters/Clubs (I-1)**            | Per 25 sqm GFA       | 1 slot/25 sqm public area           |
+## 📐 Core Concepts (The Foundation)
 
-## ALE Exam Traps and Common Mistakes
+Before you memorize the ratios, you must memorize the physical footprint of the slots. The ALE frequently tests these exact dimensions.
 
-1. **Residential Mixup**: Forgetting multi-family efficiencies = 1/3 units (not 1/unit).
-2. **GFA vs Units**: Residential by **units/beds**, not lot size (Group B/C by GFA).
-3. **Integral Only**: Outside slots = buffer only; can't reduce integral slots or use for PUVs (§708).
+- **Standard Slot (Perpendicular/Diagonal):** `2.50m x 5.00m`
+- **Standard Slot (Parallel):** `2.15m x 6.00m`
+- **Jeepney/Shuttle:** `3.00m x 9.00m`
+- **Tourist Bus:** `3.60m x 12.00m`
 
-## Active Recall Question
+_Note: Parking slots must be located outside the Road Right-of-Way (RROW)._
 
-For multi-family residential units <30 sqm GFA each (Group A-2), what is the minimum parking per PD 1096 RIRR Appendix A?
+---
 
-A) 1 slot per unit  
-B) 1 slot per 3 units  
-C) 1 slot per 2 bedrooms
+## 📊 The Hard Data Cheat Sheet (Optimized for Rapid Recall)
+
+_The data below is strictly based on the Revised Implementing Rules and Regulations (IRR) of the National Building Code (Table VII.4). The exam relies heavily on these brackets._
+
+### 1. Residential Classifications (Group A)
+
+_Mental Hook: As the apartment gets bigger, the parking requirement gets stricter._
+
+| Occupancy Type                   | GFA / Unit Size      | Required Minimum Parking       |
+| :------------------------------- | :------------------- | :----------------------------- |
+| **Low-Income / Single Detached** | -                    | 1 pooled slot per **10 units** |
+| **Multi-Family Dwelling**        | 18.00 to 22.00 sq.m  | 1 slot per **8 units**         |
+| **Multi-Family Dwelling**        | Up to 50.00 sq.m     | 1 slot per **6 units**         |
+| **Multi-Family Dwelling**        | 50.01 to 100.00 sq.m | 1 slot per **4 units**         |
+| **Multi-Family Dwelling**        | > 100.00 sq.m        | 1 slot per **1 unit**          |
+
+### 2. Commercial & Assembly (Groups E, H, I)
+
+_Mental Hook: Look at what the building serves (beds, rooms, or open space)._
+
+| Occupancy Type                                  | Key Metric     | Required Minimum Parking                     |
+| :---------------------------------------------- | :------------- | :------------------------------------------- |
+| **Hotels**                                      | Per Guest Room | 1 slot per **10 rooms** _(Highly Urbanized)_ |
+| **Dormitories / Pension Houses**                | Per Bed        | 1 slot per **10 beds**                       |
+| **Places of Assembly** _(Theaters/Auditoriums)_ | Spectator Area | 1 slot per **50 sq.m** of spectator area     |
+| **Public Markets**                              | GFA            | 1 slot per **50 sq.m** of GFA                |
+
+---
+
+## ⚠️ High-Yield Exam Traps (Von Restorff Effect)
+
+Your brain is wired to simplify patterns. Examiners know this and design questions to catch you assuming things.
+
+- 🚨 **TRAP #1: The Dimension Confusion.** \* _Mistake:_ Memorizing older standards or guessing standard car sizes (like 2.4m x 5m).
+  - _Reality Check:_ The code strictly mandates **2.50m x 5.00m** for standard perpendicular parking. Parallel is narrower but longer (**2.15m x 6.00m**).
+- 🚨 **TRAP #2: The Multi-Family Escalator.**
+  - _Mistake:_ Thinking all residential units require 1 slot per unit.
+  - _Reality Check:_ Only units exceeding **100 sq.m** require a 1:1 ratio. Smaller units are pooled (1:4, 1:6, or 1:8).
+- 🚨 **TRAP #3: The "Fractional" Slot.**
+  - _Mistake:_ Calculating 4.2 slots and rounding down to 4.
+  - _Reality Check:_ In building code computations for life safety and parking, any fraction of a slot generally rounds up to the next whole number to ensure minimum compliance.
+
+---
+
+## 🔄 Active Recall Challenge (Test Your Retention)
+
+**Question:** An architect is designing a multi-family condominium with 24 residential units. Each unit has a Gross Floor Area of 45 sq.m. What is the minimum number of off-street parking slots required for the residential units?
+
+A) 24 slots
+B) 6 slots
+C) 4 slots
+D) 3 slots
 
 <details>
-  <summary>Answer</summary>
-  B) 1 slot per 3 units. Applies to efficiencies/small multi-family (Appendix A, Residential). Larger units: 1/unit.
+  <summary><b>👉 Click here to reveal the answer and explanation</b></summary>
+  <br>
+  <b>Correct Answer: C) 4 slots</b><br><br>
+  <b>Why?</b> Step 1: Identify the unit size bracket. The units are 45 sq.m each, which falls into the "Up to 50.00 sq.m" bracket. <br>
+  Step 2: Recall the ratio for that bracket, which is 1 slot per 6 units. <br>
+  Step 3: Calculate. 24 units ÷ 6 = 4 slots. 
 </details>
 
-## Verified Sources
+---
 
-1. **PD 1096 RIRR 2008 - Appendix A** (Parking Requirements Table; pp. 85-90).
-2. **Rule VII §708** (Prohibitions: no reduction/conversion of slots).
-3. **Rule VIII Table VIII.2** (Supplemental for non-residential GFA-based).
+## 📚 Verified Source Mapping
 
-## Additional Details
+_If you need to verify these metrics in the code, look here:_
 
-- **Slot Dimensions**: 2.4m x 5m min (car); 3.5m x 10m (bus/truck); integral to project.
-- **Prohibitions (§708)**: No change of use reducing slots; no RROW encroachment; no PUV terminals in private parking.
-- **Visitor/Buffer**: +25% visitor slots for residential; commercial as needed.
+- **Rule VII, Sec. 707:** Maximum Height of Buildings (contains Table VII.4 for Parking)
+- **Table VII.4:** Minimum Required Off-Street (Off-RROW) cum On-Site Parking Slot, Parking Area and Loading/Unloading Space Requirements by Allowed Use or Occupancy

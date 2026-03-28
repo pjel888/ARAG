@@ -1,88 +1,63 @@
-# RA 9442: Mandatory PWD Privileges, Incentives, and Design Integration
+# ⚖️ RA 9442 & The PWD Law Family: Benefits vs. Blueprints
 
-_An Immersive ALE Review Module – Optimized for Board Exam Mastery_
+_An Immersive ALE Review Module – Built for Boundary Mapping & Error Avoidance_
 
-## Hook: Real-World Scenario (Visualize & Connect)
+## 🚀 The Real-World Hook (The Scope of Practice Trap)
 
-Picture yourself as the architect for a new Manila mall. A PWD client insists on full compliance. RA 9442 guarantees their **discounts and privileges** inside—but **BP 344** dictates the ramps, toilets, and doors they use. Mix them up on the exam? Fail. Master this distinction? Ace it.
+Imagine you are taking the Board Exam and a question asks: _"According to RA 9442, what is the minimum width of an accessible ramp?"_ If you answer "1.20 meters," you just lost a point. Why? Because **RA 9442 does not dictate physical dimensions.** It is a social and economic law. Mixing up the "Benefits" laws (RA 9442) with the "Blueprint" laws (BP 344) is the #1 way students fail Professional Practice and Building Code questions.
 
-**Quick Anchor Question:** Does RA 9442 specify ramp widths? (Answer at end—test yourself now!)
+## 🎯 Core Framework (The "3 B's" of PWD Laws)
 
-## Core Concepts (Chunked for Retention)
+_To prevent schema confusion, compartmentalize the laws into these three buckets:_
 
-Break it down into **3 Pillars**—repeat after reading each:
+1.  **Benefits (RA 9442 & RA 10754)**: These amend the original Magna Carta (RA 7277). They dictate what the PWD _gets_ economically (20% discounts, VAT exemptions, educational assistance).
+2.  **Behavior (RA 9442)**: Crucial legal trivia! RA 9442 explicitly added prohibitions against the verbal and non-verbal ridicule and vilification of PWDs.
+3.  **Blueprints (BP 344 & PD 1096)**: The Accessibility Law and National Building Code. These dictate the physical reality (1.20m ramps, 1.80m turning spaces, 0.90m doors).
 
-- **Pillar 1: RA 9442 Basics**  
-  Amendment to RA 7277 (Magna Carta for PWDs). **Focus: Privileges & Incentives.** Expands discounts/tax breaks. **NOT a design code.** (Mnemonic: "9442 = Benefits, Not Blueprints")
+## 📊 The "Benefits vs. Blueprints" Cheat Sheet (Contrastive Learning)
 
-- **Pillar 2: Mandatory Privileges** (20% Discounts – Remember "MR. HOTEL MEDS")
-  - **M**edicines (all, maintenance included)
-  - **R**estaurants/hotels (up to 4 adults)
-  - **H**ospitals
-  - **O**utpatient services
-  - **T**ransport (air/sea/land)
-  - **E**ntertainment/leisure (concerts, parks)
-  - **L**andlines/internet (select)
-  - **M**ovies/theaters
-  - **E**ducation (books/newspapers)
-  - **D**ental/optical
-  - **S**pouse/guardian shares (with PWD ID)  
-    **Plus:** Priority lanes, reserved seats, PWD ID protection.
+_CRITICAL FACT-CHECK: Your brain wants to blur these together. Force them apart using this table._
 
-- **Pillar 3: Incentives** (Tax Wins – "Employ, Donate, Deduct")
-  - PWDs: Income tax exemption (RA 10754, up to ₱125K).
-  - Employers: Extra deductions for hiring PWDs (25% of wages).
-  - Donors: Deductions for PWD aid.
-  - Families: "Special children's garden deduction" if PWD dependent.
+| The Law               | Primary Focus                                                                     | Architect's Takeaway (Exam Use Case)                                                                                       | Exam Trap Alert ⚠️                                                       |
+| :-------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| **RA 9442**           | **Discounts & Dignity** (20% discount on meds, hotels, transport; Anti-Ridicule). | Requires the provision of **Express/Priority Lanes** in all commercial/government establishments (affects space planning). | NEVER pick an answer with a physical dimension (mm/meters) for this law. |
+| **RA 10754**          | **Tax Exemptions**                                                                | Added **VAT Exemption** on top of the 20% discount.                                                                        | Don't confuse with 9442; 10754 is the VAT update.                        |
+| **BP 344 (2024 IRR)** | **Accessibility Blueprints**                                                      | Dictates exact specs: **1:15** max slopes, **1.20m** ramps, **1.80m** turning spaces.                                      | Dictates _how_ a PWD accesses the building, not how they pay inside.     |
+| **RA 7277**           | **The Original Magna Carta**                                                      | Employer Incentive: **25% additional tax deduction** from gross income for wages paid to PWDs.                             | Foundation law. The others just amended it.                              |
 
-**Design Integration?** **BP 344 (Accessibility Law) + PD 1096 (NBC RIRR)** rule ramps (1:12 slope), toilets (1.5m turning circle), doors (0.9m clear width). RA 9442 just ensures PWDs **benefit** from them.
+## ⚠️ The Board Exam Traps (Error Management Training)
 
-## Cheat Sheet (Visual Memory Table – Scan & Recite)
+Examiners use "Distractor Laws" to test your true comprehension. **Self-Test These Pitfalls:**
 
-| Pillar         | What RA 9442 Covers                                      | What It DOESN'T (Trap!)                           | Governing Law        |
-| -------------- | -------------------------------------------------------- | ------------------------------------------------- | -------------------- |
-| **Privileges** | 20% discounts (MR. HOTEL MEDS mnemonic) + priority perks | Ramp specs, toilet sizes                          | IRR RA 9442          |
-| **Incentives** | Tax exemptions/deductions for PWDs, employers, donors    | Building dimensions/parking slots                 | RA 10754 + IRR       |
-| **Design**     | Nothing specific                                         | All physical features (ramps, signage, elevators) | **BP 344 + PD 1096** |
+1.  **The "Jurisdiction" Trap:** "Under RA 9442, PWD toilets require a 1.50m turning circle."
+    - ❌ _False!_ RA 9442 doesn't cover toilets. BP 344 covers toilets (and the 2024 update requires a 1.80m circle anyway!).
+2.  **The "Tax Hallucination" Trap:** Reviewers sometimes invent fake tax terms.
+    - ❌ _False!_ There is no "special children's garden deduction." The actual employer incentive is a **25% deduction** from gross income for wages paid to disabled workers.
+3.  **The "Only 20%" Trap:** "PWDs only receive a 20% discount."
+    - ❌ _False!_ RA 10754 expanded this. They receive a 20% discount **AND** a Value Added Tax (VAT) Exemption on specific goods and services.
+4.  **The "No Architecture Application" Trap:** "RA 9442 has zero impact on floor plans."
+    - ⚠️ _Careful!_ While it doesn't give dimensions, RA 9442 mandates **Express Lanes** for PWDs. Architects must account for this priority queuing space in commercial/retail layouts.
 
-**Pro Tip:** Cover "Governing Law" column—recite from memory 3x.
+## 🧠 Active Recall Battery (The Testing Effect)
 
-## Exam Traps (Behavioral Avoidance Drills)
+_Cover the answers below. Forcing your brain to retrieve the information strengthens the neural pathway._
 
-**Trap 1:** "RA 9442 requires 1.2m corridors."  
-**Smash It:** RA 9442 = benefits. BP 344 = blueprints. (Repeat: "Benefits, not blueprints!")
+**Q1:** An exam question asks for the law that prohibits the public ridicule of PWDs. Which law is it?
 
-**Trap 2:** Forgetting RA 10754 extends tax perks.  
-**Fix:** Link to RA 9442 family—9442 starts, 10754 boosts taxes.
+> _Ans: RA 9442._
 
-**Trap 3:** Privileges only for "visible" disabilities.  
-**Correct:** All registered PWDs (invisible included) + anti-fraud ID rules.
+**Q2:** A client wants to know what tax incentive they get for hiring a PWD. What is the correct figure?
 
-**Practice:** Write 1 sentence distinguishing RA 9442 from BP 344. (Do it now!)
+> _Ans: An additional deduction of 25% of the total amount paid as salaries/wages to the PWD._
 
-## Active Recall Drill (Spaced Repetition Style)
+**Q3:** You are designing a grocery store. Which law mandates that you include a priority "Express Lane" for PWDs?
 
-**Q1:** List 5 privilege categories (use mnemonic).  
-**Q2:** Name the law for ramp slope.  
-**Q3:** True/False: RA 9442 mandates accessible parking slots.
+> _Ans: RA 9442._
 
-> **Answers (Check After Attempt):**  
-> Q1: Medicines, Restaurants, etc. (MR. HOTEL MEDS)  
-> Q2: BP 344 (1:12 max)  
-> Q3: False—PD 1096/BP 344.
+**Q4:** Does RA 9442 or RA 10754 dictate that your accessible ramp must have a maximum slope of 1:15?
 
-**Anchor Answer (From Hook):** No, RA 9442 does NOT specify ramp widths—**B) No specific regulations** (that's BP 344).
+> _Ans: Neither. Ramps and physical dimensions are strictly the domain of BP 344._
 
-## Sources (Trusted Anchors)
+## 🔗 The "Protégé Effect" Challenge
 
-1. IRR RA 9442 (Official Gazette).
-2. BP 344 IRR (DPWH).
-3. PD 1096 RIRR 2004.
-4. RA 10754 (2016 tax expansions).
-
-## Retention Booster (Apply Now)
-
-1. Recite Pillars aloud.
-2. Quiz a friend (teach to learn).
-3. Visualize mall scenario with labels.  
-   **Exam Ready?** You'll spot traps instantly.
+To lock this in forever, explain the difference between a "Social Law" and an "Architectural Law" to a peer. Tell them exactly why answering a dimension (like 1.20 meters) for an RA 9442 question is an automatic failure.

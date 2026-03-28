@@ -1,386 +1,116 @@
-# PD 1096 Rule VIII: Light and Ventilation (Minimum Window Sizes and Court Dimensions)
+# ☀️ Architecture Board Exam (ALE) Mastery: Light, Ventilation, & Spatial Minimums
 
-_An Immersive ALE Review Module (Exam‑Optimized)_
-
-## The Real‑World Scenario (The Hook)
-
-Picture this:  
-You are designing a **medium‑rise residential building** in a dense Manila neighborhood where lots are narrow and tall buildings are close together. The client says, “Make the balconies small—we want more rentable floor area.”  
-Your professional reflex must be:
-
-- “Can the bedrooms still get **natural light through 10%‑plus‑1.00‑sq.m windows**?”
-- “Can interior rooms see a **2.00‑m minimum court** or does it shrink to 1.50‑m yard‑only?”
-
-In this module, you’ll learn **Rule VIII’s light‑and‑ventilation rules** not as a “formula‑only” exercise, but as a **design‑thinking framework**.  
-Everything you’ll see is structured using **educational psychology** tools (chunking, storytelling, imagery, active recall) and **behavioral“loops”** (repetition, “enemy‑traps”, exam‑style Qs) so you **remember it on exam day** without panic.
+_Module Focus: PD 1096 Rule VIII - The Breath and Volume of a Building_
 
 ---
 
-## Core Concepts (With Mental Anchors)
+## 🧠 The "Why It Matters" Scenario (Schema Activation)
 
-### 1. **Light Requirements**
+Picture this: You are designing a low-cost, high-density residential building in Manila. The developer tells you, "Make the ceilings lower so we can squeeze in another floor, shrink the bathrooms, and make the windows smaller to save on glass."
 
-**Definition**:  
-All **habitable rooms** (living rooms, bedrooms, dining rooms, and other habitable spaces) must receive **adequate natural daylight** through **openings to open air**.  
-This is usually via **windows** opening to:
-
-- Public street.
-- Alley.
-- Court or yard.
-- Open watercourse.
-
-**Mental anchor**:
-
-> “**Light = sunshine through a window that looks at the sky, not at a wall.**”
+Your license is on the line. You must instantly know the legal absolute minimums. If a room is too small, a ceiling too low, or a window too restricted, it becomes a literal hazard to human health. The board exam doesn't just test if you know these numbers; it tests if you know _when_ they change (e.g., natural vs. artificial ventilation).
 
 ---
 
-### 2. **Ventilation Requirements**
+## 🏗️ Core Concepts (The "Breathing Building" Framework)
 
-**Definition**:  
-Natural ventilation is required for habitable rooms unless **artificial ventilation** (e.g., ACAH, exhaust fans, mechanical systems) is justified and approved.  
-Even in air‑conditioned buildings, **natural‑light/ventilation** standards usually still apply to main habitable areas.
+To master Rule VIII, group the rules into three mental buckets: **The Volume (Ceilings)**, **The Footprint (Rooms)**, and **The Lungs (Windows/Courts)**.
 
-**Mental anchor**:
+### Bucket 1: The Footprint (Minimum Room Sizes)
 
-> “**Ventilation = fresh air moving through the room, not just cold air from a split‑AC.**”
+You cannot put a human in a closet and call it a bedroom. PD 1096 enforces strict minimums for area and the shortest dimension.
 
----
+- **Mental Anchor:** _"6-3-1. The basic countdown of human space."_
 
-### 3. **Minimum Window Opening (Rule VIII, 803): Free Area vs. Floor Area**
+### Bucket 2: The Volume (Minimum Ceiling Heights)
 
-**Rule**:  
-Rooms **without** artificial ventilation must have **total window free area**:
+Air needs room to circulate. If a room relies on the wind (natural), the ceiling must be higher. If it relies on a machine (artificial/AC), the ceiling can be lower.
 
-- **At least 10% of the room’s floor area**, **and**
-- **Not less than 1.00 sq.m**,  
-  **whichever is larger**.
+- **Mental Anchor:** _"Nature needs 2.70m; Machines only need 2.40m."_
 
-**Mental anchor**:
+### Bucket 3: The Lungs (Windows & Courts)
 
-> “**10% or 1.00 sq.m, whichever is bigger, counts as the ‘minimum lung‑size’ of the room.**”
-
-**Key idea**:
-
-- For **small rooms**, **1.00 sq.m** is the **floor**.
-- For **large rooms**, **10% of floor area** is the **scale‑up**.
+A room's "lung capacity" is a strict percentage of its floor area. Furthermore, the window must open to actual _open air_ (a street, yard, or court), not a closed hallway.
 
 ---
 
-### 4. **Courts and Yards (Minimum Widths)**
+## 📊 The Hard Data Cheat Sheet (Optimized for Rapid Recall)
 
-**Rule**:  
-For **one‑ or two‑storey** buildings:
+_Data strictly based on the Revised IRR of PD 1096. These numbers are absolute ALE staples._
 
-- Minimum **court width** = **2.00 m** (for light and ventilation).
-- It may be reduced to **1.50 m** only if:
-  - The space is treated as a **yard**, **not** a full court of **habit‑import ventilation**.
-  - It does **not** serve as the **primary light/ventilation** source for habitable rooms.
+### 1. Minimum Sizes & Dimensions of Rooms (Sec. 806)
 
-**Mental anchor**:
+| Room Type                               | Minimum Area  | Minimum Least Dimension | Exam Hook                          |
+| :-------------------------------------- | :------------ | :---------------------- | :--------------------------------- |
+| **Human Habitation** (Bedrooms, Living) | **6.00 sq.m** | 2.00 meters             | A 2x3 meter bed-space.             |
+| **Kitchens**                            | **3.00 sq.m** | 1.50 meters             | Enough for a counter and a cook.   |
+| **Bath & Toilet**                       | **1.20 sq.m** | 0.90 meters             | Just wide enough to open the door. |
 
-> “**2.00 m = court (for light/ventilation); 1.50 m = yard (decorative/default, not main vent).**”
+### 2. Minimum Ceiling Heights (Sec. 805)
 
----
+| Ventilation Type / Floor      | Minimum Height                                                 | Condition                                        |
+| :---------------------------- | :------------------------------------------------------------- | :----------------------------------------------- |
+| **Natural Ventilation**       | **2.70 meters**                                                | Applies to all floors.                           |
+| **Artificial** (1-Storey)     | **2.40 meters**                                                | Entire floor must be mechanically cooled/vented. |
+| **Artificial** (Multi-Storey) | **2.70m** (1st) <br> **2.40m** (2nd) <br> **2.10m** (3rd & up) | The "Cascading Rule" for tall AC buildings.      |
+| **Mezzanine Floors**          | **1.80 meters**                                                | Must be above & below the mezzanine.             |
 
-## The Hard Data (Cheat Sheet – Code‑Anchor Table)
+### 3. Minimum Window Openings (Sec. 808)
 
-### Rule VIII Lightning‑Bolt Requirements
+| Room Type           | Required Free Area    | Absolute Minimum            |
+| :------------------ | :-------------------- | :-------------------------- |
+| **Habitable Rooms** | **10%** of floor area | Not less than **1.00 sq.m** |
+| **Bath & Toilet**   | **5%** of floor area  | Not less than **0.24 sq.m** |
 
-| Rule / Idea                                      | Dimension (Rule VIII, 803)                                                                                | Exam‑Style Reminder                                |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Minimum window free area (natural‑vent only)** | **≥ 10% of room floor area AND ≥ 1.00 sq.m, whichever is larger**                                         | Small room → 1.00 sq.m; large room → 10% of floor. |
-| **Minimum court width (1–2 storeys)**            | **≥ 2.00 m**                                                                                              | For **light/ventilation‑critical** courts.         |
-| **Reduced width**                                | **1.50 m** allowed **only if** the space is treated as a **yard**, not a primary light/ventilation court. | “Yard‑width only, not full‑light court.”           |
+### 4. Minimum Courts (Sec. 804)
 
-**Notes reinforcing exam‑style logic**:
-
-- **“Free area”** = **actual unobstructed opening area** (after deducting frames, mullions, bars, louvers, screens, insect‑screens, and non‑sliding panels).
-- **“Open air”** = must open to:
-  - Public street, alley, court, yard, open watercourse.
-  - **NOT**:
-    - Fully enclosed shafts.
-    - Fully enclosed balconies.
-    - Dead‑end voids not vented to open air.
+- **Inner Court Minimum Width:** **2.00 meters**.
+- **Passageway to Inner Court:** **1.20 meters**.
 
 ---
 
-## Step‑by‑Step Computation (Brain‑Friendly Flow)
+## ⚠️ High-Yield Exam Traps (Von Restorff Effect)
 
-### Rule:
+Your brain naturally generalizes rules. The examiners exploit this by testing the exceptions.
 
-For a room **without** artificial ventilation, follow this **3‑step flow**:
-
-1. **Compute 10% of floor area**:
-   \[
-   \text{Area}\_{10\%} = \text{Room Floor Area} \times 0.10
-   \]
-
-2. **Compare with 1.00 sq.m**:
-   - If \(\text{Area}_{10\%} \geq 1.00 \, \text{sq.m}\):  
-     \[
-     \text{Required Free Area} = \text{Area}_{10\%}
-     \]
-   - If \(\text{Area}\_{10\%} < 1.00 \, \text{sq.m}\):  
-     \[
-     \text{Required Free Area} = 1.00 \, \text{sq.m}
-     \]
+- 🚨 **TRAP #1: The Toilet Window Trap.**
+  - _Mistake:_ Thinking _all_ windows must be 10% or 1.00 sq.m.
+  - _Reality Check:_ Bathrooms have their own dedicated rule: **5%** of the floor area, with an absolute minimum of **0.24 sq.m**.
+- 🚨 **TRAP #2: Gross Window vs. Free Area.**
+  - _Mistake:_ Measuring the window frame from edge to edge to get the 10%.
+  - _Reality Check:_ The code specifies **FREE area**. You must deduct the solid frames, mullions, and fixed louvers. If the wind can't pass through it, it doesn't count toward the 10%.
+- 🚨 **TRAP #3: The Multi-Storey Ceiling Cascade.**
+  - _Mistake:_ Assuming a 10-storey office building with central AC can have 2.40m ceilings on every floor.
+  - _Reality Check:_ For artificially ventilated multi-storey buildings, the ground floor MUST be 2.70m. The second floor can be 2.40m. The third floor and above can be 2.10m. (Unobstructed height).
 
 ---
 
-### Example 1 – Small Bedroom (9.00 sq.m)
+## 🔄 Active Recall Challenge (Test Your Retention)
 
-- Floor area = 9.00 sq.m
-- 10% = 9 × 0.10 = 0.90 sq.m
-- 0.90 < 1.00 → **required free area = 1.00 sq.m**
+**Question:** You are designing a naturally ventilated master bedroom with a total floor area of 25.00 sq.m, and an attached en-suite bathroom with a floor area of 4.00 sq.m. What are the minimum required window opening (free area) sizes for both rooms under PD 1096?
 
-**Visualization**:  
-Even though the room is small, it must still have **at least 1.00 sq.m** of **real open window** (not just frame area).
+A) Bedroom: 2.50 sq.m | Bathroom: 1.00 sq.m
+B) Bedroom: 2.50 sq.m | Bathroom: 0.20 sq.m
+C) Bedroom: 1.00 sq.m | Bathroom: 0.24 sq.m
+D) Bedroom: 2.50 sq.m | Bathroom: 0.24 sq.m
 
----
-
-### Example 2 – Large Living Room (40.00 sq.m)
-
-- Floor area = 40.00 sq.m
-- 10% = 40 × 0.10 = 4.00 sq.m
-- 4.00 ≥ 1.00 → **required free area = 4.00 sq.m**
-
-**Exam‑style mindset**:  
-You may see a **plan** with:
-
-- Three windows, each 1.50 m × 0.80 m = 1.20 sq.m gross.
-- **Free area** (after frames, mullions, louvers): maybe 0.60–0.80 sq.m per window.  
-  Total free area = 3 × 0.80 = 2.40 sq.m < 4.00 → **insufficient** → violation.
+<details>
+  <summary><b>👉 Click here to reveal the answer and explanation</b></summary>
+  <br>
+  <b>Correct Answer: D</b><br><br>
+  <b>Why?</b> <br>
+  Step 1: Calculate the Bedroom (Habitable Room). 10% of 25.00 sq.m = 2.50 sq.m. Since 2.50 is greater than the 1.00 sq.m minimum, the requirement is <b>2.50 sq.m</b>.<br>
+  Step 2: Calculate the Bathroom. 5% of 4.00 sq.m = 0.20 sq.m. However, the absolute minimum for a bathroom is 0.24 sq.m. Because 0.20 is less than 0.24, you must bump it up to the minimum of <b>0.24 sq.m</b>.<br>
+  <i>(This is a classic trap where the percentage yields a number smaller than the absolute minimum).</i>
+</details>
 
 ---
 
-### Example 3 – Very Small Utility Room (3.00 sq.m)
+## 📚 Verified Source Mapping
 
-- Floor area = 3.00 sq.m
-- 10% = 0.30 sq.m
-- 0.30 < 1.00 → **required free area = 1.00 sq.m**
+_If you need to verify these metrics in the code, look here:_
 
-**Code‑style nuance**:
-
-- If the room is **non‑habitable** (pure storage, some mechanical room), **artificial ventilation** may be allowed instead.
-- But if it’s **listed as a habitable room** (e.g., maid’s room, small office), the **10%/1.00‑sq.m rule applies**.
-
----
-
-## ALE Exam Traps and “Enemy List” (Behavioral Antidotes)
-
-### 1. **Using Gross Window Area Instead of Free Area**
-
-**Trap**:  
-Students draw a **1.50 m × 1.20 m** window (1.80 sq.m gross) and claim “10% of floor is satisfied,” but:
-
-- Frame + mullions + louvers + mosquito screen remove **40–50%** of real opening.
-- Actual free area may be only **0.90–1.10 sq.m**.
-
-**Rule‑based fix**:
-
-- **Always think: “Free area < Gross area.”**
-- On exam, if the question says “deduct 20–30% for mullions and louvers,” **do the deduction**.
-
----
-
-### 2. **Ignoring the “Whichever Is Larger” Rule**
-
-**Trap**:
-
-- For a 6.00 sq.m room:
-  - 10% = 0.60 sq.m
-  - Student writes: “0.60 sq.m is enough,” forgetting that **1.00 sq.m floor** still applies.
-
-**Behavioral hack**:
-
-- Before you write the answer, **always compare**:
-  - **Is 10% ≥ 1.00?**
-  - If not, **1.00 is the answer**.
-- Use this **“sentence‑check”**:
-  > “If 10% < 1.00, use 1.00; if 10% ≥ 1.00, use 10%.”
-
----
-
-### 3. **Opening to “False” Open Air**
-
-**Trap**:  
-Students assume:
-
-- A window opening to a **fully enclosed corridor**.
-- A window opening to a **non‑vented shaft** or **sealed balcony**.  
-  still counts as “open air.”
-
-**Rule‑based correction**:
-
-- To count for **Rule VIII light/ventilation**, the window must open to:
-  - **Public street, alley, court, yard, open watercourse.**
-- **No**:
-  - Closed shafts.
-  - Fully enclosed balconies.
-  - Interior voids not vented to the sky.
-
-**Mental image**:
-
-> “**If the wind can’t get in and the sun can’t get in from the side, it’s not ‘open air’.**”
-
----
-
-### 4. **Arbitrarily Claiming “Fully Air‑Conditioned” to Skip Windows**
-
-**Trap**:
-
-- Students design **windowless bedrooms** and write: “Fully air‑conditioned, so no need for 10% window.”
-
-**Rule‑based reality**:
-
-- Artificial ventilation is allowed **only when**:
-  - Natural ventilation is truly **insufficient** (e.g., site‑constrained, special‑use non‑habitable rooms).
-- **Main habitable rooms** (bedrooms, living rooms, offices) usually **still require** the **Rule VIII window‑area minimum** unless the code explicitly allows an exemption (e.g., special‑type buildings under referral standards).
-
-**Exam‑style safeguard**:
-
-- Treat **10%/1.00‑sq.m** as the **default** for habitable rooms.
-- Only omit it if the question **explicitly says**:
-  - “non‑habitable,” or
-  - “special‑purpose mechanical room,” or
-  - “design uses fully mechanical ventilation under approved code‑variance.”
-
----
-
-### 5. **Confusing Courts and Yards (2.00 m vs 1.50 m)**
-
-**Trap**:
-
-- Students design a **1.50‑m gap** between buildings and call it a “court.”
-- But **Rule VIII** only allows 1.50 m **if it is a yard**, not a **primary light/ventilation court**.
-
-**Rule‑based filter**:
-
-- **Court (≥2.00 m)**:
-  - Serves as **main light/ventilation source** for habitable rooms.
-  - Often required for **interior rooms** facing inward.
-- **Yard (1.50 m)**:
-  - Treated as **open area** (side/rear yard).
-  - Not the **primary vent** for deep‑plan rooms.
-
-**Mental cue**:
-
-> “**2.00 m = full court; 1.50 m = yard‑only, not main vent.**”
-
----
-
-## Active Recall Question (With Deep‑Thinking Cues)
-
-**Question**:  
-What is the **minimum window opening size** required by **PD 1096 Rule VIII** for rooms **without** artificial ventilation?
-
-A) At least 240 sq. millimeters  
-B) Not less than 1.00 sq.m **or at least 10% of floor area, whichever is larger**  
-C) No specific requirement
-
-> **Answer: B) Not less than 1.00 sq.m or at least 10% of floor area, whichever is larger.**
->
-> **Explanation with mental‑retention hooks**:
->
-> - Rule VIII states that **rooms without artificial ventilation** must have window **free area**:
->   - **≥ 10% of floor area**, **and**
->   - **≥ 1.00 sq.m**,  
->     whichever is greater.
-> - **Small room (e.g., 9.00 sq.m)** → **1.00 sq.m required**, even though 10% is only 0.90 sq.m.
-> - **Large room (e.g., 40.00 sq.m)** → **4.00 sq.m required**, because 10% > 1.00.
->
-> **Why A and C are wrong**:
->
-> - A, 240 sq.mm = 0.00024 sq.m, far too small.
-> - C, “no specific requirement” contradicts the 10%‑and‑1.00 rule.
->
-> **Spaced‑repetition mental drill**:
->
-> - After reading this, **close your eyes** and say 3 times:
->   - “10% of floor area **and** at least 1.00 sq.m, whichever is larger.”
-> - Then sketch in your mind:
->   - **Small room**: “1.00 sq.m floor.”
->   - **Large room**: “10% of floor.”
-
----
-
-## Verified Sources (Exam‑Anchor References)
-
-1. **PD 1096 2004 Revised IRR (DPWH Official)** –
-   - **Rule VIII, Section 803** (Lighting and Ventilation: minimum window‑area, courts, and natural‑light rules).
-2. **PD 1096 2004 Revised IRR (Architecture Board Edition)** –
-   - **Rule VIII, pages ≈ 128–138** (window free‑area, court‑width rules, artificial‑ventilation allowance).
-3. **Full IRR PD 1096** –
-   - General context on **artificial‑ventilation enforcement** and **non‑compliance penalties** (no window‑area details, but useful for “why this matters”).
-
----
-
-## Additional Details (Deep‑Structure, Long‑Term Retention)
-
-### 1. Natural vs. Artificial Ventilation (Conceptual Framework)
-
-- **Natural ventilation (preferred)**:
-  - Achieved by:
-    - Windows opening to **court, yard, street, alley, or open watercourse**.
-    - **Cross‑ventilation** through opposite sides of rooms.
-  - **Rule VIII** assumes this as the **default** for habitable rooms.
-
-- **Artificial ventilation (allowed only when necessary)**:
-  - Permitted when:
-    - Natural ventilation cannot meet **Rule VIII standards**.
-    - The room is **non‑habitable** (e.g., some mechanical rooms, storerooms).
-  - Even in **air‑conditioned buildings**, main **habitable** rooms usually must still comply with **minimum‑window** rules unless the building is **explicitly exempted** (e.g., special industrial, lab, or cold‑storage standards).
-
-**Mental filter**:
-
-> “**If it’s a bedroom, living room, office, or similar habitable space → assume 10%/1.00‑sq.m window rule applies.**”
-
----
-
-### 2. Court and Yard Logic (Design‑Thinking Flow)
-
-When you see:
-
-- Two buildings close together.
-- A narrow gap between them.
-- Interior rooms facing that gap.
-
-**5‑second mental script**:
-
-1. **Check width**:
-   - ≥2.00 m? → **can be a court** (for light/ventilation).
-   - 1.50 m? → **only if it’s a yard, not main‑vent court**.
-2. **Check what the gap faces**:
-   - Interior bedrooms, toilets, service rooms?
-     - Needs **court‑width ≥2.00 m**.
-   - Just a trash‑area or equipment?
-     - May be treated as **yard** only (1.50 m acceptable if allowed by zoning).
-
----
-
-### 3. Enforcement and Compliance (Why This Matters on Exam)
-
-- **Building Officials** check during:
-  - **Plan review**:
-    - Do bedroom windows meet **10%/1.00‑sq.m** as free area?
-    - Are courts ≥2.00 m?
-  - **Inspection**:
-    - Are bars, louvers, or screens **reducing free area** below code?
-- **Non‑compliance** may lead to:
-  - Revisions.
-  - Disapproval of occupancy permits.
-  - Fines or stoppage orders (Section 104, PD 1096 RIRR).
-
-**Exam‑behavioral hook**:  
-Think:
-
-> “If the building is **occupied without compliant windows or courts**, the code violation is in the **habitable rooms’ comfort and safety**—that’s why the exam tests this constantly.”
-
----
-
-### 4. Spaced‑Repetition “Cheat‑Glance” (For Last‑Minute Review)
-
-Keep this 3‑line mantra in your mental exam‑toolkit:
-
-> “\*\*10% of floor area AND 1.00 sq.m, whichever is larger, for window free
+- **Rule VIII, Sec. 804:** Sizes and Dimensions of Courts
+- **Rule VIII, Sec. 805:** Ceiling Heights
+- **Rule VIII, Sec. 806:** Size and Dimensions of Rooms
+- **Rule VIII, Sec. 808:** Window Openings

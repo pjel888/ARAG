@@ -1,413 +1,117 @@
-# PD 1096 Rule VII: Calculating AMBF, PSO, ISA, USA, and MACA (The Area Metrics)
+# 📐 Architecture Board Exam (ALE) Mastery: The Area Metrics (AMBF, PSO, ISA, USA, TOSL, MACA)
 
-_An Immersive ALE Review Module (Exam‑Optimized)_
-
-## The Real‑World Scenario (The Hook)
-
-Imagine you are designing a **townhouse‑type residential project** on a **typical R‑2 lot in Quezon City**. The local zoning ordinance says “no more than 55% PSO, 30% ISA, 15% USA, and 45% TOSL.”  
-Your brain must now **translate** these four percentages into **real‑world lines on the site plan**:
-
-- **Where can you build the house?**
-- **How much paving is allowed before you violate ISA?**
-- **How much softscaping must you leave as USA?**
-- **How deep must the front setback (TOSL) be?**
-
-In this module, you’ll learn to **think in percentages first, then convert to square‑meters** only when you must. Exam questions almost always **test these four metrics together**, so we’ll design this module using **chunking, active recall, and behavioral “habit loops”** so you can **automatically** see the “area map” of the lot.
+_Module Focus: PD 1096 Rule VIII - Lot Occupancy and Open Space Equations_
 
 ---
 
-## Core Concepts (With Mental Anchors)
+## 🧠 The "Why It Matters" Scenario (Schema Activation)
 
-### 1. **AMBF – Allowable Maximum Building Footprint**
+Imagine you are designing a medium-density townhouse on a 1,000 sq.m inside lot in Quezon City. The client wants to pave the entire front and back yards for parking. As the architect, you must stop them. If you pave too much, you violate the **ISA (Impervious Surface Area)**. If your building is too wide, you violate the **PSO (Percentage of Site Occupancy)**.
 
-**Definition**:  
-The **maximum horizontal shadow** (floor plan outline) the building main structure is allowed to cast on the lot, **after** subtracting setbacks, TOSL, fire‑separation lines, and special zoning rules.
-
-**Formula (primary exam form)**:
-\[
-\text{AMBF} = \text{TLA} \times \text{PSO}
-\]
-
-**Mental anchor image**:
-
-> “**AMBF is the largest rectangle you can draw on the lot where the building is allowed to sit.**”
-
-**Educational psychology trick**:
-
-- **Chunking**: Group “AMBF = TLA × PSO” as a single unit in your memory.
-- **Dual coding**: Imagine AMBF as a **bold red rectangle** over the lot; everything outside it is **no‑build**.
+The board exam will not just ask for definitions; it will test if you understand how these areas _interact_. If you increase the building footprint, the open space shrinks. This module trains you to see these metrics not as isolated numbers, but as a **single, interconnected puzzle**.
 
 ---
 
-### 2. **PSO – Percentage of Site Occupancy**
+## 🏗️ Core Concepts (The "Equation Triangle")
 
-**Definition**:  
-The **maximum percentage of TLA** that can be covered by **buildings and structures** (the built‑up area).
+To master this topic, you must stop thinking of these as six different rules and start seeing them as two main categories: **The Built** and **The Open**.
 
-**Formula**:
-\[
-\text{PSO} = \frac{\text{AMBF}}{\text{TLA}} \times 100
-\]
+### Group 1: The Total Lot Breakdown
 
-**Mental anchor**:
+Every single square meter of your lot belongs to one of two categories.
 
-> “**PSO = ‘How much of the lot can be built on?’**”
+- **TLA (Total Lot Area) = 100%**
+- **TLA = PSO + TOSL**
 
-**Exam‑style nuance**:
+**1. PSO (Percentage of Site Occupancy):** The percentage of the lot covered by the building itself.
 
-- PSO is a **percentage**, AMBF is the **square‑meter area** equivalent.
-- In exams, you often compute **AMBF = TLA × PSO**, then check:
-  - **Is the building outline within that rectangle?**
-  - **Is there space for TOSL and ISA/USA?**
+- _The Area Equivalent:_ **AMBF (Allowable Maximum Building Footprint)**.
+- _Formula:_ `AMBF = TLA x PSO`
+- _Mental Hook:_ Imagine the AMBF as a solid **RED** block on the site plan.
 
----
+**2. TOSL (Total Open Space within Lot):** The percentage of the lot NOT covered by the building.
 
-### 3. **ISA – Impervious Surface Area**
+- _Exam Trap Alert:_ TOSL is **NOT** just the front setback! It is the _sum_ of all setbacks, yards, and courts.
+- _Formula:_ `TOSL = TLA - AMBF`
 
-**Definition**:  
-All **hard, sealed surfaces** on the lot:
+### Group 2: The Open Space Breakdown
 
-- Driveways, courtyards, pathways, parking, and paved areas.
-- But **not** grass, soil, planters, permeable pavers, or open landscaping.
+Now, we take the TOSL (the open space) and divide it by what the rain can penetrate.
 
-**Formula (percentage and area)**:
-\[
-\text{ISA} (\%) = \frac{\text{ISA (sq.m)}}{\text{TLA}} \times 100
-\]
-\[
-\text{ISA (sq.m)} = \text{TLA} \times (\text{ISA \%})
-\]
+- **TOSL = ISA + USA**
 
-**Mental anchor**:
+**3. ISA (Impervious Surface Area):** The "Hardscape." Walkways, driveways, uncovered parking. Rain cannot soak through it.
 
-> “**ISA = ‘Everything that rainwater cannot soak into’.**”
+- _Mental Hook:_ Color this **GRAY**.
 
-**Behavioral fix**:  
-When you sketch a plan, **color‑code ISA gray**. If more than 30% is gray, you’re likely violating the code.
+**4. USA (Unpaved Surface Area):** The "Softscape." Lawns, gardens, exposed soil. Rain soaks naturally into the ground.
+
+- _Mental Hook:_ Color this **GREEN**.
+
+### Group 3: The Code Enforcement Metric
+
+**5. MACA (Maximum Allowable Construction Area):** This is the total area of the lot that you are allowed to "disturb" with hard materials (both the building and the paving).
+
+- _Formula:_ `MACA = PSO + ISA`
+- _Ultimate Shortcut:_ `TLA = MACA + USA`
 
 ---
 
-### 4. **USA – Unpaved Surface Area**
+## 📊 The Hard Data Cheat Sheet (Table VIII.1)
 
-**Definition**:  
-The **minimum open / soft area** required on the lot:
+_Data strictly based on the Revised IRR of PD 1096 (Table VIII.1). Examiners frequently test the "Basic R-2 Inside Lot" baseline._
 
-- Lawns, plantings, permeable ground surfaces.
-- This is what stormwater can **infiltrate** through.
+| Zoning / Lot Type          | Max PSO (Red) | Max ISA (Gray) | Min USA (Green) | Min TOSL |
+| :------------------------- | :------------ | :------------- | :-------------- | :------- |
+| **Basic R-2 (Inside Lot)** | 60%           | 30%            | 10%             | 40%      |
+| **Basic R-2 (Corner Lot)** | 70%           | 20%            | 10%             | 30%      |
+| **Basic R-3 (Inside Lot)** | 70%           | 20%            | 10%             | 30%      |
+| **Comm. C-2 (Inside Lot)** | 75%           | 20%            | 5%              | 25%      |
 
-**Formula**:
-\[
-\text{USA} (\%) = \frac{\text{USA (sq.m)}}{\text{TLA}} \times 100
-\]
-\[
-\text{USA (sq.m)} = \text{TLA} \times (\text{USA \%})
-\]
-
-**Mental anchor**:
-
-> “**USA = ‘Green screen saver’ for the lot.**”
+_Pattern Recognition (Chunking): Notice how `USA + ISA` ALWAYS equals `TOSL`, and `PSO + TOSL` ALWAYS equals `100%`._
 
 ---
 
-### 5. **MACA – Maximum Allowable Construction Area**
+## ⚠️ High-Yield Exam Traps (Von Restorff Effect)
 
-**Concept**:  
-The **maximum percentage of the lot** that can be **built‑up plus paved** (PSO + ISA).  
-USA is the **remainder**:
-
-\[
-\text{MACA} = \text{PSO} + \text{ISA}
-\]
-\[
-\text{PSO} + \text{ISA} + \text{USA} \leq 100\%
-\]
-
-**Formula (percentage)**:
-\[
-\text{MACA} (\%) \leq 100\% - \text{min. USA} (\%)
-\]
-
-**Mental anchor**:
-
-> “**MACA = PSO (built) + ISA (paved). USA is what’s left for drainage and greenery.**”
+- 🚨 **TRAP #1: The "TOSL = Front Setback" Hallucination.**
+  - _Mistake:_ Thinking TOSL only refers to the front yard.
+  - _Reality Check:_ TOSL means _Total_ Open Space. It includes the front, rear, sides, and any interior open courts.
+- 🚨 **TRAP #2: Confusing MACA with AMBF.**
+  - _Mistake:_ Thinking MACA is just the building footprint.
+  - _Reality Check:_ MACA includes the building (PSO) **PLUS** all paved surfaces outside (ISA). `MACA = PSO + ISA`.
+- 🚨 **TRAP #3: Mixing Percentages with Square Meters.**
+  - _Mistake:_ Writing "PSO = 600 sq.m."
+  - _Reality Check:_ PSO, ISA, USA, and TOSL are _Percentages_. AMBF is the physical _Area_ (sq.m). Read the exam question carefully to see if they are asking for the % or the sq.m.
 
 ---
 
-## The Hard Data (Cheat Sheet – “Exam‑Anchor Table”)
-
-### Rule VIII.G Typical R‑2 Values (R‑2 Residential)
-
-| Land Use Zoning             | Use / Group   | PSO % (Max.) | ISA % (Max.) | USA % (Min.) | TOSL % |
-| --------------------------- | ------------- | ------------ | ------------ | ------------ | ------ |
-| **R‑2** (Residential Basic) | Residential 2 | 55%          | 30%          | 15%          | 45%    |
-
-> **Rule of thumb for memorization**:
->
-> - **R‑2 = 55‑30‑15‑45** (PSO‑ISA‑USA‑TOSL).
-> - Remember: **5 + 5 = 10; 3 + 1 = 4; 1 + 5 = 6; 4 + 5 = 9** – arbitrary, but it helps **link numbers**.
-
-**Key exam‑style idea**:
-
-- **PSO + ISA ≤ 85%** (100% − 15%).
-- **TOSL = 45%** front open space (often treated as **part of USA**, unpaved / minimally paved).
-
----
-
-## Step‑by‑Step Computation (Brain‑Friendly Flow)
-
-### Example 1 – R‑2 Lot (TLA = 600 sq.m)
-
-**Given**:
-
-- TLA = 600 sq.m (R‑2 zoning).
-- PSO = 55%, ISA = 30%, USA = 15%.
-
-**Step 1 – AMBF (maximum building footprint)**  
-\[
-\text{AMBF} = \text{TLA} \times \text{PSO} = 600 \times 0.55 = 330 \, \text{sq.m}
-\]
-
-**Visual check**:
-
-- The house main blocks must fit within 330 sq.m total footprint (sum of ground‑floor plan area of the house, not including detached garages if not counted as GFA).
-
----
-
-### Step 2 – Maximum ISA (paved area)\*\*
-
-\[
-\text{ISA} = 600 \times 0.30 = 180 \, \text{sq.m}
-\]
-
-**Behavioral check**:
-
-- If your **drive‑in, parking, courtyards, and side‑paving** total more than 180 sq.m, you’re violating ISA.
-
----
-
-### Step 3 – Minimum USA (green / unpaved)\*\*
-
-\[
-\text{USA} = 600 \times 0.15 = 90 \, \text{sq.m}
-\]
-
-**Rule of thumb**:
-
-- **USA must be ≥ 90 sq.m** (e.g., front lawn, side plantings, rear yard).
-
----
-
-### Step 4 – MACA (max built‑up + paved)\*\*
-
-\[
-\text{MACA} = \text{PSO} + \text{ISA} = 55\% + 30\% = 85\%
-\]
-\[
-\text{MACA (sq.m)} = 600 \times 0.85 = 510 \, \text{sq.m}
-\]
-
-**Quick check**:
-
-- AMBF + ISA = 330 + 180 = 510 sq.m → **exactly** MACA.
-- If your **built‑up plus paved** exceeds 510 sq.m, you’ve exceeded MACA.
-
----
-
-### Step 5 – TOSL (front setback)\*\*
-
-- TOSL = 45% of TLA = 600 × 0.45 = **270 sq.m**.
-- This is the **minimum open front area** facing the RROW.
-- It is usually **counted within the USA** (unpaved or minimally paved).
-
-**Visual cue**:
-
-- Draw a **270 sq.m** rectangle along the front; inside it:
-  - No main building mass.
-  - No heavy parking.
-  - Mostly lawn, landscaping, or light paving.
-
----
-
-## ALE Exam Traps and “Enemy List” (Behavioral Antidote)
-
-### 1. **Confusing PSO and AMBF**
-
-**Trap**:
-
-- Using “PSO = 55%” and saying “the building can be 55 sq.m” (confusing percentage with area).
-
-**Fix**:
-
-- **Chunk PSO and AMBF together**:
-  - “**PSO % → AMBF area = TLA × PSO.**”
-- **Say it out loud while solving**: “First percentage, then multiply for area.”
-
----
-
-### 2. **Swapping ISA and USA**
-
-**Trap**:
-
-- Thinking “ISA = unpaved” or “USA = paved.”
-
-**Memory hack**:
-
-- **Acronym reminders**:
-  - **ISA = Impervious (water‑resistant) / Surface / Area**.
-  - **USA = Unpaved / Soft / Area**.
-- **Color coding**:
-  - **ISA = gray**.
-  - **USA = green**.
-
----
-
-### 3. **Adding USA into MACA**
-
-**Trap**:
-
-- Writing “**MACA = PSO + ISA + USA**” or trying to include USA in the 85%.
-
-**Rule that sticks**:
-
-> “**MACA is the PART of the lot that is built‑on OR paved. USA is the REMAINDER.**”
-
-**Mnemonic**:
-
-> “**PSO + ISA = MACA; USA = 100 − MACA.**”
-
----
-
-### 4. **Ignoring TOSL as a Separate Check**
-
-**Trap**:
-
-- Students focus on PSO, ISA, USA, but forget that **TOSL is a separate front‑open‑space requirement** that may eat into USA.
-
-**Exam‑style note**:
-
-- If TOSL is 45%, and you already used the whole 15% USA for side‑yard landscaping, you may **violate TOSL**.
-- **TOSL must be preserved along the front**, separate from internal “greens.”
-
----
-
-### 5. **Thinking AMBF = Actual Building Footprint**
-
-**Trap**:
-
-- Assuming the **AMBF** computed is the **exact building footprint** you must fill.
-
-**Code‑reality**:
-
-- AMBF is the **maximum allowed**.
-- You can design a **smaller building** (e.g., 280 sq.m instead of 330) and still be compliant.
-- **Actual footprint** can be **less than or equal to AMBF**.
-
-**Behavioral fix**:
-
-- Treat **AMBF as a cap**, not a target.
-- On the exam, if the question asks “What is the AMBF?”, give **TLA × PSO**, even if the building shown is smaller.
-
----
-
-## Active Recall Question (With Deep‑Thinking Cues)
-
-**Question**:  
-What does the acronym **PSO** stand for according to PD 1096 Rule VII?
-
-A) Percentage of Space Occupied  
-B) Percentage of Site Occupancy  
-C) Planned Site Occupancy
-
-<details>  
-<summary>Answer and Explanation (With Mental‑Retention Hooks)</summary>
-
-**Answer: B) Percentage of Site Occupancy**
-
-**Explanation**:
-
-- In **PD 1096 Rule VII**, **PSO** is defined as **“Percentage of Site Occupancy”**, meaning the **maximum percentage of the Total Lot Area (TLA)** that may be occupied by **buildings and structures**.
-- To help you remember:
-  - **PSO = ‘how much of the lot the building can occupy’.**
-  - **PSO % → AMBF area = TLA × PSO.**
-- **Why A and C are wrong**:
-  - A, “Space” is vague; “**Site**” is the **lot area**.
-  - C, “Planned” suggests it’s a design choice rather than a **code‑limit**.
-
-**Exam‑style mental drill**:
-
-- After reading this, close your eyes and **recite**:
-  - “PSO = Percentage of Site Occupancy.”
-  - “It means the building can occupy up to X% of the lot, and AMBF = TLA × X%.”
-- Do this **3 times tonight** to anchor it in long‑term memory.
-
+## 🔄 Active Recall Challenge (Test Your Retention)
+
+**Question:** An architect is designing a residential project on a 1,000 sq.m Basic R-2 inside lot. If the architect maximizes the building footprint (AMBF) and also maximizes the allowed paved driveways and walkways (ISA), what is the exact square meter area that MUST be dedicated strictly to soil, lawns, or planting (USA)?
+
+A) 100 sq.m
+B) 150 sq.m
+C) 300 sq.m
+D) 400 sq.m
+
+<details>
+  <summary><b>👉 Click here to reveal the answer and explanation</b></summary>
+  <br>
+  <b>Correct Answer: A) 100 sq.m</b><br><br>
+  <b>Why?</b> <br>
+  Step 1: Recall the Basic R-2 Inside Lot metrics from Table VIII.1 (PSO 60%, ISA 30%, USA 10%).<br>
+  Step 2: The question asks for the USA in square meters.<br>
+  Step 3: Calculate: 1,000 sq.m (TLA) x 10% (USA minimum) = 100 sq.m. <br><br>
+  <i>Alternative shortcut using MACA:</i> MACA = 60% (PSO) + 30% (ISA) = 90%. Therefore, 10% of the lot must remain unpaved (USA). 10% of 1,000 = 100 sq.m.
 </details>
 
 ---
 
-## Verified Sources (Exam‑Energy Mapping)
+## 📚 Verified Source Mapping
 
-1. **PD 1096 2004 Revised IRR (DPWH Official)** –
-   - **Rule VII** (AMBF, PSO, BHL, FLAR).
-   - **Rule VIII, Table VIII.G** (PSO, ISA, USA, TOSL for **R‑2, R‑3, R‑4, C‑2, C‑3, D, E, F, G, H**).
-   - **Pages ≈ 356 and 84** (site‑coverage and zoning‑based PSO/ISA/USA tables).
+_If you need to verify these formulas and metrics in the code, look here:_
 
-2. **PD 1096 2004 Revised IRR (Architecture Board Edition)** –
-   - **Rule VIII, Table VIII.G** (R‑2 and other zoning classes).
-   - Often used in reviewers; good for **visual pattern recognition** of the tables.
-
----
-
-## Additional Details (Deep‑Structure Retention)
-
-### 1. Mental “Flow Diagram” for Any Lot
-
-For **any lot** you see in the exam, **run this 5‑step mental script**:
-
-1. **Identify zoning (R‑2, R‑3, C‑2, C‑3, etc.)** → get **PSO, ISA, USA, TOSL** from Table VIII.G.
-2. **Compute PSO → AMBF = TLA × PSO**.
-3. **Compute ISA (max) = TLA × ISA %**.
-4. **Compute USA (min) = TLA × USA %**.
-5. **Check MACA = PSO + ISA ≤ 100% − USA** and **TOSL front area ≥ required %**.
-
----
-
-### 2. Picture‑Based Mnemonics (Educational Psychology)
-
-- **AMBF** = **red building outline** on the lot.
-- **ISA** = **gray paved areas**.
-- **USA** = **green lawn areas**.
-- **TOSL** = **wide green rectangle** at the front.
-
-When you’re anxious in the exam, **visualize the color map** before you write numbers.
-
----
-
-### 3. Spaced‑Repetition Questions (Behavioral “Practice Loop”)
-
-After studying this once, ask yourself:
-
-1. “What is the formula linking PSO and AMBF?”
-2. “If PSO = 55%, ISA = 30%, USA = 15%, what is MACA in %?”
-3. “If TLA = 400 sq.m and PSO = 70%, what is AMBF?”
-4. “If AMBF = 200 sq.m and TLA = 500 sq.m, what is PSO?”
-
-**Schedule**:
-
-- **1st recall**: Right after reading.
-- **2nd**: Before bed.
-- **3rd**: 2 days later.
-- **4th**: 1 week later.
-
-This **spaced‑repetition** pattern is known to boost **exam‑performance recall** across educational psychology studies.
-
----
-
-### 4. Error‑Prevention “Cheat‑Glance”
-
-When you’re in the exam and you’re about to start a lot‑plan computation, **scan this box**:
-
-> **“PSO % → AMBF area = TLA × PSO.”**  
-> **“ISA = paved; USA = unpaved; MACA = PSO + ISA; USA = 100 − MACA.”**  
-> **“TOSL is the front open space, usually minimally paved.”**
-
-Keep this 3‑line mantra mentally bookmarked. It’s **code‑accurate, exam‑safe, and brain‑friendly**.
+- **Rule VIII, Sec. 803:** Percentage of Site Occupancy (PSO)
+- **Rule VIII, Table VIII.1:** Reference Table of Minimum TOSL Requirements by Lot Type/Location
+- **Rule VIII, Sec. 804:** Sizes and Dimensions of Courts (Details on USA/ISA)
