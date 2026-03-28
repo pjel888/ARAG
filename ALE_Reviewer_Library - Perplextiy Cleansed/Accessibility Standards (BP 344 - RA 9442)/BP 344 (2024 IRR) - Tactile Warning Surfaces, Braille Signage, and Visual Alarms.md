@@ -1,73 +1,72 @@
-# 🏛️ BP 344 (2024 IRR): Sensory Accessibility (Tactile, Signs & Alarms)
+# 🏛️ BP 344 (2024 IRR) vs PD 1096: The "Stricter Rule" Mastery
 
-_An Immersive ALE Review Module – Built for Sensory Mastery_
+_An Immersive ALE Review Module – Built for Legislative Conflict Resolution_
 
-## 🚀 The Real-World Hook (Visualize the Fail)
+## 🚀 The Real-World Hook (The Inspector's Challenge)
 
-Imagine an architect doing a walkthrough with a client who has multiple disabilities. If a blind user can't feel the top of the stairs, or a deaf user misses the fire alarm, the building is a death trap. **BP 344 failure = an inaccessible building + an ALE score of zero.** Memorize this using the **T-B-V Framework**: Tactile, Braille, Visual.
+You’re defending your floor plans. PD 1096 (National Building Code) says your corridor is fine at **1.10 m**. But your main entrance ramp is on that same route. BP 344 says that ramp must be **1.20 m**. If you stick to 1.10 m, you’ve created a bottleneck where a wheelchair user cannot pass. **Result: Administrative fine + Board Exam failure.** **The Stricter Rule Principle**: When two laws overlap, the one that provides the _highest level of safety and accessibility_ wins. In the Philippines, BP 344 almost always "out-stricts" PD 1096 for accessible routes.
 
-## 🎯 Core Framework (The T-B-V Chunking System)
+## 🎯 Core Framework: The Legislative Hierarchy
 
-_Read this aloud twice to build auditory memory:_
+- **PD 1096 (The Baseline)**: Minimum standards for the general public (able-bodied egress).
+- **BP 344 (The Special Law)**: Targeted standards for Persons with Disabilities (PWD).
+- **The Intersection**: If a hallway is part of an "Accessible Route," it is no longer just a corridor; it is a PWD facility. BP 344 metrics take over.
 
-- **T (Tactile)**: **600 mm** deep warning blocks (feel the hazard).
-- **B (Braille/Signs)**: **1500 mm** center height, **70%** contrast.
-- **V (Visual Alarms)**: **2 Hz** max flash rate (avoid seizures).
+## 📊 The Code Clash Cheat Sheet (Contrastive Interleaving)
 
-## 📊 Sensory Specs Cheat Sheet (Schema Updating)
+_Use this table to overwrite old "General Code" memories with "Accessible Law" precision._
 
-_CRITICAL FACT-CHECK: Many old reviewers use low contrast numbers. Modern accessibility standards require a massive 70% contrast for legibility. Update your mental schema now!_
+| Feature            | PD 1096 (General Egress)     | BP 344 (2024 IRR Update)      | The ALE "Winner" 🏆         |
+| :----------------- | :--------------------------- | :---------------------------- | :-------------------------- |
+| **Clear Width**    | **1.10 m** (Occupants > 10)  | **1.20 m** (Accessible Route) | **1.20 m**                  |
+| **Max Ramp Slope** | **1:8 (12.5%)** (Sec. 1007)  | **1:15 (6.67%)** (Max Limit)  | **1:15** (Gentler is safer) |
+| **Max Run Rise**   | Not specified for egress     | **700 mm** (for 1:15 slope)   | **700 mm**                  |
+| **Max Run Length** | Not specified                | **10.50 m** (per run)         | **10.50 m**                 |
+| **Landing Length** | **1.20 m** (for stairs)      | **1.80 m** (Ramp Landings)    | **1.80 m**                  |
+| **Turning Space**  | **1.50 m** (Standard Circle) | **1.80 m** (2024 Turnabout)   | **1.80 m**                  |
 
-| Feature                   | Exact Spec                     | The "Why" (Contextual Memory)                                                | Exam Alert ⚠️                                                        |
-| :------------------------ | :----------------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| **Tactile Warning Depth** | **600 mm deep**                | Provides enough footsteps to realize a hazard (stair/ramp) is ahead.         | Must be placed one tread width back from the hazard.                 |
-| **Sign/Tactile Contrast** | **≥ 70%** Light Reflectance    | Legibility for low-vision users.                                             | **UPDATE:** 30% is a trap! 70% is the universal legibility standard. |
-| **Sign Mounting Height**  | **1500 mm AFF (Center)**       | Perfect height for a standing user's eyes or a seated user's fingertips.     | Measured to the **center** of the sign, not the bottom.              |
-| **Raised Letters**        | **15 mm to 50 mm** height      | Big enough to trace with fingers, small enough to read quickly.              | Must be accompanied by Grade 2 Braille.                              |
-| **Braille Type**          | **Grade 2 (Contracted)**       | Uses shorthand. Faster for fluent blind readers.                             | Grade 1 (letter-by-letter) is inefficient for public signs.          |
-| **Visual Alarm Flash**    | **Maximum 2 Hz** (Flashes/sec) | Alerts deaf users to emergencies without triggering photosensitive epilepsy. | Must be synchronized.                                                |
+[Image of PD 1096 egress corridor 1.10m compared to BP 344 1.20m]
 
-## 🧮 Contrast Math Concept (Conceptual Anchor)
+## ⚠️ The "Stricter Rule" Exam Traps (Error Management Training)
 
-Examiners rarely ask you to calculate Michelson contrast on the fly, but they will test the concept.
+Examiners will hide PD 1096 numbers in the multiple-choice options to see if you are "lazy-reading." **Spot these traps:**
 
-- **The Trap:** White text on a light gray wall.
-- **The Rule:** You need a **70% difference** in light reflectance between the text/symbol and the background. Dark on light, or light on dark. _When in doubt, pick the highest contrast percentage option (70%)._
+1.  **The "Corridor Width" Trap:** "What is the width of a corridor serving an occupant load of 20?"
+    - _Watch out!_ If the question _doesn't_ mention PWD or BP 344, the answer is **1.10 m**.
+    - If it mentions "Accessible Route," the answer jumps to **1.20 m**.
+2.  **The "Slope" Trap:** "A ramp is used for emergency egress only."
+    - _The Trap:_ PD 1096 allows a steep **1:8** for egress. However, if that ramp is _also_ the PWD entrance, you MUST design at **1:15** (BP 344).
+3.  **The "Landing" Trap:** An option lists "1.50 m" for a landing.
+    - _The Truth:_ 1.50m was the old BP 344 rule. The **2024 IRR** has standardized most maneuvering/landing spaces to **1.80 m**. Don't pick the "old" correct answer.
 
-## ⚠️ The Board Exam Traps (Error Management Training)
+[Image of BP 344 ramp with 1.20m clear width and 1.80m intermediate landing]
 
-Examiners prey on half-remembered facts. **Self-Test These Pitfalls Now:**
+## 🧮 Computation Drill (Dual Coding: Math + Logic)
 
-1.  **The "Contrast" Trap:** "Signage requires a minimum of 30% contrast."
-    - ❌ _False!_ 30% is nearly invisible to a low-vision user. You need **70% contrast**.
-2.  **The "Mounting Height" Trap:** "The bottom of the Braille sign is at 1500 mm."
-    - ❌ _False!_ The **CENTER** of the sign is at 1500 mm Above Finished Floor (AFF).
-3.  **The "Flash Rate" Trap:** "Visual alarms should flash rapidly at 5 Hz to grab attention."
-    - ❌ _False!_ Anything over **2 Hz** can trigger a seizure. 1 to 2 flashes per second is the strict limit.
-4.  **The "Tactile Width" Trap:** "Tactile warnings should be 300 mm deep."
-    - ❌ _False!_ 300 mm is just one foot length; a fast walker would step right over it. It must be **600 mm deep**.
+**Scenario:** You need to bridge a **1400 mm** elevation.
+
+- **Logic (PD 1096)**: At 1:8, you’d only need 11.2 meters. (Too steep for a wheelchair!)
+- **Logic (BP 344)**: At 1:15, you need **21 meters**.
+- **The Constraint**: You can only rise 700 mm per run.
+- **The Result**: You need **2 runs** of 10.5 meters + **1 intermediate landing** (1.8m) + **Top/Bottom landings** (1.8m each).
+- **Total footprint length**: 1.8 + 10.5 + 1.8 + 10.5 + 1.8 = **26.4 meters**.
 
 ## 🧠 Active Recall Battery (The Testing Effect)
 
-_Cover the answers below. Forcing your brain to retrieve the information strengthens the neural pathway._
+**Q1:** A 1:12 slope is allowed under the older BP 344 IRR. What is the maximum slope now under the 2024 IRR for a 10.5m run?
 
-**Q1:** What is the required depth of a tactile hazard warning strip at the top of a staircase?
+> **Ans:** 1:15. (1:20 is preferred).
 
-> _Ans: 600 mm._
+**Q2:** In a conflict between the National Building Code (PD 1096) and the Accessibility Law (BP 344), which one prevails for PWD routes?
 
-**Q2:** A supplier suggests a visual fire alarm that flashes 4 times per second. Do you approve it?
+> **Ans:** BP 344 (The Stricter Rule/Special Law).
 
-> _Ans: No. The maximum allowed flash rate is 2 Hz (2 flashes per second) to prevent seizures._
+**Q3:** What is the minimum clear width of a hallway that serves as an accessible route?
 
-**Q3:** What is the minimum required luminance contrast for accessible signage?
+> **Ans:** 1.20 m (Even if PD 1096 says 1.10m for general corridors).
 
-> _Ans: 70%._
-
-**Q4:** At what height should a room identification sign with Braille be mounted?
-
-> _Ans: 1500 mm above the finished floor, measured to the center of the sign._
+[Image of wheelchair turning circle 1.80m in a hallway]
 
 ## 🔗 The "Protégé Effect" Challenge
 
-You only retain 10% of what you read, but **90% of what you teach**.
-**Your next step:** Close this module. Explain to the wall (or a friend) exactly _why_ visual alarms cannot flash faster than 2 Hz, and _why_ Grade 2 Braille is used instead of Grade 1.
+Explain to a peer why a **1.10 m** corridor is "legal" for PD 1096 but "illegal" for BP 344. If you can explain the _User Intent_ (Wheelchair vs. Walking Person), you will never confuse these two numbers again.

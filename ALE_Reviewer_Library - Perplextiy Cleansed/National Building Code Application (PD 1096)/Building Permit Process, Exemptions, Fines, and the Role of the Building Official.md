@@ -39,15 +39,26 @@ _Note: The following data is strictly based on the Revised Implementing Rules an
 
 Your brain is wired to overlook nuances. Pay attention to these common ALE pitfalls:
 
-- 🚨 **TRAP #1: The "Exempt from Permit" Illusion.**
-  - _Mistake:_ Thinking traditional native houses or public buildings don't need a building permit.
-  - _Reality Check:_ They **DO** need a permit to ensure safety; they are just exempt from paying the _permit fees_. Only minor constructions and basic repairs are exempt from the permit itself.
-- 🚨 **TRAP #2: Confusing Fines with Penalties.**
-  - _Mistake:_ Thinking a Grave Violation fine is ₱20,000+.
-  - _Reality Check:_ Administrative fines issued by the OBO cap at ₱10,000 (Grave). The ₱20,000 figure is a _Penal Sanction_ (criminal charge) decided by a court.
-- 🚨 **TRAP #3: The 15-Day Rule Starting Line.**
-  - _Mistake:_ Assuming you get your permit 15 days after submitting plans.
-  - _Reality Check:_ The 15-day countdown only begins _after_ you have passed compliance checks and **paid the fees**.
+- 🚨 TRAP #1: The "Exempt from Permit" Illusion.
+  - Mistake: Thinking traditional native houses or public buildings don't need a building permit.
+  - Reality Check: They DO need a permit to ensure safety; they are just exempt from paying the permit fees. Only minor constructions and basic repairs are exempt from the permit itself.
+
+- 🚨 TRAP #2: Confusing Fines with Penalties.
+  - Mistake: Thinking a Grave Violation fine is ₱20,000+.
+  - Reality Check: Administrative fines issued by the OBO cap at ₱10,000 (Grave). The ₱20,000 figure is a Penal Sanction (criminal charge) decided by a court.
+
+- 🚨 TRAP #3: The 15-Day Rule Starting Line.
+  - Mistake: Assuming you get your permit 15 days after submitting plans.
+  - Reality Check: The 15-day countdown only begins after you have passed compliance checks and paid the fees.
+
+- 🚨 TRAP #4: The 1-Year Expiration.
+  - A building permit becomes null and void if:
+    1. Construction does not commence within one (1) year from the date of issue.
+    2. Construction is suspended or abandoned for a period of 120 days.
+
+- 🚨 TRAP #5: The "Public Building" Myth.
+  - Mistake: Thinking government-owned buildings (like City Halls) skip the OBO.
+  - Reality Check: They still undergo the full permit process for safety; they are simply exempt from paying the permit fees.
 
 ---
 
