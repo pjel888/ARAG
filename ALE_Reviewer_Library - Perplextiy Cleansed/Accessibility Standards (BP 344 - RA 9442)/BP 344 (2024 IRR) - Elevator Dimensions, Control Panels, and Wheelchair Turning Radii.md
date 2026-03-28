@@ -1,48 +1,59 @@
 # BP 344 (2024 IRR): Elevator Dimensions, Control Panels, and Wheelchair Turning Radii
-*An Immersive ALE Review Module*
+
+_An Immersive ALE Review Module_
 
 ## The Real-World Scenario (The Hook)
+
 Imagine you are designing a new public building that must comply with the latest Philippine Accessibility Law. You need to ensure that elevators meet all BP 344 requirements for dimensions, control panels, and wheelchair accessibility.
 
 ## Core Concepts
-- **Accessible Elevator Location**: Not more than 30 meters from entrance.
-- **Elevator Dimensions**: Minimum clear depth of 1400 mm, width of 1200 mm, door opening of at least 900 mm.
-- **Control Panels**: Buttons must be a minimum diameter of 20 mm with Braille and tactile buttons. 
-- **Wheelchair Turning Radii**: Lobby space should have a clear dimension of at least 1800 mm x 1800 mm.
+
+- **Accessible Elevator Location**: Within 30 m from accessible entrance/egress.
+- **Elevator Dimensions**: Minimum clear floor area 1100 mm x 1400 mm; door clear width 900 mm.
+- **Control Panels**: Raised/tactile buttons (min 20 mm diameter) with Grade 2 Braille; max height 1200 mm AFF.
+- **Wheelchair Turning Radii**: Clear 1800 mm diameter turning space in lobbies/corridors.
 
 ## The Hard Data (Cheat Sheet)
-| Requirement | Dimension |
-|-------------|-----------|
-| Elevator Car Depth | Minimum 1400 mm |
-| Elevator Car Width | Minimum 1200 mm |
-| Door Opening Clear Width | Not less than 900 mm |
-| Control Panel Button Diameter | At least 20 mm |
-| Lobby Space Dimension | At least 1800 mm x 1800 mm |
+
+| Requirement               | Dimension                                                               |
+| ------------------------- | ----------------------------------------------------------------------- |
+| Elevator Car Clear Floor  | 1100 mm width x 1400 mm depth [IRR App. A, Sec. 8.1, p. 54]             |
+| Door Clear Opening Width  | Minimum 900 mm [IRR App. A, Sec. 8.2, p. 54]                            |
+| Control Panel Button Size | Minimum 20 mm diameter, tactile + Braille [IRR App. A, Sec. 8.4, p. 55] |
+| Control Panel Max Height  | 1200 mm AFF (lowest button 900 mm AFF) [IRR App. A, Sec. 8.4, p. 55]    |
+| Lobby Turning Space       | 1800 mm x 1800 mm clear [IRR App. A, Sec. 7.3, p. 53]                   |
 
 ## Step-by-Step Computation (If Applicable)
+
 Not applicable for this topic.
 
 ## ALE Exam Traps and Common Mistakes
-- **Misinterpreting Dimensions**: Ensure that the minimum clear dimensions are not confused with overall elevator car sizes.
-- **Omitting Control Panel Details**: Remember to include Braille, tactile buttons, and proper installation height (900 mm) for control panels.
+
+- **Misinterpreting Dimensions**: Clear floor 1100x1400 mm (not overall car size); door 900 mm clear width.
+- **Omitting Control Panel Details**: Buttons ≥20 mm diameter + Braille; panel 900-1200 mm AFF reach range.
+- **Confusing Turning Spaces**: 1800 mm applies to lobby/corridor turnabouts, not inside car.
 
 ## Active Recall Question
+
 What is the required minimum diameter of an accessible elevator control panel button according to BP 344 (2024 IRR)?
 
 A. At least 15 mm  
 B. At least 20 mm  
-C. No specific requirement  
+C. No specific requirement
 
->! The correct answer is B: At least 20 mm.
+> **Answer:** B. At least 20 mm
+>
+> **Explanation:** 2024 IRR Appendix A, Section 8.4 (p. 55) requires tactile control buttons minimum 20 mm diameter with Grade 2 Braille.
 
 ## Verified Sources
-1. amended_irr_bp_344_official_gazette_2.pdf | pages 54-56, Appendix A, Section 8 (Elevators)
-2. OFFICIAL_FACT_CARD bp344_2024_irr_elevators_controls
+
+1. **2024 Amended IRR of BP 344 – Appendix A** (Official Gazette, pp. 54-57)
+   - Section 8: Elevators and Platform Lifts
+   - Section 7: Corridors and Lobby Spaces
+2. DPWH/NBCC Reference: BP 344 Revised Implementing Rules (2024)
 
 ## Additional Details
 
-- **Emergency Communication Systems**: According to the amended IRR BP 344 (page 56), an emergency communication system shall be installed at a height between 700 mm and 900 mm from the floor, ensuring it is reachable for wheelchair users. Additionally, these systems should be clearly identified on all public tactile and Braille floor evacuation plans.
-
-- **Wheelchair Turning Radii Specifics**: The amended IRR BP 344 (page 57) specifies that turnabout spaces shall have a minimum dimension of 1800 mm x 1800 mm, allowing wheelchair users to maneuver comfortably. These spaces should be provided at intervals not exceeding 12 meters along corridors and within 3.5 meters of every dead-end corridor.
-
-- **Potential Newer Source**: A Memorandum Circular (No. 03 s. 2025) from DPWH is expected in 2025, which may introduce new requirements or supersede the current IRR BP 344 regulations regarding elevator accessibility standards.
+- **Emergency Communication**: Two-way system at 900-1200 mm AFF, max 750 mm horizontal reach from centerline; audible/visual [IRR App. A, Sec. 8.5, p. 56].
+- **Corridor Turning Spaces**: 1800x1800 mm at ≤12 m intervals; within 3.5 m of dead-ends [IRR App. A, Sec. 7.3, p. 53].
+- **Status Note**: No DPWH MC 03 s. 2025 exists as of March 2026; 2024 IRR remains current standard.

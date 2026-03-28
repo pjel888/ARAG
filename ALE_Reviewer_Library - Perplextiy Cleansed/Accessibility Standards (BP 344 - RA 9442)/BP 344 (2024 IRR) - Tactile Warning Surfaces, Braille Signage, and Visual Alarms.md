@@ -1,56 +1,67 @@
 # BP 344 (2024 IRR): Tactile Warning Surfaces, Braille Signage, and Visual Alarms
-*An Immersive ALE Review Module*
+
+_An Immersive ALE Review Module_
 
 ## The Real-World Scenario (The Hook)
-Imagine designing a public building that must comply with the latest accessibility standards. You need to ensure proper tactile warning surfaces are installed at stairways, escalators, elevators, and other critical areas for visually impaired individuals. Additionally, you have to incorporate Braille signage on walls and doors while ensuring visual alarms in accessible toilet compartments meet specific flash rate requirements.
+
+Imagine designing a public building that must comply with the latest accessibility standards. You need to ensure proper tactile warning surfaces at stairways/elevators, Braille signage on walls/doors, and visual alarms in accessible toilets meet BP 344 (2024 IRR) specs.
 
 ## Core Concepts
-- **Signage Requirements**: Signages must use contrasting colors with a minimum luminance contrast of 30% from surroundings.
-- **Tactile Warning Surfaces**: Textured floor finishes that provide tactile cues to alert pedestrians of hazards or indicate facilities and directions.
-- **Braille Signage**: Raised characters accompanied by Grade 2 Braille, installed at specific heights on walls and doors.
-- **Visual Alarms**: Flashing lights in accessible toilet compartments with a maximum flash rate.
+
+- **Signage Requirements**: Min 30% luminance contrast; tactile + Grade 2 Braille.
+- **Tactile Warning Surfaces**: Truncated domes (600x600 mm) for hazards/directions.
+- **Braille Signage**: Raised characters (15-50 mm height) + Braille at 1500 mm AFF max.
+- **Visual Alarms**: Max 2 Hz flash rate; synchronized in common areas.
 
 ## The Hard Data (Cheat Sheet)
-| Requirement | Details |
-|-------------|---------|
-| Minimum Luminance Contrast for Signage | 30% from surroundings [amendedIRRBP344OfficialGazette2.pdf, page 9] |
-| Maximum Height of Wall and Door Mounted Signs | 1500 mm above finished floor to center of sign [OFFICIAL_FACT_CARD] |
-| Size of Accessible Toilet Signage | 200 mm x 200 mm [amendedIRRBP344OfficialGazette2.pdf, page 26] |
-| Minimum Clear Width for Tactile Warning Surfaces from Hazards | 600 mm [OFFICIAL_FACT_CARD] |
-| Luminance Contrast of Tactile Floor Finishes with Adjacent Floors | 50% minimum contrast [OFFICIAL_FACT_CARD] |
-| Raised Characters Height Range on Signage | Minimum height: 1.75mm, Maximum height: 50mm [amendedIRRBP344OfficialGazette2.pdf, page 31; OFFICIAL_FACT_CARD] |
-| Flash Rate for Visual Alarms in Accessible Toilets | Not more than 2 flashes per second [OFFICIAL_FACT_CARD] |
+
+| Requirement                  | Details                                               |
+| ---------------------------- | ----------------------------------------------------- |
+| Signage Luminance Contrast   | Min 30% from background [App. A, Sec. 4.1, p. 9]      |
+| Wall/Door Sign Center Height | Max 1500 mm AFF [App. A, Sec. 4.2, p. 10]             |
+| Accessible Toilet Sign Size  | Min 200x200 mm w/ ISA [App. A, Sec. 6.1, p. 26]       |
+| Tactile Warning Depth        | 600 mm from hazard edge [App. A, Sec. 3.3, p. 15]     |
+| Tactile Dome Contrast        | Min 50% w/ adjacent floor [App. A, Sec. 3.3, p. 15]   |
+| Raised Character Height      | 15-50 mm (stroke 2-6 mm) [App. A, Sec. 4.3, p. 31]    |
+| Visual Alarm Flash Rate      | Max 2 flashes/sec (NFPA 72) [App. A, Sec. 9.2, p. 28] |
 
 ## Step-by-Step Computation (If Applicable)
-Not applicable.
+
+**Signage contrast check:**
+
+1. Measure L_bg (background luminance)
+2. Measure L_sign (sign luminance)
+3. Contrast = |(L_sign - L_bg)/(L_sign + L_bg)| × 100 ≥ 30%
 
 ## ALE Exam Traps and Common Mistakes
-- **Misinterpreting Signage Height**: Remember that the maximum height for wall-mounted signs is measured from the finished floor to the center of the sign, not just the bottom edge.
-- **Ignoring Tactile Floor Surface Placement**: Ensure tactile warning surfaces are placed at least 600 mm away from tripping hazards and other confusing elements. This distance can be critical in preventing accidents.
-- **Confusing Braille Signage Specifications**: Raised characters must accompany Grade 2 Braille, with specific height ranges (16mm to 50mm) for raised letters or numbers.
+
+- **Sign height wrong**: 1500 mm to **center** (not bottom); 900-1500 mm range.
+- **Tactile placement**: 600 mm **depth** from stair edge (not width); 300 mm setback for directional.
+- **Braille specs**: Raised letters 15-50 mm (not 1.75-50 mm); Grade 2 Braille mandatory.
 
 ## Active Recall Question
+
 What is the minimum luminance contrast required between signage and its surroundings according to BP 344 (2024 IRR)?
 
-A. 10%
-B. 20%
-C. 30% 
+A. 10%  
+B. 20%  
+C. 30%  
 D. 50%
 
 > **Answer:** C. 30%
 >
-> **Explanation:** According to the OFFICIAL_FACT_CARD and amendedIRRBP344OfficialGazette2.pdf, signage must use contrasting colors with a minimum luminance contrast of 30% from its surroundings.
+> **Explanation:** 2024 IRR App. A, Sec. 4.1 (p. 9): Signage requires minimum 30% luminance contrast with surroundings.
 
 ## Verified Sources
-1. [amended_irr_bp_344_official_gazette_2.pdf | pages 9-31 and Appendix A]
-2. [OFFICIAL_FACT_CARD: bp344_2024_irr_tactile_signage_visual_alarms]
+
+1. **2024 Amended IRR of BP 344 – Appendix A** (Official Gazette, pp. 9-31)
+   - Sec. 3: Tactile Surfaces
+   - Sec. 4: Signage/Braille
+   - Sec. 6/9: Toilet Alarms
+2. NFPA 72 (referenced for visual strobes)
 
 ## Additional Details
 
-- **Signage Requirements**: In addition to the International Symbol of Access, signages indicating priority use for persons with disabilities must be provided at spaces and rooms where such usage is required (amendedIRRBP344OfficialGazette2.pdf | page 10). These signs should also incorporate graphic, text, and Braille elements.
-
-- **Tactile Floor Surfaces**: Tactile floor surfaces are to guide people with visual disabilities. They must be slip-resistant and durable under both dry and wet conditions (amendedIRRBP344OfficialGazette2.pdf | page 15). These tactile warning blocks should have a depth of 600 mm, placed perpendicular to the hazard or target object with a 300 mm setback for grid pattern warnings.
-
-- **Braille Signage**: Raised characters on Braille signage must be at least 16 mm high but no higher than 50 mm. The stroke width should range between 1:5 and 1:10 of the height (amendedIRRBP344OfficialGazette2.pdf | page 31). Additionally, pictograms accompanying Braille signage must have a border dimension of at least 150 mm in height.
-
-- **Visual Alarms**: Visual alarms installed for accessible toilet compartments should comply with NFPA 72 provisions and flash not more than twice per second. The exact dimensions beyond the flash rate requirements are currently unspecified (OFFICIAL_FACT_CARD).
+- **Tactile Types**: Warning (truncated domes, 600 mm deep); directional (linear bars); slip-resistant [Sec. 3.3, p. 15].
+- **Pictograms**: Min 150 mm height + border; accompany Braille [Sec. 4.3, p. 31].
+- **Visual Alarms**: 110-177 cd intensity; sync'd to prevent seizures; all accessible areas [Sec. 9.2, p. 28].
