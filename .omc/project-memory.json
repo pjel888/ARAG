@@ -1,0 +1,125 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1774624208886,
+  "projectRoot": "c:\\Users\\Philip Lewis\\Desktop\\Local RAG",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "ALE_Reviewer_Library": {
+      "path": "ALE_Reviewer_Library",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1774624208858,
+      "keyFiles": []
+    },
+    "Archives": {
+      "path": "Archives",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1774624208859,
+      "keyFiles": [
+        "automated_ale_writer - V1.py",
+        "automated_ale_writer - v2.py",
+        "bulk_convert.py",
+        "rag_article_writer.py"
+      ]
+    },
+    "canonical_facts": {
+      "path": "canonical_facts",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1774624208859,
+      "keyFiles": [
+        "README.md"
+      ]
+    },
+    "chroma_db": {
+      "path": "chroma_db",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1774624208860,
+      "keyFiles": [
+        "chroma.sqlite3"
+      ]
+    },
+    "RAG - ALE ARCHITECTURE BOARD EXAM": {
+      "path": "RAG - ALE ARCHITECTURE BOARD EXAM",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1774624208861,
+      "keyFiles": [
+        "CHED CMO 61 Series 2017 - BS Architecture Curriculum Standards.pdf",
+        "CODES-AND-LAWS-GAP-ANALYSIS.md",
+        "PRC ALE Syllabi - Official Board of Architecture Exam Coverage.pdf",
+        "RAG-MATERIALS-AUDIT-REPORT.md",
+        "SYLLABI-CROSSREF-AND-REMAINING-GAPS.md"
+      ]
+    },
+    "venv": {
+      "path": "venv",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1774624208861,
+      "keyFiles": [
+        "pyvenv.cfg"
+      ]
+    },
+    "__pycache__": {
+      "path": "__pycache__",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1774624208862,
+      "keyFiles": [
+        "ale_canonical_facts.cpython-312.pyc",
+        "ale_memory_store.cpython-312.pyc",
+        "ale_memory_store.cpython-314.pyc",
+        "automated_ale_writer.cpython-312.pyc",
+        "automated_ale_writer.cpython-314.pyc"
+      ]
+    },
+    "venv\\Lib": {
+      "path": "venv\\Lib",
+      "purpose": "Library code",
+      "fileCount": 0,
+      "lastAccessed": 1774624208864,
+      "keyFiles": []
+    },
+    "venv\\Scripts": {
+      "path": "venv\\Scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 71,
+      "lastAccessed": 1774624208864,
+      "keyFiles": [
+        "accelerate-config.exe",
+        "accelerate-estimate-memory.exe",
+        "accelerate-launch.exe"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

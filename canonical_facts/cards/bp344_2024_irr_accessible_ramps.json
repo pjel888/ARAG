@@ -1,0 +1,33 @@
+{
+  "card_id": "bp344_2024_irr_accessible_ramps",
+  "priority": 100,
+  "required_terms": [
+    "bp 344",
+    "2024",
+    "ramp",
+    "1:20",
+    "1:15"
+  ],
+  "content": "AUTHORITY: PRIMARY OFFICIAL\nSOURCE: amended_irr_bp_344_official_gazette_2.pdf | page 17 | Appendix A, 1.2(b), Table A.1.1, and 1.2(d)\nCANONICAL FACTS:\n- Gradient not steeper than 1:20. Steeper gradients may be allowed in special cases depending on the length to be covered.\n- Table A.1.1 fields reconstructed from the official text are:\n  Maximum Slope | Maximum Length | Maximum Rise | Interval for Landing\n  1:20 | - | - | 15m\n  1:15 | 10.50m | 700mm | 10m\n- Accessible ramps with a total length longer than 10.50m shall be provided with intermediate landings with a minimum length of 1800 mm.\n- This official source page does not list a 1:12 row in Table A.1.1.\nUSE RULES:\n- Treat this card as binding unless another PRIMARY OFFICIAL source in the provided context clearly supersedes it.\n- Do not replace the 1:15 values above with alternative values unless another PRIMARY OFFICIAL 2024 source in the provided context explicitly states them.\n- If no other PRIMARY OFFICIAL source supplies a 1:12 accessible-ramp value, say the provided context does not contain it.",
+  "overclaim_terms": [
+    "1:12"
+  ],
+  "title_guardrail_content": "TITLE_OVERCLAIM_GUARDRAIL:\n- The topic title includes 1:12, but the matched PRIMARY OFFICIAL 2024 ramp source does not list a 1:12 row in Table A.1.1.\n- The article must explicitly state that the official 2024 ramp table on the cited page does not list a 1:12 row.\n- If discussing 1:12, clearly label it as outside the matched official 2024 table unless another PRIMARY OFFICIAL source in the provided context supports it.",
+  "required_acknowledgement_groups": [
+    [
+      "1:12"
+    ],
+    [
+      "does not list",
+      "not listed",
+      "does not contain",
+      "not shown",
+      "unconfirmed"
+    ],
+    [
+      "table a.1.1",
+      "official 2024 ramp table",
+      "official 2024 table"
+    ]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "card_id": "bp344_2024_irr_ramps_and_corridors_conflict_anchor",
+  "priority": 100,
+  "required_terms": [
+    "bp 344",
+    "pd 1096",
+    "ramp",
+    "corridor"
+  ],
+  "content": "AUTHORITY: PRIMARY OFFICIAL\nSOURCE: amended_irr_bp_344_official_gazette_2.pdf | pages 17-18 and 49 | Appendix A, 1. Accessible Ramps; Section C, 5. Corridors\nCANONICAL FACTS:\n- Under BP 344 (2024 IRR), accessible ramps shall have a minimum clear width of 1200 mm.\n- Ramp gradient shall not be steeper than 1:20, with Table A.1.1 giving a 1:15 special-case row of 10.50 m maximum length, 700 mm maximum rise, and 10 m interval for landing.\n- Accessible ramps with a total length longer than 10.50 m shall be provided with intermediate landings with a minimum length of 1800 mm.\n- Provide a level area not less than 1800 mm at the upper and lower ends of any ramp.\n- Corridors shall have a minimum clear width of 1500 mm to allow a wheelchair user and a person without disabilities to pass.\n- Turnabout spaces in corridors shall be 1800 mm x 1800 mm, spaced at a maximum of 12000 mm, and provided at or within 3500 mm of every dead-end corridor.\nUSE RULES:\n- This card anchors the BP 344 side of comparison topics involving BP 344 and PD 1096.\n- Do not attribute any PD 1096 rule, exception, or dimension to this card. Any conflict resolution must separately cite PRIMARY OFFICIAL PD 1096 text."
+}

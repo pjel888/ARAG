@@ -1,0 +1,10 @@
+{
+  "card_id": "bp344_2024_irr_parking_and_maneuvering",
+  "priority": 100,
+  "required_terms": [
+    "wheelchair",
+    "parking slots",
+    "passing spaces"
+  ],
+  "content": "AUTHORITY: PRIMARY OFFICIAL\nSOURCE: amended_irr_bp_344_official_gazette_2.pdf | pages 22-24 and 49 | Appendix A, 6. Parking; Section C, 5. Corridors\nCANONICAL FACTS:\n- Accessible parking slot requirements are: 1 slot for 1-25 parking spaces, 2 for 26-50, 3 for 51-75, 4 for 76-100, 5 for 101-150, 6 for 151-200, 7 for 201-300, 8 for 301-400, 9 for 401-500, 2% of total for 501-1000, and 20 plus 1 for each 100 or fraction thereof over 1000.\n- An accessible parking slot shall have a minimum width of 4000 mm and a length of 5000 mm.\n- Provide a walkway with a minimum clear width of 1200 mm between the front ends of parked cars.\n- Accessible parking slots shall be located nearest accessible main entrances and, in multi-story indoor parking structures, right next to accessible elevators or as close as possible to accessible pedestrian entrances.\n- Accessible parking slots shall never be located in ramped or sloping areas.\n- Pole-mounted parking signage shall be 600 mm x 600 mm and mounted at a minimum clear height of 2200 mm from the parking floor.\n- The pavement sign shall be a square at least 1000 mm and not more than 1500 mm, centered in the accessible parking space, using the International Symbol of Access.\n- Corridors shall have a minimum clear width of 1500 mm to allow a wheelchair user and a person without disabilities to pass.\n- Turnabout spaces shall be 1800 mm x 1800 mm, spaced at a maximum of 12000 mm, and provided at or within 3500 mm of every dead-end corridor.\nUSE RULES:\n- Use this card for BP 344 parking-dimension, wheelchair-maneuvering, and passing-space topics before relying on older review notes or non-official summaries.\n- Keep accessible parking dimensions distinct from corridor passing and turnabout requirements; do not collapse them into a single generic width value."
+}
